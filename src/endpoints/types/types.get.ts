@@ -9,3 +9,14 @@ export async function list(req: Request, res: Response) {
     return res.boom.badRequest(error);
   }
 }
+
+export async function listForTournament(req: Request, res: Response) {
+  const { trainerNames } = req.query;
+  try {
+    const types = await TypeDao.findTypesForTrainers(trainerNames);
+    return res.status(200).json(types);
+  } catch (error) {
+    console.log(error);
+    return res.boom.badRequest(error);
+  }
+}

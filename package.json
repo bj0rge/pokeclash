@@ -73,10 +73,5 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "license": "SEE LICENSE IN LICENSE.md",
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  }
+  "license": "SEE LICENSE IN LICENSE.md"
 }

@@ -1,4 +1,5 @@
 import { Sequelize } from 'sequelize';
+import { operatorsAliases } from './config/operators';
 
 const config = require('../config/config.json');
 
@@ -9,6 +10,7 @@ const sequelize = new Sequelize(
     dbConfig['password'],
     {
         ...dbConfig,
+        operatorsAliases,
         logging: dbConfig.logging ? console.log : false,
     },
 );

@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "",
+    "database": "pokeclash",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres",
+    "logging": false,
+    "force": true,
+    "timezone": "+00:00"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "",
+    "database": "pokeclashTest",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres",
+    "logging": false,
+    "force": true,
+    "timezone": "+00:00"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "app",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres",
+    "logging": false,
+    "force": true,
+    "timezone": "+00:00"
+  }
+}

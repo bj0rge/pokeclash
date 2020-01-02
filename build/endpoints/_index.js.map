@@ -1,0 +1,1 @@
+{"version":3,"sources":["endpoints/_index.ts"],"names":[],"mappings":";;AAAA,yDAAyD;AAGhD,gDAAkB;AAF3B,uDAAuD;AAE1B,8CAAiB","file":"_index.js","sourcesContent":["import * as LanguageController from './languages/_index';\r\nimport * as AppUserController from './appusers/_index';\r\n\r\nexport { LanguageController, AppUserController };\r\n"],"sourceRoot":"../../src"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["dao/_index.ts"],"names":[],"mappings":";;AAAA,4CAA4C;AAGnC,oCAAY;AAFrB,yCAAyC;AAGhC,gCAAU","file":"_index.js","sourcesContent":["import * as LanguagesDao from './languages';\r\nimport * as AppUserDao from './appusers';\r\n\r\nexport { LanguagesDao };\r\nexport { AppUserDao };\r\n"],"sourceRoot":"../../src"}

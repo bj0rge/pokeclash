@@ -30,6 +30,6 @@ export function login(appUser: any): Promise<any> {
         email: appUser.email,
         pwd: appUser.pwd,
       },
-      include: [Language],
+      include: [{ model: Language, as: 'language' }],
     });
 }

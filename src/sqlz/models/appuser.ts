@@ -19,9 +19,18 @@ AppUser.init(
         email: STRING(50),
         pwd: STRING(50),
     },
-    { sequelize, modelName: 'AppUser' },
+    {
+        sequelize,
+        modelName: 'appUser',
+        tableName: 'AppUsers',
+        name: {
+            singular: 'appUser',
+            plural: 'appUsers',
+        },
+    },
 );
 
 AppUser.belongsTo(Language, {
     foreignKey: 'languageId',
+    as: 'language',
 });

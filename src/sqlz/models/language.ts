@@ -18,7 +18,15 @@ Language.init(
         label: STRING(255),
         name: STRING(50),
     },
-    { sequelize, modelName: 'Language' },
+    {
+        sequelize,
+        modelName: 'language',
+        tableName: 'Languages',
+        name: {
+            singular: 'language',
+            plural: 'languages',
+        },
+    },
 );
 
 

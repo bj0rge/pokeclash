@@ -33,8 +33,8 @@ Type.belongsToMany(
   {
     through: Weakness,
     as: 'typeEfficiencies',
-    foreignKey: 'offensiveTypeId',
-    otherKey: 'defensiveTypeId',
+    foreignKey: 'defensiveTypeId',
+    otherKey: 'offensiveTypeId',
   },
 );
 

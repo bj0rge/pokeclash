@@ -1,38 +1,38 @@
 import { Request, Response } from 'express';
+import * as Joi from 'joi';
 import { AppUserDao } from '../../dao/_index';
 
-export function create(req: Request, res: Response) {
+const userSchema = Joi.object().keys({
+  pwd: Joi.string().required(),
+  email: Joi.string().email().required(),
+});
 
-    req.checkBody('pwd', 'Password is required').notEmpty();
-    req.checkBody('email', 'Email is required').notEmpty();
-    req.checkBody('email', 'A valid email is required').isEmail();
+export async function create(req: Request, res: Response) {
+  const { error: validationError } = Joi.validate(userSchema);
 
-    req.getValidationResult()
-        .then(function(result) {
-            if (result.isEmpty()) {
-                return AppUserDao.create(req.body)
-                    .then(appuser => res.status(201).send(appuser))
-                    .catch(error => res.boom.badRequest(error));
-            } else {
-                res.boom.badRequest('Validation errors', result.mapped());
-            }
-        });
+  if (validationError) {
+    return res.boom.badRequest('Validation errors', validationError.message);
+  }
+
+  try {
+    const appUser = await AppUserDao.create(req.body);
+    return res.status(201).json(appUser);
+  } catch (error) {
+    return res.boom.badRequest(error);
+  }
 }
 
-export function login(req: Request, res: Response) {
+export async function login(req: Request, res: Response) {
+  const { error: validationError } = Joi.validate(userSchema);
 
-    req.checkBody('pwd', 'Password is required').notEmpty();
-    req.checkBody('email', 'Email is required').notEmpty();
-    req.checkBody('email', 'A valid email is required').isEmail();
+  if (validationError) {
+    return res.boom.badRequest('Validation errors', validationError.message);
+  }
 
-    req.getValidationResult()
-        .then(function(result) {
-            if (result.isEmpty()) {
-                return AppUserDao.login(req.body);
-            } else {
-                res.boom.badRequest('Validation errors', result.mapped());
-            }
-        })
-        .then(appuser => res.status(200).send(appuser))
-        .catch(error => res.boom.badRequest(error));
+  try {
+    const appUser = await AppUserDao.login(req.body);
+    return res.status(200).json(appUser);
+  } catch (error) {
+    return res.boom.badRequest(error);
+  }
 }

@@ -1,18 +1,19 @@
 {
-  "name": "typescript-express-sequelize",
-  "version": "2.0.1",
-  "description": "Sample project with Express + Sequelize + Typescript",
-  "homepage": "https://github.com/maximegris/typescript-express-sequelize",
+  "name": "pokeclash",
+  "version": "0.0.1",
+  "description": "Website to randomly assign pokemon types to trainers for a tournament",
+  "homepage": "https://github.com/bj0rge/pokeclash",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Bastien Jorge",
+    "email": "bastien.jorge@gmail.com"
   },
   "main": "build/src/server.js",
   "keywords": [
     "Node",
     "Express",
     "Typescript",
-    "Sequelize"
+    "Sequelize",
+    "Pokemon"
   ],
   "scripts": {
     "build": "gulp build",

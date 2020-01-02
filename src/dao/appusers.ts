@@ -4,32 +4,32 @@ import { Language } from '../sqlz/models/language';
 
 export function create(appUser: any): Promise<any> {
 
-    return Language.findOne({
-        where: { name: 'fr' },
-    })
-        .then(language => {
-            return AppUser
-                .create({
-                    id: uuid.v1(),
-                    email: appUser.email,
-                    pwd: appUser.pwd,
-                    languageId: language.get('id'),
-                });
+  return Language.findOne({
+    where: { name: 'fr' },
+  })
+    .then(language => {
+      return AppUser
+        .create({
+          id: uuid.v1(),
+          email: appUser.email,
+          pwd: appUser.pwd,
+          languageId: language.get('id'),
         });
+    });
 }
 
 export function findAll(): Promise<any> {
-    return AppUser
-        .findAll({ include: [{ all: true }] });
+  return AppUser
+    .findAll({ include: [{ all: true }] });
 }
 
 export function login(appUser: any): Promise<any> {
-    return AppUser
-        .findOne({
-            where: {
-                email: appUser.email,
-                pwd: appUser.pwd,
-            },
-            include: [Language],
-        });
+  return AppUser
+    .findOne({
+      where: {
+        email: appUser.email,
+        pwd: appUser.pwd,
+      },
+      include: [Language],
+    });
 }

@@ -1,0 +1,3629 @@
+[
+  {
+    "galarNb": "001",
+    "nationalNb": "810",
+    "imgUrl": "https://www.pokepedia.fr/images/9/92/Miniature_810_EB.png",
+    "frName": "Ouistempo",
+    "url": "https://www.pokepedia.fr/Ouistempo",
+    "enName": "Grookey",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "002",
+    "nationalNb": "811",
+    "imgUrl": "https://www.pokepedia.fr/images/a/ac/Miniature_811_EB.png",
+    "frName": "Badabouin",
+    "url": "https://www.pokepedia.fr/Badabouin",
+    "enName": "Thwackey",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "003",
+    "nationalNb": "812",
+    "imgUrl": "https://www.pokepedia.fr/images/5/5c/Miniature_812_EB.png",
+    "frName": "Gorythmic",
+    "url": "https://www.pokepedia.fr/Gorythmic",
+    "enName": "Rillaboom",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "004",
+    "nationalNb": "813",
+    "imgUrl": "https://www.pokepedia.fr/images/7/73/Miniature_813_EB.png",
+    "frName": "Flambino",
+    "url": "https://www.pokepedia.fr/Flambino",
+    "enName": "Scorbunny",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "005",
+    "nationalNb": "814",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b7/Miniature_814_EB.png",
+    "frName": "Lapyro",
+    "url": "https://www.pokepedia.fr/Lapyro",
+    "enName": "Raboot",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "006",
+    "nationalNb": "815",
+    "imgUrl": "https://www.pokepedia.fr/images/5/52/Miniature_815_EB.png",
+    "frName": "Pyrobut",
+    "url": "https://www.pokepedia.fr/Pyrobut",
+    "enName": "Cinderace",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "007",
+    "nationalNb": "816",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e9/Miniature_816_EB.png",
+    "frName": "Larméléon",
+    "url": "https://www.pokepedia.fr/Larm%C3%A9l%C3%A9on",
+    "enName": "Sobble",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "008",
+    "nationalNb": "817",
+    "imgUrl": "https://www.pokepedia.fr/images/8/81/Miniature_817_EB.png",
+    "frName": "Arrozard",
+    "url": "https://www.pokepedia.fr/Arrozard",
+    "enName": "Drizzile",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "009",
+    "nationalNb": "818",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f6/Miniature_818_EB.png",
+    "frName": "Lézargus",
+    "url": "https://www.pokepedia.fr/L%C3%A9zargus",
+    "enName": "Inteleon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "010",
+    "nationalNb": "824",
+    "imgUrl": "https://www.pokepedia.fr/images/3/3d/Miniature_824_EB.png",
+    "frName": "Larvadar",
+    "url": "https://www.pokepedia.fr/Larvadar",
+    "enName": "Blipbug",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "011",
+    "nationalNb": "825",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9c/Miniature_825_EB.png",
+    "frName": "Coléodôme",
+    "url": "https://www.pokepedia.fr/Col%C3%A9od%C3%B4me",
+    "enName": "Dottler",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "012",
+    "nationalNb": "826",
+    "imgUrl": "https://www.pokepedia.fr/images/7/75/Miniature_826_EB.png",
+    "frName": "Astronelle",
+    "url": "https://www.pokepedia.fr/Astronelle",
+    "enName": "Orbeetle",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "013",
+    "nationalNb": "010",
+    "imgUrl": "https://www.pokepedia.fr/images/1/11/Miniature_010_LGPE.png",
+    "frName": "Chenipan",
+    "url": "https://www.pokepedia.fr/Chenipan",
+    "enName": "Caterpie",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "014",
+    "nationalNb": "011",
+    "imgUrl": "https://www.pokepedia.fr/images/a/af/Miniature_011_LGPE.png",
+    "frName": "Chrysacier",
+    "url": "https://www.pokepedia.fr/Chrysacier",
+    "enName": "Metapod",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "015",
+    "nationalNb": "012",
+    "imgUrl": "https://www.pokepedia.fr/images/5/5e/Miniature_012_EB.png",
+    "frName": "Papilusion",
+    "url": "https://www.pokepedia.fr/Papilusion",
+    "enName": "Butterfree",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "016",
+    "nationalNb": "736",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ee/Miniature_736_EB.png",
+    "frName": "Larvibule",
+    "url": "https://www.pokepedia.fr/Larvibule",
+    "enName": "Grubbin",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "017",
+    "nationalNb": "737",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a8/Miniature_737_EB.png",
+    "frName": "Chrysapile",
+    "url": "https://www.pokepedia.fr/Chrysapile",
+    "enName": "Charjabug",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "018",
+    "nationalNb": "738",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a3/Miniature_738_EB.png",
+    "frName": "Lucanon",
+    "url": "https://www.pokepedia.fr/Lucanon",
+    "enName": "Vikavolt",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "019",
+    "nationalNb": "163",
+    "imgUrl": "https://www.pokepedia.fr/images/7/78/Miniature_163_EB.png",
+    "frName": "Hoothoot",
+    "url": "https://www.pokepedia.fr/Hoothoot",
+    "enName": "Hoothoot",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "020",
+    "nationalNb": "164",
+    "imgUrl": "https://www.pokepedia.fr/images/0/05/Miniature_164_EB.png",
+    "frName": "Noarfang",
+    "url": "https://www.pokepedia.fr/Noarfang",
+    "enName": "Noctowl",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "021",
+    "nationalNb": "821",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d2/Miniature_821_EB.png",
+    "frName": "Minisange",
+    "url": "https://www.pokepedia.fr/Minisange",
+    "enName": "Rookidee",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "022",
+    "nationalNb": "822",
+    "imgUrl": "https://www.pokepedia.fr/images/5/56/Miniature_822_EB.png",
+    "frName": "Bleuseille",
+    "url": "https://www.pokepedia.fr/Bleuseille",
+    "enName": "Corvisquire",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "023",
+    "nationalNb": "823",
+    "imgUrl": "https://www.pokepedia.fr/images/8/81/Miniature_823_EB.png",
+    "frName": "Corvaillus",
+    "url": "https://www.pokepedia.fr/Corvaillus",
+    "enName": "Corviknight",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "024",
+    "nationalNb": "819",
+    "imgUrl": "https://www.pokepedia.fr/images/0/09/Miniature_819_EB.png",
+    "frName": "Rongourmand",
+    "url": "https://www.pokepedia.fr/Rongourmand",
+    "enName": "Skowvet",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "025",
+    "nationalNb": "820",
+    "imgUrl": "https://www.pokepedia.fr/images/5/52/Miniature_820_EB.png",
+    "frName": "Rongrigou",
+    "url": "https://www.pokepedia.fr/Rongrigou",
+    "enName": "Greedunt",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "026",
+    "nationalNb": "519",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7a/Miniature_519_EB.png",
+    "frName": "Poichigeon",
+    "url": "https://www.pokepedia.fr/Poichigeon",
+    "enName": "Pidove",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "027",
+    "nationalNb": "520",
+    "imgUrl": "https://www.pokepedia.fr/images/a/af/Miniature_520_EB.png",
+    "frName": "Colombeau",
+    "url": "https://www.pokepedia.fr/Colombeau",
+    "enName": "Tranquill",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "028",
+    "nationalNb": "521",
+    "imgUrl": "https://www.pokepedia.fr/images/1/12/Miniature_521_%E2%99%82_EB.png",
+    "frName": "Déflaisan",
+    "url": "https://www.pokepedia.fr/D%C3%A9flaisan",
+    "enName": "Unfezant",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "029",
+    "nationalNb": "827",
+    "imgUrl": "https://www.pokepedia.fr/images/5/58/Miniature_827_EB.png",
+    "frName": "Goupilou",
+    "url": "https://www.pokepedia.fr/Goupilou",
+    "enName": "Nickit",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "030",
+    "nationalNb": "828",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1d/Miniature_828_EB.png",
+    "frName": "Roublenard",
+    "url": "https://www.pokepedia.fr/Roublenard",
+    "enName": "Thievul",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "031",
+    "nationalNb": "263",
+    "imgUrl": "https://www.pokepedia.fr/images/3/37/Miniature_263_Galar_EB.png",
+    "frName": "Zigzaton",
+    "url": "https://www.pokepedia.fr/Zigzaton_de_Galar",
+    "enName": "Zigzagoon",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "032",
+    "nationalNb": "264",
+    "imgUrl": "https://www.pokepedia.fr/images/8/88/Miniature_264_Galar_EB.png",
+    "frName": "Linéon",
+    "url": "https://www.pokepedia.fr/Lin%C3%A9on_de_Galar",
+    "enName": "Linoone",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "033",
+    "nationalNb": "862",
+    "imgUrl": "https://www.pokepedia.fr/images/d/dc/Miniature_862_EB.png",
+    "frName": "Ixon",
+    "url": "https://www.pokepedia.fr/Ixon",
+    "enName": "Obstagoon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "034",
+    "nationalNb": "831",
+    "imgUrl": "https://www.pokepedia.fr/images/8/8c/Miniature_831_EB.png",
+    "frName": "Moumouton",
+    "url": "https://www.pokepedia.fr/Moumouton",
+    "enName": "Wooloo",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "035",
+    "nationalNb": "832",
+    "imgUrl": "https://www.pokepedia.fr/images/c/cd/Miniature_832_EB.png",
+    "frName": "Moumouflon",
+    "url": "https://www.pokepedia.fr/Moumouflon",
+    "enName": "Dubwool",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "036",
+    "nationalNb": "270",
+    "imgUrl": "https://www.pokepedia.fr/images/6/62/Miniature_270_EB.png",
+    "frName": "Nénupiot",
+    "url": "https://www.pokepedia.fr/N%C3%A9nupiot",
+    "enName": "Lotad",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "037",
+    "nationalNb": "271",
+    "imgUrl": "https://www.pokepedia.fr/images/a/ac/Miniature_271_EB.png",
+    "frName": "Lombre",
+    "url": "https://www.pokepedia.fr/Lombre",
+    "enName": "Lombre",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "038",
+    "nationalNb": "272",
+    "imgUrl": "https://www.pokepedia.fr/images/8/89/Miniature_272_EB.png",
+    "frName": "Ludicolo",
+    "url": "https://www.pokepedia.fr/Ludicolo",
+    "enName": "Ludicolo",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "039",
+    "nationalNb": "273",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9f/Miniature_273_EB.png",
+    "frName": "Grainipiot",
+    "url": "https://www.pokepedia.fr/Grainipiot",
+    "enName": "Seedot",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "040",
+    "nationalNb": "274",
+    "imgUrl": "https://www.pokepedia.fr/images/6/60/Miniature_274_EB.png",
+    "frName": "Pifeuil",
+    "url": "https://www.pokepedia.fr/Pifeuil",
+    "enName": "Nuzleaf",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "041",
+    "nationalNb": "275",
+    "imgUrl": "https://www.pokepedia.fr/images/3/37/Miniature_275_EB.png",
+    "frName": "Tengalice",
+    "url": "https://www.pokepedia.fr/Tengalice",
+    "enName": "Shiftry",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "042",
+    "nationalNb": "833",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bb/Miniature_833_EB.png",
+    "frName": "Khélocrok",
+    "url": "https://www.pokepedia.fr/Kh%C3%A9locrok",
+    "enName": "Chewtle",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "043",
+    "nationalNb": "834",
+    "imgUrl": "https://www.pokepedia.fr/images/0/0a/Miniature_834_EB.png",
+    "frName": "Torgamord",
+    "url": "https://www.pokepedia.fr/Torgamord",
+    "enName": "Drednaw",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "044",
+    "nationalNb": "509",
+    "imgUrl": "https://www.pokepedia.fr/images/2/25/Miniature_509_EB.png",
+    "frName": "Chacripan",
+    "url": "https://www.pokepedia.fr/Chacripan",
+    "enName": "Purrloin",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "045",
+    "nationalNb": "510",
+    "imgUrl": "https://www.pokepedia.fr/images/8/86/Miniature_510_EB.png",
+    "frName": "Léopardus",
+    "url": "https://www.pokepedia.fr/L%C3%A9opardus",
+    "enName": "Liepard",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "046",
+    "nationalNb": "835",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7c/Miniature_835_EB.png",
+    "frName": "Voltoutou",
+    "url": "https://www.pokepedia.fr/Voltoutou",
+    "enName": "Yamper",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "047",
+    "nationalNb": "836",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d4/Miniature_836_EB.png",
+    "frName": "Fulgudog",
+    "url": "https://www.pokepedia.fr/Fulgudog",
+    "enName": "Boltund",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "048",
+    "nationalNb": "659",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ed/Miniature_659_EB.png",
+    "frName": "Sapereau",
+    "url": "https://www.pokepedia.fr/Sapereau",
+    "enName": "Bunnelby",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "049",
+    "nationalNb": "660",
+    "imgUrl": "https://www.pokepedia.fr/images/0/0c/Miniature_660_EB.png",
+    "frName": "Excavarenne",
+    "url": "https://www.pokepedia.fr/Excavarenne",
+    "enName": "Diggersby",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "050",
+    "nationalNb": "572",
+    "imgUrl": "https://www.pokepedia.fr/images/1/10/Miniature_572_EB.png",
+    "frName": "Chinchidou",
+    "url": "https://www.pokepedia.fr/Chinchidou",
+    "enName": "Minccino",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "051",
+    "nationalNb": "573",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d8/Miniature_573_EB.png",
+    "frName": "Pashmilla",
+    "url": "https://www.pokepedia.fr/Pashmilla",
+    "enName": "Cinccino",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "052",
+    "nationalNb": "761",
+    "imgUrl": "https://www.pokepedia.fr/images/9/90/Miniature_761_EB.png",
+    "frName": "Croquine",
+    "url": "https://www.pokepedia.fr/Croquine",
+    "enName": "Bounsweet",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "053",
+    "nationalNb": "762",
+    "imgUrl": "https://www.pokepedia.fr/images/6/67/Miniature_762_EB.png",
+    "frName": "Candine",
+    "url": "https://www.pokepedia.fr/Candine",
+    "enName": "Steenee",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "054",
+    "nationalNb": "763",
+    "imgUrl": "https://www.pokepedia.fr/images/c/c0/Miniature_763_EB.png",
+    "frName": "Sucreine",
+    "url": "https://www.pokepedia.fr/Sucreine",
+    "enName": "Tsareena",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "055",
+    "nationalNb": "043",
+    "imgUrl": "https://www.pokepedia.fr/images/7/72/Miniature_043_LGPE.png",
+    "frName": "Mystherbe",
+    "url": "https://www.pokepedia.fr/Mystherbe",
+    "enName": "Oddish",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "056",
+    "nationalNb": "044",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ec/Miniature_044_LGPE.png",
+    "frName": "Ortide",
+    "url": "https://www.pokepedia.fr/Ortide",
+    "enName": "Gloom",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "057",
+    "nationalNb": "045",
+    "imgUrl": "https://www.pokepedia.fr/images/c/cb/Miniature_045_LGPE.png",
+    "frName": "Rafflesia",
+    "url": "https://www.pokepedia.fr/Rafflesia",
+    "enName": "Vileplume",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "058",
+    "nationalNb": "182",
+    "imgUrl": "https://www.pokepedia.fr/images/c/c3/Miniature_182_EB.png",
+    "frName": "Joliflor",
+    "url": "https://www.pokepedia.fr/Joliflor",
+    "enName": "Bellossom",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "059",
+    "nationalNb": "406",
+    "imgUrl": "https://www.pokepedia.fr/images/6/6f/Miniature_406_EB.png",
+    "frName": "Rozbouton",
+    "url": "https://www.pokepedia.fr/Rozbouton",
+    "enName": "Budew",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "060",
+    "nationalNb": "315",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b2/Miniature_315_EB.png",
+    "frName": "Rosélia",
+    "url": "https://www.pokepedia.fr/Ros%C3%A9lia",
+    "enName": "Roselia",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "061",
+    "nationalNb": "407",
+    "imgUrl": "https://www.pokepedia.fr/images/2/22/Miniature_407_EB.png",
+    "frName": "Roserade",
+    "url": "https://www.pokepedia.fr/Roserade",
+    "enName": "Roserade",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "062",
+    "nationalNb": "278",
+    "imgUrl": "https://www.pokepedia.fr/images/c/ce/Miniature_278_EB.png",
+    "frName": "Goélise",
+    "url": "https://www.pokepedia.fr/Go%C3%A9lise",
+    "enName": "Wingull",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "063",
+    "nationalNb": "279",
+    "imgUrl": "https://www.pokepedia.fr/images/3/36/Miniature_279_EB.png",
+    "frName": "Bekipan",
+    "url": "https://www.pokepedia.fr/Bekipan",
+    "enName": "Pelipper",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "064",
+    "nationalNb": "595",
+    "imgUrl": "https://www.pokepedia.fr/images/5/50/Miniature_595_EB.png",
+    "frName": "Statitik",
+    "url": "https://www.pokepedia.fr/Statitik",
+    "enName": "Joltik",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "065",
+    "nationalNb": "596",
+    "imgUrl": "https://www.pokepedia.fr/images/8/8c/Miniature_596_EB.png",
+    "frName": "Mygavolt",
+    "url": "https://www.pokepedia.fr/Mygavolt",
+    "enName": "Galvantula",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "066",
+    "nationalNb": "309",
+    "imgUrl": "https://www.pokepedia.fr/images/5/58/Miniature_309_EB.png",
+    "frName": "Dynavolt",
+    "url": "https://www.pokepedia.fr/Dynavolt",
+    "enName": "Electrike",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "067",
+    "nationalNb": "310",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b0/Miniature_310_EB.png",
+    "frName": "Élecsprint",
+    "url": "https://www.pokepedia.fr/%C3%89lecsprint",
+    "enName": "Manectric",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "068",
+    "nationalNb": "037",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bb/Miniature_037_LGPE.png",
+    "frName": "Goupix",
+    "url": "https://www.pokepedia.fr/Goupix",
+    "enName": "Vulpix",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "069",
+    "nationalNb": "038",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b7/Miniature_038_EB.png",
+    "frName": "Feunard",
+    "url": "https://www.pokepedia.fr/Feunard",
+    "enName": "Ninetales",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "070",
+    "nationalNb": "058",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7c/Miniature_058_LGPE.png",
+    "frName": "Caninos",
+    "url": "https://www.pokepedia.fr/Caninos",
+    "enName": "Growlithe",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "071",
+    "nationalNb": "059",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9a/Miniature_059_LGPE.png",
+    "frName": "Arcanin",
+    "url": "https://www.pokepedia.fr/Arcanin",
+    "enName": "Arcanine",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "072",
+    "nationalNb": "582",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ed/Miniature_582_EB.png",
+    "frName": "Sorbébé",
+    "url": "https://www.pokepedia.fr/Sorb%C3%A9b%C3%A9",
+    "enName": "Vanillite",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "073",
+    "nationalNb": "583",
+    "imgUrl": "https://www.pokepedia.fr/images/1/17/Miniature_583_EB.png",
+    "frName": "Sorboul",
+    "url": "https://www.pokepedia.fr/Sorboul",
+    "enName": "Vanillish",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "074",
+    "nationalNb": "584",
+    "imgUrl": "https://www.pokepedia.fr/images/2/29/Miniature_584_EB.png",
+    "frName": "Sorbouboul",
+    "url": "https://www.pokepedia.fr/Sorbouboul",
+    "enName": "Vanilluxe",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "075",
+    "nationalNb": "220",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7e/Miniature_220_EB.png",
+    "frName": "Marcacrin",
+    "url": "https://www.pokepedia.fr/Marcacrin",
+    "enName": "Swinub",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "076",
+    "nationalNb": "221",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d1/Miniature_221_EB.png",
+    "frName": "Cochignon",
+    "url": "https://www.pokepedia.fr/Cochignon",
+    "enName": "Piloswine",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "077",
+    "nationalNb": "473",
+    "imgUrl": "https://www.pokepedia.fr/images/0/04/Miniature_473_EB.png",
+    "frName": "Mammochon",
+    "url": "https://www.pokepedia.fr/Mammochon",
+    "enName": "Mamoswine",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "078",
+    "nationalNb": "225",
+    "imgUrl": "https://www.pokepedia.fr/images/5/5b/Miniature_225_EB.png",
+    "frName": "Cadoizo",
+    "url": "https://www.pokepedia.fr/Cadoizo",
+    "enName": "Delibird",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "079",
+    "nationalNb": "361",
+    "imgUrl": "https://www.pokepedia.fr/images/5/56/Miniature_361_EB.png",
+    "frName": "Stalgamin",
+    "url": "https://www.pokepedia.fr/Stalgamin",
+    "enName": "Snorunt",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "080",
+    "nationalNb": "362",
+    "imgUrl": "https://www.pokepedia.fr/images/4/4d/Miniature_362_EB.png",
+    "frName": "Oniglali",
+    "url": "https://www.pokepedia.fr/Oniglali",
+    "enName": "Glalie",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "081",
+    "nationalNb": "478",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f1/Miniature_478_EB.png",
+    "frName": "Momartik",
+    "url": "https://www.pokepedia.fr/Momartik",
+    "enName": "Froslass",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "082",
+    "nationalNb": "343",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2a/Miniature_343_EB.png",
+    "frName": "Balbuto",
+    "url": "https://www.pokepedia.fr/Balbuto",
+    "enName": "Baltoy",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "083",
+    "nationalNb": "344",
+    "imgUrl": "https://www.pokepedia.fr/images/6/6d/Miniature_344_EB.png",
+    "frName": "Kaorine",
+    "url": "https://www.pokepedia.fr/Kaorine",
+    "enName": "Claydol",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "084",
+    "nationalNb": "749",
+    "imgUrl": "https://www.pokepedia.fr/images/7/74/Miniature_749_EB.png",
+    "frName": "Tiboudet",
+    "url": "https://www.pokepedia.fr/Tiboudet",
+    "enName": "Mudbray",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "085",
+    "nationalNb": "750",
+    "imgUrl": "https://www.pokepedia.fr/images/7/73/Miniature_750_EB.png",
+    "frName": "Bourrinos",
+    "url": "https://www.pokepedia.fr/Bourrinos",
+    "enName": "Mudsdale",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "086",
+    "nationalNb": "557",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1f/Miniature_557_EB.png",
+    "frName": "Crabicoque",
+    "url": "https://www.pokepedia.fr/Crabicoque",
+    "enName": "Dwebble",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "087",
+    "nationalNb": "558",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f3/Miniature_558_EB.png",
+    "frName": "Crabaraque",
+    "url": "https://www.pokepedia.fr/Crabaraque",
+    "enName": "Crustle",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "088",
+    "nationalNb": "622",
+    "imgUrl": "https://www.pokepedia.fr/images/0/0b/Miniature_622_EB.png",
+    "frName": "Gringolem",
+    "url": "https://www.pokepedia.fr/Gringolem",
+    "enName": "Golett",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "089",
+    "nationalNb": "623",
+    "imgUrl": "https://www.pokepedia.fr/images/2/28/Miniature_623_EB.png",
+    "frName": "Golemastoc",
+    "url": "https://www.pokepedia.fr/Golemastoc",
+    "enName": "Golurk",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "090",
+    "nationalNb": "517",
+    "imgUrl": "https://www.pokepedia.fr/images/4/47/Miniature_517_EB.png",
+    "frName": "Munna",
+    "url": "https://www.pokepedia.fr/Munna",
+    "enName": "Munna",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "091",
+    "nationalNb": "518",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d8/Miniature_518_EB.png",
+    "frName": "Mushana",
+    "url": "https://www.pokepedia.fr/Mushana",
+    "enName": "Musharna",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "092",
+    "nationalNb": "177",
+    "imgUrl": "https://www.pokepedia.fr/images/7/74/Miniature_177_EB.png",
+    "frName": "Natu",
+    "url": "https://www.pokepedia.fr/Natu",
+    "enName": "Natu",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "093",
+    "nationalNb": "178",
+    "imgUrl": "https://www.pokepedia.fr/images/c/c6/Miniature_178_EB.png",
+    "frName": "Xatu",
+    "url": "https://www.pokepedia.fr/Xatu",
+    "enName": "Xatu",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "094",
+    "nationalNb": "759",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1e/Miniature_759_EB.png",
+    "frName": "Nounourson",
+    "url": "https://www.pokepedia.fr/Nounourson",
+    "enName": "Stufful",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "095",
+    "nationalNb": "760",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e4/Miniature_760_EB.png",
+    "frName": "Chelours",
+    "url": "https://www.pokepedia.fr/Chelours",
+    "enName": "Bewear",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "096",
+    "nationalNb": "459",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e1/Miniature_459_EB.png",
+    "frName": "Blizzi",
+    "url": "https://www.pokepedia.fr/Blizzi",
+    "enName": "Snover",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "097",
+    "nationalNb": "460",
+    "imgUrl": "https://www.pokepedia.fr/images/a/ac/Miniature_460_EB.png",
+    "frName": "Blizzaroi",
+    "url": "https://www.pokepedia.fr/Blizzaroi",
+    "enName": "Abomasnow",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "098",
+    "nationalNb": "098",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b6/Miniature_098_LGPE.png",
+    "frName": "Krabby",
+    "url": "https://www.pokepedia.fr/Krabby",
+    "enName": "Krabby",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "099",
+    "nationalNb": "099",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f6/Miniature_099_LGPE.png",
+    "frName": "Krabboss",
+    "url": "https://www.pokepedia.fr/Krabboss",
+    "enName": "Kingler",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "100",
+    "nationalNb": "194",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a5/Miniature_194_EB.png",
+    "frName": "Axoloto",
+    "url": "https://www.pokepedia.fr/Axoloto",
+    "enName": "Wooper",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "101",
+    "nationalNb": "195",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bf/Miniature_195_EB.png",
+    "frName": "Maraiste",
+    "url": "https://www.pokepedia.fr/Maraiste",
+    "enName": "Quagsire",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "102",
+    "nationalNb": "341",
+    "imgUrl": "https://www.pokepedia.fr/images/a/ad/Miniature_341_EB.png",
+    "frName": "Écrapince",
+    "url": "https://www.pokepedia.fr/%C3%89crapince",
+    "enName": "Corphish",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "103",
+    "nationalNb": "342",
+    "imgUrl": "https://www.pokepedia.fr/images/a/ac/Miniature_342_EB.png",
+    "frName": "Colhomard",
+    "url": "https://www.pokepedia.fr/Colhomard",
+    "enName": "Crawdaunt",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "104",
+    "nationalNb": "290",
+    "imgUrl": "https://www.pokepedia.fr/images/7/75/Miniature_290_EB.png",
+    "frName": "Ningale",
+    "url": "https://www.pokepedia.fr/Ningale",
+    "enName": "Nincada",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "105",
+    "nationalNb": "291",
+    "imgUrl": "https://www.pokepedia.fr/images/6/66/Miniature_291_EB.png",
+    "frName": "Ninjask",
+    "url": "https://www.pokepedia.fr/Ninjask",
+    "enName": "Ninjask",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "106",
+    "nationalNb": "292",
+    "imgUrl": "https://www.pokepedia.fr/images/5/5c/Miniature_292_EB.png",
+    "frName": "Munja",
+    "url": "https://www.pokepedia.fr/Munja",
+    "enName": "Shedinja",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "107",
+    "nationalNb": "236",
+    "imgUrl": "https://www.pokepedia.fr/images/2/26/Miniature_236_EB.png",
+    "frName": "Debugant",
+    "url": "https://www.pokepedia.fr/Debugant",
+    "enName": "Tyrogue",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "108",
+    "nationalNb": "106",
+    "imgUrl": "https://www.pokepedia.fr/images/0/0d/Miniature_106_LGPE.png",
+    "frName": "Kicklee",
+    "url": "https://www.pokepedia.fr/Kicklee",
+    "enName": "Hitmonlee",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "109",
+    "nationalNb": "107",
+    "imgUrl": "https://www.pokepedia.fr/images/7/77/Miniature_107_LGPE.png",
+    "frName": "Tygnon",
+    "url": "https://www.pokepedia.fr/Tygnon",
+    "enName": "Hitmonchan",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "110",
+    "nationalNb": "237",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e3/Miniature_237_EB.png",
+    "frName": "Kapoera",
+    "url": "https://www.pokepedia.fr/Kapoera",
+    "enName": "Hitmontop",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "111",
+    "nationalNb": "674",
+    "imgUrl": "https://www.pokepedia.fr/images/9/94/Miniature_674_EB.png",
+    "frName": "Pandespiègle",
+    "url": "https://www.pokepedia.fr/Pandespi%C3%A8gle",
+    "enName": "Pancham",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "112",
+    "nationalNb": "675",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ec/Miniature_675_EB.png",
+    "frName": "Pandarbare",
+    "url": "https://www.pokepedia.fr/Pandarbare",
+    "enName": "Pangoro",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "113",
+    "nationalNb": "599",
+    "imgUrl": "https://www.pokepedia.fr/images/f/fd/Miniature_599_EB.png",
+    "frName": "Tic",
+    "url": "https://www.pokepedia.fr/Tic",
+    "enName": "Klink",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "114",
+    "nationalNb": "600",
+    "imgUrl": "https://www.pokepedia.fr/images/7/70/Miniature_600_EB.png",
+    "frName": "Clic",
+    "url": "https://www.pokepedia.fr/Clic",
+    "enName": "Klang",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "115",
+    "nationalNb": "601",
+    "imgUrl": "https://www.pokepedia.fr/images/2/22/Miniature_601_EB.png",
+    "frName": "Cliticlic",
+    "url": "https://www.pokepedia.fr/Cliticlic",
+    "enName": "Klinklang",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "116",
+    "nationalNb": "415",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1e/Miniature_415_EB.png",
+    "frName": "Apitrini",
+    "url": "https://www.pokepedia.fr/Apitrini",
+    "enName": "Combee",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "117",
+    "nationalNb": "416",
+    "imgUrl": "https://www.pokepedia.fr/images/1/10/Miniature_416_EB.png",
+    "frName": "Apireine",
+    "url": "https://www.pokepedia.fr/Apireine",
+    "enName": "Vespiquen",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "118",
+    "nationalNb": "436",
+    "imgUrl": "https://www.pokepedia.fr/images/0/0f/Miniature_436_EB.png",
+    "frName": "Archéomire",
+    "url": "https://www.pokepedia.fr/Arch%C3%A9omire",
+    "enName": "Bronzor",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "119",
+    "nationalNb": "437",
+    "imgUrl": "https://www.pokepedia.fr/images/2/25/Miniature_437_EB.png",
+    "frName": "Archéodong",
+    "url": "https://www.pokepedia.fr/Arch%C3%A9odong",
+    "enName": "Bronzong",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "120",
+    "nationalNb": "280",
+    "imgUrl": "https://www.pokepedia.fr/images/5/53/Miniature_280_EB.png",
+    "frName": "Tarsal",
+    "url": "https://www.pokepedia.fr/Tarsal",
+    "enName": "Ralts",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "121",
+    "nationalNb": "281",
+    "imgUrl": "https://www.pokepedia.fr/images/3/30/Miniature_281_EB.png",
+    "frName": "Kirlia",
+    "url": "https://www.pokepedia.fr/Kirlia",
+    "enName": "Kirlia",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "122",
+    "nationalNb": "282",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bc/Miniature_282_EB.png",
+    "frName": "Gardevoir",
+    "url": "https://www.pokepedia.fr/Gardevoir",
+    "enName": "Gardevoir",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "123",
+    "nationalNb": "475",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bf/Miniature_475_EB.png",
+    "frName": "Gallame",
+    "url": "https://www.pokepedia.fr/Gallame",
+    "enName": "Gallade",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "124",
+    "nationalNb": "425",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f1/Miniature_425_EB.png",
+    "frName": "Baudrive",
+    "url": "https://www.pokepedia.fr/Baudrive",
+    "enName": "Drifloon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "125",
+    "nationalNb": "426",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1d/Miniature_426_EB.png",
+    "frName": "Grodrive",
+    "url": "https://www.pokepedia.fr/Grodrive",
+    "enName": "Drifblim",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "126",
+    "nationalNb": "829",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d4/Miniature_829_EB.png",
+    "frName": "Tournicoton",
+    "url": "https://www.pokepedia.fr/Tournicoton",
+    "enName": "Gossifleur",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "127",
+    "nationalNb": "830",
+    "imgUrl": "https://www.pokepedia.fr/images/5/55/Miniature_830_EB.png",
+    "frName": "Blancoton",
+    "url": "https://www.pokepedia.fr/Blancoton",
+    "enName": "Eldegoss",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "128",
+    "nationalNb": "420",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bd/Miniature_420_EB.png",
+    "frName": "Ceribou",
+    "url": "https://www.pokepedia.fr/Ceribou",
+    "enName": "Cherubi",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "129",
+    "nationalNb": "421",
+    "imgUrl": "https://www.pokepedia.fr/images/3/34/Miniature_421_Couvert_EB.png",
+    "frName": "Ceriflor",
+    "url": "https://www.pokepedia.fr/Ceriflor",
+    "enName": "Cherrim",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "130",
+    "nationalNb": "434",
+    "imgUrl": "https://www.pokepedia.fr/images/5/50/Miniature_434_EB.png",
+    "frName": "Moufouette",
+    "url": "https://www.pokepedia.fr/Moufouette",
+    "enName": "Stunky",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "131",
+    "nationalNb": "435",
+    "imgUrl": "https://www.pokepedia.fr/images/8/81/Miniature_435_EB.png",
+    "frName": "Moufflair",
+    "url": "https://www.pokepedia.fr/Moufflair",
+    "enName": "Skuntank",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "132",
+    "nationalNb": "535",
+    "imgUrl": "https://www.pokepedia.fr/images/d/dc/Miniature_535_EB.png",
+    "frName": "Tritonde",
+    "url": "https://www.pokepedia.fr/Tritonde",
+    "enName": "Tympole",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "133",
+    "nationalNb": "536",
+    "imgUrl": "https://www.pokepedia.fr/images/0/08/Miniature_536_EB.png",
+    "frName": "Batracné",
+    "url": "https://www.pokepedia.fr/Batracn%C3%A9",
+    "enName": "Palpitoad",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "134",
+    "nationalNb": "537",
+    "imgUrl": "https://www.pokepedia.fr/images/4/48/Miniature_537_EB.png",
+    "frName": "Crapustule",
+    "url": "https://www.pokepedia.fr/Crapustule",
+    "enName": "Seismitoad",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "135",
+    "nationalNb": "355",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e3/Miniature_355_EB.png",
+    "frName": "Skelénox",
+    "url": "https://www.pokepedia.fr/Skel%C3%A9nox",
+    "enName": "Duskull",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "136",
+    "nationalNb": "356",
+    "imgUrl": "https://www.pokepedia.fr/images/9/99/Miniature_356_EB.png",
+    "frName": "Téraclope",
+    "url": "https://www.pokepedia.fr/T%C3%A9raclope",
+    "enName": "Dusclops",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "137",
+    "nationalNb": "477",
+    "imgUrl": "https://www.pokepedia.fr/images/5/53/Miniature_477_EB.png",
+    "frName": "Noctunoir",
+    "url": "https://www.pokepedia.fr/Noctunoir",
+    "enName": "Dusknoir",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "138",
+    "nationalNb": "066",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7b/Miniature_066_LGPE.png",
+    "frName": "Machoc",
+    "url": "https://www.pokepedia.fr/Machoc",
+    "enName": "Machop",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "139",
+    "nationalNb": "067",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f0/Miniature_067_LGPE.png",
+    "frName": "Machopeur",
+    "url": "https://www.pokepedia.fr/Machopeur",
+    "enName": "Machoke",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "140",
+    "nationalNb": "068",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9e/Miniature_068_LGPE.png",
+    "frName": "Mackogneur",
+    "url": "https://www.pokepedia.fr/Mackogneur",
+    "enName": "Machamp",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "141",
+    "nationalNb": "092",
+    "imgUrl": "https://www.pokepedia.fr/images/c/cf/Miniature_092_LGPE.png",
+    "frName": "Fantominus",
+    "url": "https://www.pokepedia.fr/Fantominus",
+    "enName": "Gastly",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "142",
+    "nationalNb": "093",
+    "imgUrl": "https://www.pokepedia.fr/images/1/17/Miniature_093_LGPE.png",
+    "frName": "Spectrum",
+    "url": "https://www.pokepedia.fr/Spectrum",
+    "enName": "Haunter",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "143",
+    "nationalNb": "094",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2e/Miniature_094_LGPE.png",
+    "frName": "Ectoplasma",
+    "url": "https://www.pokepedia.fr/Ectoplasma",
+    "enName": "Gengar",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "144",
+    "nationalNb": "129",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ec/Miniature_129_LGPE.png",
+    "frName": "Magicarpe",
+    "url": "https://www.pokepedia.fr/Magicarpe",
+    "enName": "Magikarp",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "145",
+    "nationalNb": "130",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f9/Miniature_130_LGPE.png",
+    "frName": "Léviator",
+    "url": "https://www.pokepedia.fr/L%C3%A9viator",
+    "enName": "Gyarados",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "146",
+    "nationalNb": "118",
+    "imgUrl": "https://www.pokepedia.fr/images/e/eb/Miniature_118_LGPE.png",
+    "frName": "Poissirène",
+    "url": "https://www.pokepedia.fr/Poissir%C3%A8ne",
+    "enName": "Goldeen",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "147",
+    "nationalNb": "119",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e2/Miniature_119_LGPE.png",
+    "frName": "Poissoroy",
+    "url": "https://www.pokepedia.fr/Poissoroy",
+    "enName": "Seaking",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "148",
+    "nationalNb": "223",
+    "imgUrl": "https://www.pokepedia.fr/images/8/81/Miniature_223_EB.png",
+    "frName": "Rémoraid",
+    "url": "https://www.pokepedia.fr/R%C3%A9moraid",
+    "enName": "Remoraid",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "149",
+    "nationalNb": "224",
+    "imgUrl": "https://www.pokepedia.fr/images/0/07/Miniature_224_EB.png",
+    "frName": "Octillery",
+    "url": "https://www.pokepedia.fr/Octillery",
+    "enName": "Octillery",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "150",
+    "nationalNb": "090",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2e/Miniature_090_LGPE.png",
+    "frName": "Kokiyas",
+    "url": "https://www.pokepedia.fr/Kokiyas",
+    "enName": "Shellder",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "151",
+    "nationalNb": "091",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9f/Miniature_091_LGPE.png",
+    "frName": "Crustabri",
+    "url": "https://www.pokepedia.fr/Crustabri",
+    "enName": "Cloyster",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "152",
+    "nationalNb": "349",
+    "imgUrl": "https://www.pokepedia.fr/images/4/4a/Miniature_349_EB.png",
+    "frName": "Barpau",
+    "url": "https://www.pokepedia.fr/Barpau",
+    "enName": "Feebas",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "153",
+    "nationalNb": "350",
+    "imgUrl": "https://www.pokepedia.fr/images/6/68/Miniature_350_EB.png",
+    "frName": "Milobellus",
+    "url": "https://www.pokepedia.fr/Milobellus",
+    "enName": "Milotic",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "154",
+    "nationalNb": "550",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1e/Miniature_550_Rouge_EB.png",
+    "frName": "Bargantua",
+    "url": "https://www.pokepedia.fr/Bargantua",
+    "enName": "Basculin",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "155",
+    "nationalNb": "746",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ef/Miniature_746_Solitaire_EB.png",
+    "frName": "Froussardine",
+    "url": "https://www.pokepedia.fr/Froussardine",
+    "enName": "Wishiwashi",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "156",
+    "nationalNb": "771",
+    "imgUrl": "https://www.pokepedia.fr/images/c/c7/Miniature_771_EB.png",
+    "frName": "Concombaffe",
+    "url": "https://www.pokepedia.fr/Concombaffe",
+    "enName": "Pyukumuku",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "157",
+    "nationalNb": "568",
+    "imgUrl": "https://www.pokepedia.fr/images/d/db/Miniature_568_EB.png",
+    "frName": "Miamiasme",
+    "url": "https://www.pokepedia.fr/Miamiasme",
+    "enName": "Trubbish",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "158",
+    "nationalNb": "569",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ec/Miniature_569_EB.png",
+    "frName": "Miasmax",
+    "url": "https://www.pokepedia.fr/Miasmax",
+    "enName": "Garbodor",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "159",
+    "nationalNb": "850",
+    "imgUrl": "https://www.pokepedia.fr/images/4/40/Miniature_850_EB.png",
+    "frName": "Grillepattes",
+    "url": "https://www.pokepedia.fr/Grillepattes",
+    "enName": "Sizzlipede",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "160",
+    "nationalNb": "851",
+    "imgUrl": "https://www.pokepedia.fr/images/5/5c/Miniature_851_EB.png",
+    "frName": "Scolocendre",
+    "url": "https://www.pokepedia.fr/Scolocendre",
+    "enName": "Centiskorch",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "161",
+    "nationalNb": "837",
+    "imgUrl": "https://www.pokepedia.fr/images/5/54/Miniature_837_EB.png",
+    "frName": "Charbi",
+    "url": "https://www.pokepedia.fr/Charbi",
+    "enName": "Rolycoly",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "162",
+    "nationalNb": "838",
+    "imgUrl": "https://www.pokepedia.fr/images/6/66/Miniature_838_EB.png",
+    "frName": "Wagomine",
+    "url": "https://www.pokepedia.fr/Wagomine",
+    "enName": "Carkol",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "163",
+    "nationalNb": "839",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7f/Miniature_839_EB.png",
+    "frName": "Monthracite",
+    "url": "https://www.pokepedia.fr/Monthracite",
+    "enName": "Coalossal",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "164",
+    "nationalNb": "050",
+    "imgUrl": "https://www.pokepedia.fr/images/0/03/Miniature_050_LGPE.png",
+    "frName": "Taupiqueur",
+    "url": "https://www.pokepedia.fr/Taupiqueur",
+    "enName": "Diglett",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "165",
+    "nationalNb": "051",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b5/Miniature_051_EB.png",
+    "frName": "Triopikeur",
+    "url": "https://www.pokepedia.fr/Triopikeur",
+    "enName": "Dugtrio",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "166",
+    "nationalNb": "529",
+    "imgUrl": "https://www.pokepedia.fr/images/5/50/Miniature_529_EB.png",
+    "frName": "Rototaupe",
+    "url": "https://www.pokepedia.fr/Rototaupe",
+    "enName": "Drilbur",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "167",
+    "nationalNb": "530",
+    "imgUrl": "https://www.pokepedia.fr/images/4/4f/Miniature_530_EB.png",
+    "frName": "Minotaupe",
+    "url": "https://www.pokepedia.fr/Minotaupe",
+    "enName": "Excadrill",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "168",
+    "nationalNb": "524",
+    "imgUrl": "https://www.pokepedia.fr/images/4/47/Miniature_524_EB.png",
+    "frName": "Nodulithe",
+    "url": "https://www.pokepedia.fr/Nodulithe",
+    "enName": "Roggenrola",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "169",
+    "nationalNb": "525",
+    "imgUrl": "https://www.pokepedia.fr/images/0/00/Miniature_525_EB.png",
+    "frName": "Géolithe",
+    "url": "https://www.pokepedia.fr/G%C3%A9olithe",
+    "enName": "Boldore",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "170",
+    "nationalNb": "526",
+    "imgUrl": "https://www.pokepedia.fr/images/4/4f/Miniature_526_EB.png",
+    "frName": "Gigalithe",
+    "url": "https://www.pokepedia.fr/Gigalithe",
+    "enName": "Gigalith",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "171",
+    "nationalNb": "532",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e7/Miniature_532_EB.png",
+    "frName": "Charpenti",
+    "url": "https://www.pokepedia.fr/Charpenti",
+    "enName": "Timburr",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "172",
+    "nationalNb": "533",
+    "imgUrl": "https://www.pokepedia.fr/images/5/50/Miniature_533_EB.png",
+    "frName": "Ouvrifier",
+    "url": "https://www.pokepedia.fr/Ouvrifier",
+    "enName": "Gurdurr",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "173",
+    "nationalNb": "534",
+    "imgUrl": "https://www.pokepedia.fr/images/7/71/Miniature_534_EB.png",
+    "frName": "Bétochef",
+    "url": "https://www.pokepedia.fr/B%C3%A9tochef",
+    "enName": "Conkeldurr",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "174",
+    "nationalNb": "527",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a7/Miniature_527_EB.png",
+    "frName": "Chovsourir",
+    "url": "https://www.pokepedia.fr/Chovsourir",
+    "enName": "Woobat",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "175",
+    "nationalNb": "528",
+    "imgUrl": "https://www.pokepedia.fr/images/7/74/Miniature_528_EB.png",
+    "frName": "Rhinolove",
+    "url": "https://www.pokepedia.fr/Rhinolove",
+    "enName": "Swoobat",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "176",
+    "nationalNb": "714",
+    "imgUrl": "https://www.pokepedia.fr/images/9/93/Miniature_714_EB.png",
+    "frName": "Sonistrelle",
+    "url": "https://www.pokepedia.fr/Sonistrelle",
+    "enName": "Noibat",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "177",
+    "nationalNb": "715",
+    "imgUrl": "https://www.pokepedia.fr/images/8/8f/Miniature_715_EB.png",
+    "frName": "Bruyverne",
+    "url": "https://www.pokepedia.fr/Bruyverne",
+    "enName": "Noivern",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "178",
+    "nationalNb": "095",
+    "imgUrl": "https://www.pokepedia.fr/images/4/42/Miniature_095_LGPE.png",
+    "frName": "Onix",
+    "url": "https://www.pokepedia.fr/Onix",
+    "enName": "Onix",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "179",
+    "nationalNb": "208",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1b/Miniature_208_EB.png",
+    "frName": "Steelix",
+    "url": "https://www.pokepedia.fr/Steelix",
+    "enName": "Steelix",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "180",
+    "nationalNb": "846",
+    "imgUrl": "https://www.pokepedia.fr/images/6/64/Miniature_846_EB.png",
+    "frName": "Embrochet",
+    "url": "https://www.pokepedia.fr/Embrochet",
+    "enName": "Arrokuda",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "181",
+    "nationalNb": "847",
+    "imgUrl": "https://www.pokepedia.fr/images/6/68/Miniature_847_EB.png",
+    "frName": "Hastacuda",
+    "url": "https://www.pokepedia.fr/Hastacuda",
+    "enName": "Barraskewda",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "182",
+    "nationalNb": "052",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9f/Miniature_052_LGPE.png",
+    "frName": "Miaouss",
+    "url": "https://www.pokepedia.fr/Miaouss",
+    "enName": "Meowth",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "182",
+    "nationalNb": "052",
+    "imgUrl": "https://www.pokepedia.fr/images/9/98/Miniature_052_Galar_EB.png",
+    "frName": "Miaouss",
+    "url": "https://www.pokepedia.fr/Miaouss_de_Galar",
+    "enName": "Meowth",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "183",
+    "nationalNb": "863",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9b/Miniature_863_EB.png",
+    "frName": "Berserkatt",
+    "url": "https://www.pokepedia.fr/Berserkatt",
+    "enName": "Perrserker",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "184",
+    "nationalNb": "053",
+    "imgUrl": "https://www.pokepedia.fr/images/4/47/Miniature_053_EB.png",
+    "frName": "Persian",
+    "url": "https://www.pokepedia.fr/Persian",
+    "enName": "Persian",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "185",
+    "nationalNb": "868",
+    "imgUrl": "https://www.pokepedia.fr/images/6/65/Miniature_868_EB.png",
+    "frName": "Crèmy",
+    "url": "https://www.pokepedia.fr/Cr%C3%A8my",
+    "enName": "Milcery",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "186",
+    "nationalNb": "869",
+    "imgUrl": "https://www.pokepedia.fr/images/5/57/Miniature_869_Lait_Vanille_EB.png",
+    "frName": "Charmilly",
+    "url": "https://www.pokepedia.fr/Charmilly",
+    "enName": "Alcremie",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "187",
+    "nationalNb": "742",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f8/Miniature_742_EB.png",
+    "frName": "Bombydou",
+    "url": "https://www.pokepedia.fr/Bombydou",
+    "enName": "Cutiefly",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "188",
+    "nationalNb": "743",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b5/Miniature_743_EB.png",
+    "frName": "Rubombelle",
+    "url": "https://www.pokepedia.fr/Rubombelle",
+    "enName": "Ribombee",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "189",
+    "nationalNb": "597",
+    "imgUrl": "https://www.pokepedia.fr/images/5/56/Miniature_597_EB.png",
+    "frName": "Grindur",
+    "url": "https://www.pokepedia.fr/Grindur",
+    "enName": "Ferroseed",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "190",
+    "nationalNb": "598",
+    "imgUrl": "https://www.pokepedia.fr/images/d/dd/Miniature_598_EB.png",
+    "frName": "Noacier",
+    "url": "https://www.pokepedia.fr/Noacier",
+    "enName": "Ferrothorn",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "191",
+    "nationalNb": "710",
+    "imgUrl": "https://www.pokepedia.fr/images/6/62/Miniature_710_EB.png",
+    "frName": "Pitrouille",
+    "url": "https://www.pokepedia.fr/Pitrouille",
+    "enName": "Pumpkaboo",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "192",
+    "nationalNb": "711",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bc/Miniature_711_EB.png",
+    "frName": "Banshitrouye",
+    "url": "https://www.pokepedia.fr/Banshitrouye",
+    "enName": "Gourgeist",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "193",
+    "nationalNb": "172",
+    "imgUrl": "https://www.pokepedia.fr/images/f/fe/Miniature_172_EB.png",
+    "frName": "Pichu",
+    "url": "https://www.pokepedia.fr/Pichu",
+    "enName": "Pichu",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "194",
+    "nationalNb": "025",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d6/Miniature_025_LGPE.png",
+    "frName": "Pikachu",
+    "url": "https://www.pokepedia.fr/Pikachu",
+    "enName": "Pikachu",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "195",
+    "nationalNb": "026",
+    "imgUrl": "https://www.pokepedia.fr/images/6/6f/Miniature_026_EB.png",
+    "frName": "Raichu",
+    "url": "https://www.pokepedia.fr/Raichu",
+    "enName": "Raichu",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "196",
+    "nationalNb": "133",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a5/Miniature_133_LGPE.png",
+    "frName": "Évoli",
+    "url": "https://www.pokepedia.fr/%C3%89voli",
+    "enName": "Eevee",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "197",
+    "nationalNb": "134",
+    "imgUrl": "https://www.pokepedia.fr/images/4/42/Miniature_134_EB.png",
+    "frName": "Aquali",
+    "url": "https://www.pokepedia.fr/Aquali",
+    "enName": "Vaporeon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "198",
+    "nationalNb": "135",
+    "imgUrl": "https://www.pokepedia.fr/images/4/46/Miniature_135_EB.png",
+    "frName": "Voltali",
+    "url": "https://www.pokepedia.fr/Voltali",
+    "enName": "Jolteon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "199",
+    "nationalNb": "136",
+    "imgUrl": "https://www.pokepedia.fr/images/d/dd/Miniature_136_EB.png",
+    "frName": "Pyroli",
+    "url": "https://www.pokepedia.fr/Pyroli",
+    "enName": "Flareon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "200",
+    "nationalNb": "196",
+    "imgUrl": "https://www.pokepedia.fr/images/3/39/Miniature_196_EB.png",
+    "frName": "Mentali",
+    "url": "https://www.pokepedia.fr/Mentali",
+    "enName": "Espeon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "201",
+    "nationalNb": "197",
+    "imgUrl": "https://www.pokepedia.fr/images/f/fa/Miniature_197_EB.png",
+    "frName": "Noctali",
+    "url": "https://www.pokepedia.fr/Noctali",
+    "enName": "Umbreon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "202",
+    "nationalNb": "470",
+    "imgUrl": "https://www.pokepedia.fr/images/d/da/Miniature_470_EB.png",
+    "frName": "Phyllali",
+    "url": "https://www.pokepedia.fr/Phyllali",
+    "enName": "Leafeon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "203",
+    "nationalNb": "471",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ee/Miniature_471_EB.png",
+    "frName": "Givrali",
+    "url": "https://www.pokepedia.fr/Givrali",
+    "enName": "Glaceon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "204",
+    "nationalNb": "700",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b2/Miniature_700_EB.png",
+    "frName": "Nymphali",
+    "url": "https://www.pokepedia.fr/Nymphali",
+    "enName": "Sylveon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "205",
+    "nationalNb": "840",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a6/Miniature_840_EB.png",
+    "frName": "Verpom",
+    "url": "https://www.pokepedia.fr/Verpom",
+    "enName": "Applin",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "206",
+    "nationalNb": "841",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e4/Miniature_841_EB.png",
+    "frName": "Pomdrapi",
+    "url": "https://www.pokepedia.fr/Pomdrapi",
+    "enName": "Flapple",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "207",
+    "nationalNb": "842",
+    "imgUrl": "https://www.pokepedia.fr/images/5/54/Miniature_842_EB.png",
+    "frName": "Dratatin",
+    "url": "https://www.pokepedia.fr/Dratatin",
+    "enName": "Appletun",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "208",
+    "nationalNb": "677",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f6/Miniature_677_EB.png",
+    "frName": "Psystigri",
+    "url": "https://www.pokepedia.fr/Psystigri",
+    "enName": "Espurr",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "209",
+    "nationalNb": "678",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1d/Miniature_678_%E2%99%82_EB.png",
+    "frName": "Mistigrix",
+    "url": "https://www.pokepedia.fr/Mistigrix",
+    "enName": "Meowstic",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "210",
+    "nationalNb": "684",
+    "imgUrl": "https://www.pokepedia.fr/images/5/53/Miniature_684_EB.png",
+    "frName": "Sucroquin",
+    "url": "https://www.pokepedia.fr/Sucroquin",
+    "enName": "Swirlix",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "211",
+    "nationalNb": "685",
+    "imgUrl": "https://www.pokepedia.fr/images/6/6d/Miniature_685_EB.png",
+    "frName": "Cupcanaille",
+    "url": "https://www.pokepedia.fr/Cupcanaille",
+    "enName": "Slurpuff",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "212",
+    "nationalNb": "682",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d3/Miniature_682_EB.png",
+    "frName": "Fluvetin",
+    "url": "https://www.pokepedia.fr/Fluvetin",
+    "enName": "Spritzee",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "213",
+    "nationalNb": "683",
+    "imgUrl": "https://www.pokepedia.fr/images/0/01/Miniature_683_EB.png",
+    "frName": "Cocotine",
+    "url": "https://www.pokepedia.fr/Cocotine",
+    "enName": "Aromatisse",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "214",
+    "nationalNb": "751",
+    "imgUrl": "https://www.pokepedia.fr/images/4/44/Miniature_751_EB.png",
+    "frName": "Araqua",
+    "url": "https://www.pokepedia.fr/Araqua",
+    "enName": "Dewpider",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "215",
+    "nationalNb": "752",
+    "imgUrl": "https://www.pokepedia.fr/images/f/fa/Miniature_752_EB.png",
+    "frName": "Tarenbulle",
+    "url": "https://www.pokepedia.fr/Tarenbulle",
+    "enName": "Araquanid",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "216",
+    "nationalNb": "360",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d1/Miniature_360_EB.png",
+    "frName": "Okéoké",
+    "url": "https://www.pokepedia.fr/Ok%C3%A9ok%C3%A9",
+    "enName": "Wynaut",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "217",
+    "nationalNb": "202",
+    "imgUrl": "https://www.pokepedia.fr/images/0/03/Miniature_202_EB.png",
+    "frName": "Qulbutoké",
+    "url": "https://www.pokepedia.fr/Qulbutok%C3%A9",
+    "enName": "Wobbuffet",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "218",
+    "nationalNb": "083",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e7/Miniature_083_Galar_EB.png",
+    "frName": "Canarticho",
+    "url": "https://www.pokepedia.fr/Canarticho_de_Galar",
+    "enName": "Farfetch'd",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "219",
+    "nationalNb": "865",
+    "imgUrl": "https://www.pokepedia.fr/images/a/ab/Miniature_865_EB.png",
+    "frName": "Palarticho",
+    "url": "https://www.pokepedia.fr/Palarticho",
+    "enName": "Sirfetch'd",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "220",
+    "nationalNb": "170",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2e/Miniature_170_EB.png",
+    "frName": "Loupio",
+    "url": "https://www.pokepedia.fr/Loupio",
+    "enName": "Chinchou",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "221",
+    "nationalNb": "171",
+    "imgUrl": "https://www.pokepedia.fr/images/8/80/Miniature_171_EB.png",
+    "frName": "Lanturn",
+    "url": "https://www.pokepedia.fr/Lanturn",
+    "enName": "Lanturn",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "222",
+    "nationalNb": "453",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d4/Miniature_453_EB.png",
+    "frName": "Cradopaud",
+    "url": "https://www.pokepedia.fr/Cradopaud",
+    "enName": "Croagunk",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "223",
+    "nationalNb": "454",
+    "imgUrl": "https://www.pokepedia.fr/images/5/55/Miniature_454_EB.png",
+    "frName": "Coatox",
+    "url": "https://www.pokepedia.fr/Coatox",
+    "enName": "Toxicroak",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "224",
+    "nationalNb": "559",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7d/Miniature_559_EB.png",
+    "frName": "Baggiguane",
+    "url": "https://www.pokepedia.fr/Baggiguane",
+    "enName": "Scraggy",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "225",
+    "nationalNb": "560",
+    "imgUrl": "https://www.pokepedia.fr/images/2/29/Miniature_560_EB.png",
+    "frName": "Baggaïd",
+    "url": "https://www.pokepedia.fr/Bagga%C3%AFd",
+    "enName": "Scrafty",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "226",
+    "nationalNb": "618",
+    "imgUrl": "https://www.pokepedia.fr/images/6/6a/Miniature_618_Galar_EB.png",
+    "frName": "Limonde",
+    "url": "https://www.pokepedia.fr/Limonde_de_Galar",
+    "enName": "Stunfisk",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "227",
+    "nationalNb": "213",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9e/Miniature_213_EB.png",
+    "frName": "Caratroc",
+    "url": "https://www.pokepedia.fr/Caratroc",
+    "enName": "Shuckle",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "228",
+    "nationalNb": "339",
+    "imgUrl": "https://www.pokepedia.fr/images/f/fe/Miniature_339_EB.png",
+    "frName": "Barloche",
+    "url": "https://www.pokepedia.fr/Barloche",
+    "enName": "Barboach",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "229",
+    "nationalNb": "340",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2c/Miniature_340_EB.png",
+    "frName": "Barbicha",
+    "url": "https://www.pokepedia.fr/Barbicha",
+    "enName": "Whiscash",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "230",
+    "nationalNb": "422",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9f/Miniature_422_Occident_EB.png",
+    "frName": "Sancoki",
+    "url": "https://www.pokepedia.fr/Sancoki",
+    "enName": "Shellos",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "231",
+    "nationalNb": "423",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e7/Miniature_423_Occident_EB.png",
+    "frName": "Tritosor",
+    "url": "https://www.pokepedia.fr/Tritosor",
+    "enName": "Gastrodon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "232",
+    "nationalNb": "767",
+    "imgUrl": "https://www.pokepedia.fr/images/0/06/Miniature_767_EB.png",
+    "frName": "Sovkipou",
+    "url": "https://www.pokepedia.fr/Sovkipou",
+    "enName": "Wimpod",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "233",
+    "nationalNb": "768",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bc/Miniature_768_EB.png",
+    "frName": "Sarmuraï",
+    "url": "https://www.pokepedia.fr/Sarmura%C3%AF",
+    "enName": "Golisopod",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "234",
+    "nationalNb": "688",
+    "imgUrl": "https://www.pokepedia.fr/images/4/45/Miniature_688_EB.png",
+    "frName": "Opermine",
+    "url": "https://www.pokepedia.fr/Opermine",
+    "enName": "Binacle",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "235",
+    "nationalNb": "689",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b3/Miniature_689_EB.png",
+    "frName": "Golgopathe",
+    "url": "https://www.pokepedia.fr/Golgopathe",
+    "enName": "Barbaracle",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "236",
+    "nationalNb": "222",
+    "imgUrl": "https://www.pokepedia.fr/images/c/c4/Miniature_222_Galar_EB.png",
+    "frName": "Corayon",
+    "url": "https://www.pokepedia.fr/Corayon_de_Galar",
+    "enName": "Corsola",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "237",
+    "nationalNb": "864",
+    "imgUrl": "https://www.pokepedia.fr/images/6/66/Miniature_864_EB.png",
+    "frName": "Corayôme",
+    "url": "https://www.pokepedia.fr/Coray%C3%B4me",
+    "enName": "Cursola",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "238",
+    "nationalNb": "859",
+    "imgUrl": "https://www.pokepedia.fr/images/9/98/Miniature_859_EB.png",
+    "frName": "Grimalin",
+    "url": "https://www.pokepedia.fr/Grimalin",
+    "enName": "Impidimp",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "239",
+    "nationalNb": "860",
+    "imgUrl": "https://www.pokepedia.fr/images/0/0a/Miniature_860_EB.png",
+    "frName": "Fourbelin",
+    "url": "https://www.pokepedia.fr/Fourbelin",
+    "enName": "Morgrem",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "240",
+    "nationalNb": "861",
+    "imgUrl": "https://www.pokepedia.fr/images/5/5a/Miniature_861_EB.png",
+    "frName": "Angoliath",
+    "url": "https://www.pokepedia.fr/Angoliath",
+    "enName": "Grimmsnarl",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "241",
+    "nationalNb": "856",
+    "imgUrl": "https://www.pokepedia.fr/images/f/fa/Miniature_856_EB.png",
+    "frName": "Bibichut",
+    "url": "https://www.pokepedia.fr/Bibichut",
+    "enName": "Hatenna",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "242",
+    "nationalNb": "857",
+    "imgUrl": "https://www.pokepedia.fr/images/4/45/Miniature_857_EB.png",
+    "frName": "Chapotus",
+    "url": "https://www.pokepedia.fr/Chapotus",
+    "enName": "Hattrem",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "243",
+    "nationalNb": "858",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f3/Miniature_858_EB.png",
+    "frName": "Sorcilence",
+    "url": "https://www.pokepedia.fr/Sorcilence",
+    "enName": "Hatterene",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "244",
+    "nationalNb": "757",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ef/Miniature_757_EB.png",
+    "frName": "Tritox",
+    "url": "https://www.pokepedia.fr/Tritox",
+    "enName": "Salandit",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "245",
+    "nationalNb": "758",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d9/Miniature_758_EB.png",
+    "frName": "Malamandre",
+    "url": "https://www.pokepedia.fr/Malamandre",
+    "enName": "Salazzle",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "246",
+    "nationalNb": "624",
+    "imgUrl": "https://www.pokepedia.fr/images/0/00/Miniature_624_EB.png",
+    "frName": "Scalpion",
+    "url": "https://www.pokepedia.fr/Scalpion",
+    "enName": "Pawniard",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "247",
+    "nationalNb": "625",
+    "imgUrl": "https://www.pokepedia.fr/images/9/93/Miniature_625_EB.png",
+    "frName": "Scalproie",
+    "url": "https://www.pokepedia.fr/Scalproie",
+    "enName": "Bisharp",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "248",
+    "nationalNb": "538",
+    "imgUrl": "https://www.pokepedia.fr/images/7/79/Miniature_538_EB.png",
+    "frName": "Judokrak",
+    "url": "https://www.pokepedia.fr/Judokrak",
+    "enName": "Throh",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "249",
+    "nationalNb": "539",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7f/Miniature_539_EB.png",
+    "frName": "Karaclée",
+    "url": "https://www.pokepedia.fr/Karacl%C3%A9e",
+    "enName": "Sawk",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "250",
+    "nationalNb": "109",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f0/Miniature_109_LGPE.png",
+    "frName": "Smogo",
+    "url": "https://www.pokepedia.fr/Smogo",
+    "enName": "Koffing",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "251",
+    "nationalNb": "110",
+    "imgUrl": "https://www.pokepedia.fr/images/0/0f/Miniature_110_Galar_EB.png",
+    "frName": "Smogogo",
+    "url": "https://www.pokepedia.fr/Smogogo_de_Galar",
+    "enName": "Weezing",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "252",
+    "nationalNb": "438",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2a/Miniature_438_EB.png",
+    "frName": "Manzaï",
+    "url": "https://www.pokepedia.fr/Manza%C3%AF",
+    "enName": "Bonsly",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "253",
+    "nationalNb": "185",
+    "imgUrl": "https://www.pokepedia.fr/images/4/4f/Miniature_185_EB.png",
+    "frName": "Simularbre",
+    "url": "https://www.pokepedia.fr/Simularbre",
+    "enName": "Sudowoodo",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "254",
+    "nationalNb": "173",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a3/Miniature_173_EB.png",
+    "frName": "Mélo",
+    "url": "https://www.pokepedia.fr/M%C3%A9lo",
+    "enName": "Cleffa",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "255",
+    "nationalNb": "035",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b8/Miniature_035_LGPE.png",
+    "frName": "Mélofée",
+    "url": "https://www.pokepedia.fr/M%C3%A9lof%C3%A9e",
+    "enName": "Clefairy",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "256",
+    "nationalNb": "036",
+    "imgUrl": "https://www.pokepedia.fr/images/1/19/Miniature_036_LGPE.png",
+    "frName": "Mélodelfe",
+    "url": "https://www.pokepedia.fr/M%C3%A9lodelfe",
+    "enName": "Clefable",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "257",
+    "nationalNb": "175",
+    "imgUrl": "https://www.pokepedia.fr/images/2/29/Miniature_175_EB.png",
+    "frName": "Togepi",
+    "url": "https://www.pokepedia.fr/Togepi",
+    "enName": "Togepi",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "258",
+    "nationalNb": "176",
+    "imgUrl": "https://www.pokepedia.fr/images/7/78/Miniature_176_EB.png",
+    "frName": "Togetic",
+    "url": "https://www.pokepedia.fr/Togetic",
+    "enName": "Togetic",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "259",
+    "nationalNb": "468",
+    "imgUrl": "https://www.pokepedia.fr/images/c/cb/Miniature_468_EB.png",
+    "frName": "Togekiss",
+    "url": "https://www.pokepedia.fr/Togekiss",
+    "enName": "Togekiss",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "260",
+    "nationalNb": "446",
+    "imgUrl": "https://www.pokepedia.fr/images/9/96/Miniature_446_EB.png",
+    "frName": "Goinfrex",
+    "url": "https://www.pokepedia.fr/Goinfrex",
+    "enName": "Munchlax",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "261",
+    "nationalNb": "143",
+    "imgUrl": "https://www.pokepedia.fr/images/8/86/Miniature_143_LGPE.png",
+    "frName": "Ronflex",
+    "url": "https://www.pokepedia.fr/Ronflex",
+    "enName": "Snorlax",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "262",
+    "nationalNb": "546",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f3/Miniature_546_EB.png",
+    "frName": "Doudouvet",
+    "url": "https://www.pokepedia.fr/Doudouvet",
+    "enName": "Cottonee",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "263",
+    "nationalNb": "547",
+    "imgUrl": "https://www.pokepedia.fr/images/6/63/Miniature_547_EB.png",
+    "frName": "Farfaduvet",
+    "url": "https://www.pokepedia.fr/Farfaduvet",
+    "enName": "Whimsicott",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "264",
+    "nationalNb": "111",
+    "imgUrl": "https://www.pokepedia.fr/images/2/26/Miniature_111_LGPE.png",
+    "frName": "Rhinocorne",
+    "url": "https://www.pokepedia.fr/Rhinocorne",
+    "enName": "Rhyhorn",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "265",
+    "nationalNb": "112",
+    "imgUrl": "https://www.pokepedia.fr/images/1/14/Miniature_112_LGPE.png",
+    "frName": "Rhinoféros",
+    "url": "https://www.pokepedia.fr/Rhinof%C3%A9ros",
+    "enName": "Rhydon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "266",
+    "nationalNb": "464",
+    "imgUrl": "https://www.pokepedia.fr/images/2/22/Miniature_464_EB.png",
+    "frName": "Rhinastoc",
+    "url": "https://www.pokepedia.fr/Rhinastoc",
+    "enName": "Rhyperior",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "267",
+    "nationalNb": "574",
+    "imgUrl": "https://www.pokepedia.fr/images/8/84/Miniature_574_EB.png",
+    "frName": "Scrutella",
+    "url": "https://www.pokepedia.fr/Scrutella",
+    "enName": "Gothita",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "268",
+    "nationalNb": "575",
+    "imgUrl": "https://www.pokepedia.fr/images/2/23/Miniature_575_EB.png",
+    "frName": "Mesmérella",
+    "url": "https://www.pokepedia.fr/Mesm%C3%A9rella",
+    "enName": "Gothorita",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "269",
+    "nationalNb": "576",
+    "imgUrl": "https://www.pokepedia.fr/images/9/99/Miniature_576_EB.png",
+    "frName": "Sidérella",
+    "url": "https://www.pokepedia.fr/Sid%C3%A9rella",
+    "enName": "Gothitelle",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "270",
+    "nationalNb": "577",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e5/Miniature_577_EB.png",
+    "frName": "Nucléos",
+    "url": "https://www.pokepedia.fr/Nucl%C3%A9os",
+    "enName": "Solosis",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "271",
+    "nationalNb": "578",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d4/Miniature_578_EB.png",
+    "frName": "Méios",
+    "url": "https://www.pokepedia.fr/M%C3%A9ios",
+    "enName": "Duosion",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "272",
+    "nationalNb": "579",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2b/Miniature_579_EB.png",
+    "frName": "Symbios",
+    "url": "https://www.pokepedia.fr/Symbios",
+    "enName": "Reuniclus",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "273",
+    "nationalNb": "588",
+    "imgUrl": "https://www.pokepedia.fr/images/8/83/Miniature_588_EB.png",
+    "frName": "Carabing",
+    "url": "https://www.pokepedia.fr/Carabing",
+    "enName": "Karrablast",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "274",
+    "nationalNb": "589",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d8/Miniature_589_EB.png",
+    "frName": "Lançargot",
+    "url": "https://www.pokepedia.fr/Lan%C3%A7argot",
+    "enName": "Escavalier",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "275",
+    "nationalNb": "616",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d4/Miniature_616_EB.png",
+    "frName": "Escargaume",
+    "url": "https://www.pokepedia.fr/Escargaume",
+    "enName": "Shelmet",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "276",
+    "nationalNb": "617",
+    "imgUrl": "https://www.pokepedia.fr/images/6/67/Miniature_617_EB.png",
+    "frName": "Limaspeed",
+    "url": "https://www.pokepedia.fr/Limaspeed",
+    "enName": "Accelgor",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "277",
+    "nationalNb": "605",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f9/Miniature_605_EB.png",
+    "frName": "Lewsor",
+    "url": "https://www.pokepedia.fr/Lewsor",
+    "enName": "Elgyem",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "278",
+    "nationalNb": "606",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b3/Miniature_606_EB.png",
+    "frName": "Neitram",
+    "url": "https://www.pokepedia.fr/Neitram",
+    "enName": "Beheeyem",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "279",
+    "nationalNb": "613",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a1/Miniature_613_EB.png",
+    "frName": "Polarhume",
+    "url": "https://www.pokepedia.fr/Polarhume",
+    "enName": "Cubchoo",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "280",
+    "nationalNb": "614",
+    "imgUrl": "https://www.pokepedia.fr/images/1/12/Miniature_614_EB.png",
+    "frName": "Polagriffe",
+    "url": "https://www.pokepedia.fr/Polagriffe",
+    "enName": "Beartic",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "281",
+    "nationalNb": "627",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2b/Miniature_627_EB.png",
+    "frName": "Furaiglon",
+    "url": "https://www.pokepedia.fr/Furaiglon",
+    "enName": "Rufflet",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "282",
+    "nationalNb": "628",
+    "imgUrl": "https://www.pokepedia.fr/images/7/78/Miniature_628_EB.png",
+    "frName": "Gueriaigle",
+    "url": "https://www.pokepedia.fr/Gueriaigle",
+    "enName": "Braviary",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "283",
+    "nationalNb": "629",
+    "imgUrl": "https://www.pokepedia.fr/images/0/08/Miniature_629_EB.png",
+    "frName": "Vostourno",
+    "url": "https://www.pokepedia.fr/Vostourno",
+    "enName": "Vullaby",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "284",
+    "nationalNb": "630",
+    "imgUrl": "https://www.pokepedia.fr/images/3/36/Miniature_630_EB.png",
+    "frName": "Vaututrice",
+    "url": "https://www.pokepedia.fr/Vaututrice",
+    "enName": "Mandibuzz",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "285",
+    "nationalNb": "451",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bd/Miniature_451_EB.png",
+    "frName": "Rapion",
+    "url": "https://www.pokepedia.fr/Rapion",
+    "enName": "Skorupi",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "286",
+    "nationalNb": "452",
+    "imgUrl": "https://www.pokepedia.fr/images/3/32/Miniature_452_EB.png",
+    "frName": "Drascore",
+    "url": "https://www.pokepedia.fr/Drascore",
+    "enName": "Drapion",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "287",
+    "nationalNb": "607",
+    "imgUrl": "https://www.pokepedia.fr/images/7/72/Miniature_607_EB.png",
+    "frName": "Funécire",
+    "url": "https://www.pokepedia.fr/Fun%C3%A9cire",
+    "enName": "Litwick",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "288",
+    "nationalNb": "608",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f4/Miniature_608_EB.png",
+    "frName": "Mélancolux",
+    "url": "https://www.pokepedia.fr/M%C3%A9lancolux",
+    "enName": "Lampent",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "289",
+    "nationalNb": "609",
+    "imgUrl": "https://www.pokepedia.fr/images/5/50/Miniature_609_EB.png",
+    "frName": "Lugulabre",
+    "url": "https://www.pokepedia.fr/Lugulabre",
+    "enName": "Chandelure",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "290",
+    "nationalNb": "686",
+    "imgUrl": "https://www.pokepedia.fr/images/4/4f/Miniature_686_EB.png",
+    "frName": "Sepiatop",
+    "url": "https://www.pokepedia.fr/Sepiatop",
+    "enName": "Inkay",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "291",
+    "nationalNb": "687",
+    "imgUrl": "https://www.pokepedia.fr/images/1/14/Miniature_687_EB.png",
+    "frName": "Sepiatroce",
+    "url": "https://www.pokepedia.fr/Sepiatroce",
+    "enName": "Malamar",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "292",
+    "nationalNb": "215",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2e/Miniature_215_EB.png",
+    "frName": "Farfuret",
+    "url": "https://www.pokepedia.fr/Farfuret",
+    "enName": "Sneasel",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "293",
+    "nationalNb": "461",
+    "imgUrl": "https://www.pokepedia.fr/images/6/6f/Miniature_461_EB.png",
+    "frName": "Dimoret",
+    "url": "https://www.pokepedia.fr/Dimoret",
+    "enName": "Weavile",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "294",
+    "nationalNb": "302",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b8/Miniature_302_EB.png",
+    "frName": "Ténéfix",
+    "url": "https://www.pokepedia.fr/T%C3%A9n%C3%A9fix",
+    "enName": "Sableye",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "295",
+    "nationalNb": "303",
+    "imgUrl": "https://www.pokepedia.fr/images/1/19/Miniature_303_EB.png",
+    "frName": "Mysdibule",
+    "url": "https://www.pokepedia.fr/Mysdibule",
+    "enName": "Mawile",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "296",
+    "nationalNb": "556",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7b/Miniature_556_EB.png",
+    "frName": "Maracachi",
+    "url": "https://www.pokepedia.fr/Maracachi",
+    "enName": "Maractus",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "297",
+    "nationalNb": "561",
+    "imgUrl": "https://www.pokepedia.fr/images/6/6b/Miniature_561_EB.png",
+    "frName": "Cryptéro",
+    "url": "https://www.pokepedia.fr/Crypt%C3%A9ro",
+    "enName": "Sigilyph",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "298",
+    "nationalNb": "447",
+    "imgUrl": "https://www.pokepedia.fr/images/1/14/Miniature_447_EB.png",
+    "frName": "Riolu",
+    "url": "https://www.pokepedia.fr/Riolu",
+    "enName": "Riolu",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "299",
+    "nationalNb": "448",
+    "imgUrl": "https://www.pokepedia.fr/images/a/aa/Miniature_448_EB.png",
+    "frName": "Lucario",
+    "url": "https://www.pokepedia.fr/Lucario",
+    "enName": "Lucario",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "300",
+    "nationalNb": "324",
+    "imgUrl": "https://www.pokepedia.fr/images/7/77/Miniature_324_EB.png",
+    "frName": "Chartor",
+    "url": "https://www.pokepedia.fr/Chartor",
+    "enName": "Torkoal",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "301",
+    "nationalNb": "778",
+    "imgUrl": "https://www.pokepedia.fr/images/0/09/Miniature_778_EB.png",
+    "frName": "Mimiqui",
+    "url": "https://www.pokepedia.fr/Mimiqui",
+    "enName": "Mimikyu",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "302",
+    "nationalNb": "878",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9b/Miniature_878_EB.png",
+    "frName": "Charibari",
+    "url": "https://www.pokepedia.fr/Charibari",
+    "enName": "Cufant",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "303",
+    "nationalNb": "879",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b5/Miniature_879_EB.png",
+    "frName": "Pachyradjah",
+    "url": "https://www.pokepedia.fr/Pachyradjah",
+    "enName": "Copperajah",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "304",
+    "nationalNb": "211",
+    "imgUrl": "https://www.pokepedia.fr/images/5/5f/Miniature_211_EB.png",
+    "frName": "Qwilfish",
+    "url": "https://www.pokepedia.fr/Qwilfish",
+    "enName": "Qwilfish",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "305",
+    "nationalNb": "592",
+    "imgUrl": "https://www.pokepedia.fr/images/5/5e/Miniature_592_%E2%99%82_EB.png",
+    "frName": "Viskuse",
+    "url": "https://www.pokepedia.fr/Viskuse",
+    "enName": "Frillish",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "306",
+    "nationalNb": "593",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1a/Miniature_593_%E2%99%82_EB.png",
+    "frName": "Moyade",
+    "url": "https://www.pokepedia.fr/Moyade",
+    "enName": "Jellicent",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "307",
+    "nationalNb": "747",
+    "imgUrl": "https://www.pokepedia.fr/images/2/25/Miniature_747_EB.png",
+    "frName": "Vorastérie",
+    "url": "https://www.pokepedia.fr/Vorast%C3%A9rie",
+    "enName": "Mareanie",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "308",
+    "nationalNb": "748",
+    "imgUrl": "https://www.pokepedia.fr/images/1/18/Miniature_748_EB.png",
+    "frName": "Prédastérie",
+    "url": "https://www.pokepedia.fr/Pr%C3%A9dast%C3%A9rie",
+    "enName": "Toxapex",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "309",
+    "nationalNb": "845",
+    "imgUrl": "https://www.pokepedia.fr/images/3/3a/Miniature_845_EB.png",
+    "frName": "Nigosier",
+    "url": "https://www.pokepedia.fr/Nigosier",
+    "enName": "Cramorant",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "310",
+    "nationalNb": "848",
+    "imgUrl": "https://www.pokepedia.fr/images/1/18/Miniature_848_EB.png",
+    "frName": "Toxizap",
+    "url": "https://www.pokepedia.fr/Toxizap",
+    "enName": "Toxel",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "311",
+    "nationalNb": "849",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f0/Miniature_849_Aig%C3%BCe_EB.png",
+    "frName": "Salarsen",
+    "url": "https://www.pokepedia.fr/Salarsen",
+    "enName": "Toxtricity",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "312",
+    "nationalNb": "843",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e0/Miniature_843_EB.png",
+    "frName": "Dunaja",
+    "url": "https://www.pokepedia.fr/Dunaja",
+    "enName": "Silicobra",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "313",
+    "nationalNb": "844",
+    "imgUrl": "https://www.pokepedia.fr/images/7/70/Miniature_844_EB.png",
+    "frName": "Dunaconda",
+    "url": "https://www.pokepedia.fr/Dunaconda",
+    "enName": "Sandaconda",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "314",
+    "nationalNb": "449",
+    "imgUrl": "https://www.pokepedia.fr/images/6/62/Miniature_449_EB.png",
+    "frName": "Hippopotas",
+    "url": "https://www.pokepedia.fr/Hippopotas",
+    "enName": "Hippopotas",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "315",
+    "nationalNb": "450",
+    "imgUrl": "https://www.pokepedia.fr/images/c/cc/Miniature_450_EB.png",
+    "frName": "Hippodocus",
+    "url": "https://www.pokepedia.fr/Hippodocus",
+    "enName": "Hippowdon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "316",
+    "nationalNb": "632",
+    "imgUrl": "https://www.pokepedia.fr/images/c/c6/Miniature_632_EB.png",
+    "frName": "Fermite",
+    "url": "https://www.pokepedia.fr/Fermite",
+    "enName": "Durant",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "317",
+    "nationalNb": "631",
+    "imgUrl": "https://www.pokepedia.fr/images/2/29/Miniature_631_EB.png",
+    "frName": "Aflamanoir",
+    "url": "https://www.pokepedia.fr/Aflamanoir",
+    "enName": "Heatmor",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "318",
+    "nationalNb": "694",
+    "imgUrl": "https://www.pokepedia.fr/images/7/77/Miniature_694_EB.png",
+    "frName": "Galvaran",
+    "url": "https://www.pokepedia.fr/Galvaran",
+    "enName": "Helioptile",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "319",
+    "nationalNb": "695",
+    "imgUrl": "https://www.pokepedia.fr/images/3/30/Miniature_695_EB.png",
+    "frName": "Iguolta",
+    "url": "https://www.pokepedia.fr/Iguolta",
+    "enName": "Heliolisk",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "320",
+    "nationalNb": "701",
+    "imgUrl": "https://www.pokepedia.fr/images/4/46/Miniature_701_EB.png",
+    "frName": "Brutalibré",
+    "url": "https://www.pokepedia.fr/Brutalibr%C3%A9",
+    "enName": "Hawlucha",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "321",
+    "nationalNb": "328",
+    "imgUrl": "https://www.pokepedia.fr/images/2/23/Miniature_328_EB.png",
+    "frName": "Kraknoix",
+    "url": "https://www.pokepedia.fr/Kraknoix",
+    "enName": "Trapinch",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "322",
+    "nationalNb": "329",
+    "imgUrl": "https://www.pokepedia.fr/images/a/aa/Miniature_329_EB.png",
+    "frName": "Vibraninf",
+    "url": "https://www.pokepedia.fr/Vibraninf",
+    "enName": "Vibrava",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "323",
+    "nationalNb": "330",
+    "imgUrl": "https://www.pokepedia.fr/images/9/98/Miniature_330_EB.png",
+    "frName": "Libégon",
+    "url": "https://www.pokepedia.fr/Lib%C3%A9gon",
+    "enName": "Flygon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "324",
+    "nationalNb": "610",
+    "imgUrl": "https://www.pokepedia.fr/images/c/c4/Miniature_610_EB.png",
+    "frName": "Coupenotte",
+    "url": "https://www.pokepedia.fr/Coupenotte",
+    "enName": "Axew",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "325",
+    "nationalNb": "611",
+    "imgUrl": "https://www.pokepedia.fr/images/c/cd/Miniature_611_EB.png",
+    "frName": "Incisache",
+    "url": "https://www.pokepedia.fr/Incisache",
+    "enName": "Fraxure",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "326",
+    "nationalNb": "612",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a7/Miniature_612_EB.png",
+    "frName": "Tranchodon",
+    "url": "https://www.pokepedia.fr/Tranchodon",
+    "enName": "Haxorus",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "327",
+    "nationalNb": "562",
+    "imgUrl": "https://www.pokepedia.fr/images/0/01/Miniature_562_EB.png",
+    "frName": "Tutafeh",
+    "url": "https://www.pokepedia.fr/Tutafeh",
+    "enName": "Yamask",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "327",
+    "nationalNb": "562",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f1/Miniature_562_Galar_EB.png",
+    "frName": "Tutafeh",
+    "url": "https://www.pokepedia.fr/Tutafeh_de_Galar",
+    "enName": "Yamask",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "328",
+    "nationalNb": "867",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a1/Miniature_867_EB.png",
+    "frName": "Tutétékri",
+    "url": "https://www.pokepedia.fr/Tut%C3%A9t%C3%A9kri",
+    "enName": "Runerigus",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "329",
+    "nationalNb": "563",
+    "imgUrl": "https://www.pokepedia.fr/images/2/24/Miniature_563_EB.png",
+    "frName": "Tutankafer",
+    "url": "https://www.pokepedia.fr/Tutankafer",
+    "enName": "Cofagrigus",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "330",
+    "nationalNb": "679",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f9/Miniature_679_EB.png",
+    "frName": "Monorpale",
+    "url": "https://www.pokepedia.fr/Monorpale",
+    "enName": "Honedge",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "331",
+    "nationalNb": "680",
+    "imgUrl": "https://www.pokepedia.fr/images/4/4c/Miniature_680_EB.png",
+    "frName": "Dimoclès",
+    "url": "https://www.pokepedia.fr/Dimocl%C3%A8s",
+    "enName": "Doublade",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "332",
+    "nationalNb": "681",
+    "imgUrl": "https://www.pokepedia.fr/images/a/ac/Miniature_681_Parade_EB.png",
+    "frName": "Exagide",
+    "url": "https://www.pokepedia.fr/Exagide",
+    "enName": "Aegislash",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "333",
+    "nationalNb": "077",
+    "imgUrl": "https://www.pokepedia.fr/images/6/63/Miniature_077_Galar_EB.png",
+    "frName": "Ponyta",
+    "url": "https://www.pokepedia.fr/Ponyta_de_Galar",
+    "enName": "Ponyta",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "334",
+    "nationalNb": "078",
+    "imgUrl": "https://www.pokepedia.fr/images/2/2f/Miniature_078_Galar_EB.png",
+    "frName": "Galopa",
+    "url": "https://www.pokepedia.fr/Galopa_de_Galar",
+    "enName": "Rapidash",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "335",
+    "nationalNb": "854",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f1/Miniature_854_EB.png",
+    "frName": "Théffroi",
+    "url": "https://www.pokepedia.fr/Th%C3%A9ffroi",
+    "enName": "Sinistea",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "336",
+    "nationalNb": "855",
+    "imgUrl": "https://www.pokepedia.fr/images/5/55/Miniature_855_EB.png",
+    "frName": "Polthégeist",
+    "url": "https://www.pokepedia.fr/Polth%C3%A9geist",
+    "enName": "Polteageist",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "337",
+    "nationalNb": "876",
+    "imgUrl": "https://www.pokepedia.fr/images/a/ac/Miniature_876_%E2%99%82_EB.png",
+    "frName": "Wimessir",
+    "url": "https://www.pokepedia.fr/Wimessir",
+    "enName": "Indeedee",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "338",
+    "nationalNb": "708",
+    "imgUrl": "https://www.pokepedia.fr/images/9/9c/Miniature_708_EB.png",
+    "frName": "Brocélôme",
+    "url": "https://www.pokepedia.fr/Broc%C3%A9l%C3%B4me",
+    "enName": "Phantump",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "339",
+    "nationalNb": "709",
+    "imgUrl": "https://www.pokepedia.fr/images/6/68/Miniature_709_EB.png",
+    "frName": "Desséliande",
+    "url": "https://www.pokepedia.fr/Dess%C3%A9liande",
+    "enName": "Trevenant",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "340",
+    "nationalNb": "755",
+    "imgUrl": "https://www.pokepedia.fr/images/c/cb/Miniature_755_EB.png",
+    "frName": "Spododo",
+    "url": "https://www.pokepedia.fr/Spododo",
+    "enName": "Morelull",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "341",
+    "nationalNb": "756",
+    "imgUrl": "https://www.pokepedia.fr/images/0/05/Miniature_756_EB.png",
+    "frName": "Lampignon",
+    "url": "https://www.pokepedia.fr/Lampignon",
+    "enName": "Shiinotic",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "342",
+    "nationalNb": "765",
+    "imgUrl": "https://www.pokepedia.fr/images/d/db/Miniature_765_EB.png",
+    "frName": "Gouroutan",
+    "url": "https://www.pokepedia.fr/Gouroutan",
+    "enName": "Oranguru",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "343",
+    "nationalNb": "766",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d4/Miniature_766_EB.png",
+    "frName": "Quartermac",
+    "url": "https://www.pokepedia.fr/Quartermac",
+    "enName": "Passimian",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "344",
+    "nationalNb": "877",
+    "imgUrl": "https://www.pokepedia.fr/images/9/96/Miniature_877_Rassasi%C3%A9_EB.png",
+    "frName": "Morpeko",
+    "url": "https://www.pokepedia.fr/Morpeko",
+    "enName": "Morpeko",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "345",
+    "nationalNb": "870",
+    "imgUrl": "https://www.pokepedia.fr/images/1/18/Miniature_870_EB.png",
+    "frName": "Hexadron",
+    "url": "https://www.pokepedia.fr/Hexadron",
+    "enName": "Falinks",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "346",
+    "nationalNb": "780",
+    "imgUrl": "https://www.pokepedia.fr/images/5/57/Miniature_780_EB.png",
+    "frName": "Draïeul",
+    "url": "https://www.pokepedia.fr/Dra%C3%AFeul",
+    "enName": "Drampa",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "347",
+    "nationalNb": "776",
+    "imgUrl": "https://www.pokepedia.fr/images/3/38/Miniature_776_EB.png",
+    "frName": "Boumata",
+    "url": "https://www.pokepedia.fr/Boumata",
+    "enName": "Turtonator",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "348",
+    "nationalNb": "777",
+    "imgUrl": "https://www.pokepedia.fr/images/7/77/Miniature_777_EB.png",
+    "frName": "Togedemaru",
+    "url": "https://www.pokepedia.fr/Togedemaru",
+    "enName": "Togedemaru",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "349",
+    "nationalNb": "872",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e9/Miniature_872_EB.png",
+    "frName": "Frissonille",
+    "url": "https://www.pokepedia.fr/Frissonille",
+    "enName": "Snom",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "350",
+    "nationalNb": "873",
+    "imgUrl": "https://www.pokepedia.fr/images/2/25/Miniature_873_EB.png",
+    "frName": "Beldeneige",
+    "url": "https://www.pokepedia.fr/Beldeneige",
+    "enName": "Frosmoth",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "351",
+    "nationalNb": "852",
+    "imgUrl": "https://www.pokepedia.fr/images/0/09/Miniature_852_EB.png",
+    "frName": "Poulpaf",
+    "url": "https://www.pokepedia.fr/Poulpaf",
+    "enName": "Clobbopus",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "352",
+    "nationalNb": "853",
+    "imgUrl": "https://www.pokepedia.fr/images/b/be/Miniature_853_EB.png",
+    "frName": "Krakos",
+    "url": "https://www.pokepedia.fr/Krakos",
+    "enName": "Grapploct",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "353",
+    "nationalNb": "871",
+    "imgUrl": "https://www.pokepedia.fr/images/6/68/Miniature_871_EB.png",
+    "frName": "Wattapik",
+    "url": "https://www.pokepedia.fr/Wattapik",
+    "enName": "Pinchurchin",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "354",
+    "nationalNb": "458",
+    "imgUrl": "https://www.pokepedia.fr/images/5/51/Miniature_458_EB.png",
+    "frName": "Babimanta",
+    "url": "https://www.pokepedia.fr/Babimanta",
+    "enName": "Mantyke",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "355",
+    "nationalNb": "226",
+    "imgUrl": "https://www.pokepedia.fr/images/8/8e/Miniature_226_EB.png",
+    "frName": "Démanta",
+    "url": "https://www.pokepedia.fr/D%C3%A9manta",
+    "enName": "Mantine",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "356",
+    "nationalNb": "320",
+    "imgUrl": "https://www.pokepedia.fr/images/6/6a/Miniature_320_EB.png",
+    "frName": "Wailmer",
+    "url": "https://www.pokepedia.fr/Wailmer",
+    "enName": "Wailmer",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "357",
+    "nationalNb": "321",
+    "imgUrl": "https://www.pokepedia.fr/images/2/20/Miniature_321_EB.png",
+    "frName": "Wailord",
+    "url": "https://www.pokepedia.fr/Wailord",
+    "enName": "Wailord",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "358",
+    "nationalNb": "712",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1d/Miniature_712_EB.png",
+    "frName": "Grelaçon",
+    "url": "https://www.pokepedia.fr/Grela%C3%A7on",
+    "enName": "Bergmite",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "359",
+    "nationalNb": "713",
+    "imgUrl": "https://www.pokepedia.fr/images/2/26/Miniature_713_EB.png",
+    "frName": "Séracrawl",
+    "url": "https://www.pokepedia.fr/S%C3%A9racrawl",
+    "enName": "Avalugg",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "360",
+    "nationalNb": "781",
+    "imgUrl": "https://www.pokepedia.fr/images/b/b3/Miniature_781_EB.png",
+    "frName": "Sinistrail",
+    "url": "https://www.pokepedia.fr/Sinistrail",
+    "enName": "Dhelmise",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "361",
+    "nationalNb": "131",
+    "imgUrl": "https://www.pokepedia.fr/images/3/35/Miniature_131_LGPE.png",
+    "frName": "Lokhlass",
+    "url": "https://www.pokepedia.fr/Lokhlass",
+    "enName": "Lapras",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "362",
+    "nationalNb": "337",
+    "imgUrl": "https://www.pokepedia.fr/images/7/76/Miniature_337_EB.png",
+    "frName": "Séléroc",
+    "url": "https://www.pokepedia.fr/S%C3%A9l%C3%A9roc",
+    "enName": "Lunatone",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "363",
+    "nationalNb": "338",
+    "imgUrl": "https://www.pokepedia.fr/images/e/eb/Miniature_338_EB.png",
+    "frName": "Solaroc",
+    "url": "https://www.pokepedia.fr/Solaroc",
+    "enName": "Solrock",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "364",
+    "nationalNb": "439",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1a/Miniature_439_EB.png",
+    "frName": "Mime Jr.",
+    "url": "https://www.pokepedia.fr/Mime_Jr.",
+    "enName": "Mime Jr.",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "365",
+    "nationalNb": "122",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f4/Miniature_122_LGPE.png",
+    "frName": "M. Mime",
+    "url": "https://www.pokepedia.fr/M._Mime",
+    "enName": "Mr. Mime",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "365",
+    "nationalNb": "122",
+    "imgUrl": "https://www.pokepedia.fr/images/1/13/Miniature_122_Galar_EB.png",
+    "frName": "M. Mime",
+    "url": "https://www.pokepedia.fr/M._Mime_de_Galar",
+    "enName": "Mr. Mime",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "366",
+    "nationalNb": "866",
+    "imgUrl": "https://www.pokepedia.fr/images/a/a1/Miniature_866_EB.png",
+    "frName": "M. Glaquette",
+    "url": "https://www.pokepedia.fr/M._Glaquette",
+    "enName": "Mr. Rime",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "367",
+    "nationalNb": "554",
+    "imgUrl": "https://www.pokepedia.fr/images/8/8b/Miniature_554_Galar_EB.png",
+    "frName": "Darumarond",
+    "url": "https://www.pokepedia.fr/Darumarond_de_Galar",
+    "enName": "Darumaka",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "368",
+    "nationalNb": "555",
+    "imgUrl": "https://www.pokepedia.fr/images/e/e5/Miniature_555_Galar_EB.png",
+    "frName": "Darumacho",
+    "url": "https://www.pokepedia.fr/Darumacho_de_Galar",
+    "enName": "Darmanitan",
+    "isGalarForm": true
+  },
+  {
+    "galarNb": "369",
+    "nationalNb": "874",
+    "imgUrl": "https://www.pokepedia.fr/images/e/ed/Miniature_874_EB.png",
+    "frName": "Dolman",
+    "url": "https://www.pokepedia.fr/Dolman",
+    "enName": "Stonjourner",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "370",
+    "nationalNb": "875",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d2/Miniature_875_T%C3%AAte_de_Gel_EB.png",
+    "frName": "Bekaglaçon",
+    "url": "https://www.pokepedia.fr/Bekagla%C3%A7on",
+    "enName": "Eiscue",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "371",
+    "nationalNb": "884",
+    "imgUrl": "https://www.pokepedia.fr/images/4/45/Miniature_884_EB.png",
+    "frName": "Duralugon",
+    "url": "https://www.pokepedia.fr/Duralugon",
+    "enName": "Duraludon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "372",
+    "nationalNb": "479",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1d/Miniature_479_EB.png",
+    "frName": "Motisma",
+    "url": "https://www.pokepedia.fr/Motisma",
+    "enName": "Rotom",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "373",
+    "nationalNb": "132",
+    "imgUrl": "https://www.pokepedia.fr/images/4/48/Miniature_132_LGPE.png",
+    "frName": "Métamorph",
+    "url": "https://www.pokepedia.fr/M%C3%A9tamorph",
+    "enName": "Ditto",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "374",
+    "nationalNb": "880",
+    "imgUrl": "https://www.pokepedia.fr/images/f/f6/Miniature_880_EB.png",
+    "frName": "Galvagon",
+    "url": "https://www.pokepedia.fr/Galvagon",
+    "enName": "Dracozolt",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "375",
+    "nationalNb": "881",
+    "imgUrl": "https://www.pokepedia.fr/images/2/23/Miniature_881_EB.png",
+    "frName": "Galvagla",
+    "url": "https://www.pokepedia.fr/Galvagla",
+    "enName": "Arctozolt",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "376",
+    "nationalNb": "882",
+    "imgUrl": "https://www.pokepedia.fr/images/c/ca/Miniature_882_EB.png",
+    "frName": "Hydragon",
+    "url": "https://www.pokepedia.fr/Hydragon",
+    "enName": "Dracovish",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "377",
+    "nationalNb": "883",
+    "imgUrl": "https://www.pokepedia.fr/images/3/31/Miniature_883_EB.png",
+    "frName": "Hydragla",
+    "url": "https://www.pokepedia.fr/Hydragla",
+    "enName": "Arctovish",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "378",
+    "nationalNb": "004",
+    "imgUrl": "https://www.pokepedia.fr/images/8/89/Miniature_004_LGPE.png",
+    "frName": "Salamèche",
+    "url": "https://www.pokepedia.fr/Salam%C3%A8che",
+    "enName": "Charmander",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "379",
+    "nationalNb": "005",
+    "imgUrl": "https://www.pokepedia.fr/images/3/35/Miniature_005_LGPE.png",
+    "frName": "Reptincel",
+    "url": "https://www.pokepedia.fr/Reptincel",
+    "enName": "Charmeleon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "380",
+    "nationalNb": "006",
+    "imgUrl": "https://www.pokepedia.fr/images/6/68/Miniature_006_LGPE.png",
+    "frName": "Dracaufeu",
+    "url": "https://www.pokepedia.fr/Dracaufeu",
+    "enName": "Charizard",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "381",
+    "nationalNb": "772",
+    "imgUrl": "https://www.pokepedia.fr/images/5/55/Miniature_772_EB.png",
+    "frName": "Type:0",
+    "url": "https://www.pokepedia.fr/Type:0",
+    "enName": "Type: Null",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "382",
+    "nationalNb": "773",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d1/Miniature_773_EB.png",
+    "frName": "Silvallié",
+    "url": "https://www.pokepedia.fr/Silvalli%C3%A9",
+    "enName": "Silvally",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "383",
+    "nationalNb": "246",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7d/Miniature_246_EB.png",
+    "frName": "Embrylex",
+    "url": "https://www.pokepedia.fr/Embrylex",
+    "enName": "Larvitar",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "384",
+    "nationalNb": "247",
+    "imgUrl": "https://www.pokepedia.fr/images/1/1d/Miniature_247_EB.png",
+    "frName": "Ymphect",
+    "url": "https://www.pokepedia.fr/Ymphect",
+    "enName": "Pupitar",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "385",
+    "nationalNb": "248",
+    "imgUrl": "https://www.pokepedia.fr/images/8/87/Miniature_248_EB.png",
+    "frName": "Tyranocif",
+    "url": "https://www.pokepedia.fr/Tyranocif",
+    "enName": "Tyranitar",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "386",
+    "nationalNb": "633",
+    "imgUrl": "https://www.pokepedia.fr/images/8/84/Miniature_633_EB.png",
+    "frName": "Solochi",
+    "url": "https://www.pokepedia.fr/Solochi",
+    "enName": "Deino",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "387",
+    "nationalNb": "634",
+    "imgUrl": "https://www.pokepedia.fr/images/0/0a/Miniature_634_EB.png",
+    "frName": "Diamat",
+    "url": "https://www.pokepedia.fr/Diamat",
+    "enName": "Zweilous",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "388",
+    "nationalNb": "635",
+    "imgUrl": "https://www.pokepedia.fr/images/7/78/Miniature_635_EB.png",
+    "frName": "Trioxhydre",
+    "url": "https://www.pokepedia.fr/Trioxhydre",
+    "enName": "Hydreigon",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "389",
+    "nationalNb": "704",
+    "imgUrl": "https://www.pokepedia.fr/images/2/22/Miniature_704_EB.png",
+    "frName": "Mucuscule",
+    "url": "https://www.pokepedia.fr/Mucuscule",
+    "enName": "Goomy",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "390",
+    "nationalNb": "705",
+    "imgUrl": "https://www.pokepedia.fr/images/d/dc/Miniature_705_EB.png",
+    "frName": "Colimucus",
+    "url": "https://www.pokepedia.fr/Colimucus",
+    "enName": "Sliggoo",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "391",
+    "nationalNb": "706",
+    "imgUrl": "https://www.pokepedia.fr/images/3/39/Miniature_706_EB.png",
+    "frName": "Muplodocus",
+    "url": "https://www.pokepedia.fr/Muplodocus",
+    "enName": "Goodra",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "392",
+    "nationalNb": "782",
+    "imgUrl": "https://www.pokepedia.fr/images/b/bc/Miniature_782_EB.png",
+    "frName": "Bébécaille",
+    "url": "https://www.pokepedia.fr/B%C3%A9b%C3%A9caille",
+    "enName": "Jangmo-o",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "393",
+    "nationalNb": "783",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7b/Miniature_783_EB.png",
+    "frName": "Écaïd",
+    "url": "https://www.pokepedia.fr/%C3%89ca%C3%AFd",
+    "enName": "Hakamo-o",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "394",
+    "nationalNb": "784",
+    "imgUrl": "https://www.pokepedia.fr/images/8/86/Miniature_784_EB.png",
+    "frName": "Ékaïser",
+    "url": "https://www.pokepedia.fr/%C3%89ka%C3%AFser",
+    "enName": "Kommo-o",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "395",
+    "nationalNb": "885",
+    "imgUrl": "https://www.pokepedia.fr/images/7/7d/Miniature_885_EB.png",
+    "frName": "Fantyrm",
+    "url": "https://www.pokepedia.fr/Fantyrm",
+    "enName": "Dreepy",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "396",
+    "nationalNb": "886",
+    "imgUrl": "https://www.pokepedia.fr/images/b/be/Miniature_886_EB.png",
+    "frName": "Dispareptil",
+    "url": "https://www.pokepedia.fr/Dispareptil",
+    "enName": "Drakloak",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "397",
+    "nationalNb": "887",
+    "imgUrl": "https://www.pokepedia.fr/images/7/73/Miniature_887_EB.png",
+    "frName": "Lanssorien",
+    "url": "https://www.pokepedia.fr/Lanssorien",
+    "enName": "Dragapult",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "398",
+    "nationalNb": "888",
+    "imgUrl": "https://www.pokepedia.fr/images/4/49/Miniature_888_%C3%89p%C3%A9e_Supr%C3%AAme_EB.png",
+    "frName": "Zacian",
+    "url": "https://www.pokepedia.fr/Zacian",
+    "enName": "Zacian",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "399",
+    "nationalNb": "889",
+    "imgUrl": "https://www.pokepedia.fr/images/d/d3/Miniature_889_Bouclier_Supr%C3%AAme_EB.png",
+    "frName": "Zamazenta",
+    "url": "https://www.pokepedia.fr/Zamazenta",
+    "enName": "Zamazenta",
+    "isGalarForm": false
+  },
+  {
+    "galarNb": "400",
+    "nationalNb": "890",
+    "imgUrl": "https://www.pokepedia.fr/images/c/cf/Miniature_890_EB.png",
+    "frName": "Éthernatos",
+    "url": "https://www.pokepedia.fr/%C3%89thernatos",
+    "enName": "Eternatus",
+    "isGalarForm": false
+  }
+]

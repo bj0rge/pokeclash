@@ -1,0 +1,452 @@
+[
+  {
+    "defensiveType": "Acier",
+    "weaknesses": [
+      {
+        "type": "Acier"
+      },
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Dragon"
+      },
+      {
+        "type": "Fée"
+      },
+      {
+        "type": "Feu"
+      },
+      {
+        "type": "Glace"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Normal"
+      },
+      {
+        "type": "Plante"
+      },
+      {
+        "type": "Poison"
+      },
+      {
+        "type": "Psy"
+      },
+      {
+        "type": "Roche"
+      },
+      {
+        "type": "Sol"
+      },
+      {
+        "type": "Vol"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Combat",
+    "weaknesses": [
+      {
+        "type": "Fée"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Psy"
+      },
+      {
+        "type": "Roche"
+      },
+      {
+        "type": "Ténèbres"
+      },
+      {
+        "type": "Vol"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Dragon",
+    "weaknesses": [
+      {
+        "type": "Dragon"
+      },
+      {
+        "type": "Eau"
+      },
+      {
+        "type": "Électrik"
+      },
+      {
+        "type": "Fée"
+      },
+      {
+        "type": "Feu"
+      },
+      {
+        "type": "Glace"
+      },
+      {
+        "type": "Plante"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Eau",
+    "weaknesses": [
+      {
+        "type": "Acier"
+      },
+      {
+        "type": "Eau"
+      },
+      {
+        "type": "Électrik"
+      },
+      {
+        "type": "Feu"
+      },
+      {
+        "type": "Glace"
+      },
+      {
+        "type": "Plante"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Électrik",
+    "weaknesses": [
+      {
+        "type": "Acier"
+      },
+      {
+        "type": "Électrik"
+      },
+      {
+        "type": "Sol"
+      },
+      {
+        "type": "Vol"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Fée",
+    "weaknesses": [
+      {
+        "type": "Acier"
+      },
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Dragon"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Poison"
+      },
+      {
+        "type": "Ténèbres"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Feu",
+    "weaknesses": [
+      {
+        "type": "Acier"
+      },
+      {
+        "type": "Eau"
+      },
+      {
+        "type": "Fée"
+      },
+      {
+        "type": "Feu"
+      },
+      {
+        "type": "Glace"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Plante"
+      },
+      {
+        "type": "Roche"
+      },
+      {
+        "type": "Sol"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Glace",
+    "weaknesses": [
+      {
+        "type": "Acier"
+      },
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Feu"
+      },
+      {
+        "type": "Glace"
+      },
+      {
+        "type": "Roche"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Insecte",
+    "weaknesses": [
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Feu"
+      },
+      {
+        "type": "Plante"
+      },
+      {
+        "type": "Roche"
+      },
+      {
+        "type": "Sol"
+      },
+      {
+        "type": "Vol"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Normal",
+    "weaknesses": [
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Spectre"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Plante",
+    "weaknesses": [
+      {
+        "type": "Eau"
+      },
+      {
+        "type": "Électrik"
+      },
+      {
+        "type": "Feu"
+      },
+      {
+        "type": "Glace"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Plante"
+      },
+      {
+        "type": "Poison"
+      },
+      {
+        "type": "Sol"
+      },
+      {
+        "type": "Vol"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Poison",
+    "weaknesses": [
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Fée"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Plante"
+      },
+      {
+        "type": "Poison"
+      },
+      {
+        "type": "Psy"
+      },
+      {
+        "type": "Sol"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Psy",
+    "weaknesses": [
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Psy"
+      },
+      {
+        "type": "Spectre"
+      },
+      {
+        "type": "Ténèbres"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Roche",
+    "weaknesses": [
+      {
+        "type": "Acier"
+      },
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Eau"
+      },
+      {
+        "type": "Feu"
+      },
+      {
+        "type": "Normal"
+      },
+      {
+        "type": "Plante"
+      },
+      {
+        "type": "Poison"
+      },
+      {
+        "type": "Sol"
+      },
+      {
+        "type": "Vol"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Sol",
+    "weaknesses": [
+      {
+        "type": "Eau"
+      },
+      {
+        "type": "Électrik"
+      },
+      {
+        "type": "Glace"
+      },
+      {
+        "type": "Plante"
+      },
+      {
+        "type": "Poison"
+      },
+      {
+        "type": "Roche"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Spectre",
+    "weaknesses": [
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Normal"
+      },
+      {
+        "type": "Poison"
+      },
+      {
+        "type": "Spectre"
+      },
+      {
+        "type": "Ténèbres"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Ténèbres",
+    "weaknesses": [
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Fée"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Psy"
+      },
+      {
+        "type": "Spectre"
+      },
+      {
+        "type": "Ténèbres"
+      }
+    ]
+  },
+  {
+    "defensiveType": "Vol",
+    "weaknesses": [
+      {
+        "type": "Combat"
+      },
+      {
+        "type": "Électrik"
+      },
+      {
+        "type": "Glace"
+      },
+      {
+        "type": "Insecte"
+      },
+      {
+        "type": "Plante"
+      },
+      {
+        "type": "Roche"
+      },
+      {
+        "type": "Sol"
+      }
+    ]
+  }
+]

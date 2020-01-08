@@ -234,7 +234,7 @@
     "pp": "35"
   },
   {
-    "name": "Conversion*",
+    "name": "Conversion",
     "url": "https://www.pokepedia.fr/Conversion",
     "type": "Normal",
     "category": "Statut",
@@ -342,7 +342,7 @@
     "pp": "15"
   },
   {
-    "name": "Danse Flamme*",
+    "name": "Danse Flamme",
     "url": "https://www.pokepedia.fr/Danse_Flamme",
     "type": "Feu",
     "category": "Spéciale",
@@ -909,7 +909,7 @@
     "pp": "30"
   },
   {
-    "name": "Ombre Nocturne*",
+    "name": "Ombre Nocturne",
     "url": "https://www.pokepedia.fr/Ombre_Nocturne",
     "type": "Spectre",
     "category": "Spéciale",
@@ -1017,7 +1017,7 @@
     "pp": "10"
   },
   {
-    "name": "Piqué*",
+    "name": "Piqué",
     "url": "https://www.pokepedia.fr/Piqu%C3%A9",
     "type": "Vol",
     "category": "Physique",
@@ -1071,7 +1071,7 @@
     "pp": "15"
   },
   {
-    "name": "Poing-Glace*",
+    "name": "Poing-Glace",
     "url": "https://www.pokepedia.fr/Poing-Glace",
     "type": "Glace",
     "category": "Physique",
@@ -1161,7 +1161,7 @@
     "pp": "15"
   },
   {
-    "name": "Regard Médusant*",
+    "name": "Regard Médusant",
     "url": "https://www.pokepedia.fr/Regard_M%C3%A9dusant",
     "type": "Normal",
     "category": "Statut",
@@ -1575,7 +1575,7 @@
     "pp": "15"
   },
   {
-    "name": "Conversion 2*",
+    "name": "Conversion 2",
     "url": "https://www.pokepedia.fr/Conversion_2",
     "type": "Normal",
     "category": "Statut",
@@ -1737,7 +1737,7 @@
     "pp": "40"
   },
   {
-    "name": "Prélèvem. Destin*",
+    "name": "Prélèvem. Destin",
     "url": "https://www.pokepedia.fr/Pr%C3%A9l%C3%A8vem._Destin",
     "type": "Spectre",
     "category": "Statut",
@@ -1800,7 +1800,7 @@
     "pp": "10"
   },
   {
-    "name": "Tempête de Sable*",
+    "name": "Tempête de Sable",
     "url": "https://www.pokepedia.fr/Temp%C3%AAte_de_Sable",
     "type": "Roche",
     "category": "Statut",
@@ -2124,7 +2124,7 @@
     "pp": "5"
   },
   {
-    "name": "Puissance Cachée*",
+    "name": "Puissance Cachée",
     "url": "https://www.pokepedia.fr/Puissance_Cach%C3%A9e",
     "type": "Normal",
     "category": "Spéciale",
@@ -2196,7 +2196,7 @@
     "pp": "10"
   },
   {
-    "name": "Vitesse Extrême*",
+    "name": "Vitesse Extrême",
     "url": "https://www.pokepedia.fr/Vitesse_Extr%C3%AAme",
     "type": "Normal",
     "category": "Physique",
@@ -2205,7 +2205,7 @@
     "pp": "5"
   },
   {
-    "name": "Pouvoir Antique*",
+    "name": "Pouvoir Antique",
     "url": "https://www.pokepedia.fr/Pouvoir_Antique",
     "type": "Roche",
     "category": "Spéciale",
@@ -2736,7 +2736,7 @@
     "pp": "10"
   },
   {
-    "name": "Crochet Venin*",
+    "name": "Crochet Venin",
     "url": "https://www.pokepedia.fr/Crochet_Venin",
     "type": "Poison",
     "category": "Physique",
@@ -2745,7 +2745,7 @@
     "pp": "15"
   },
   {
-    "name": "Éclate Griffe*",
+    "name": "Éclate Griffe",
     "url": "https://www.pokepedia.fr/%C3%89clate_Griffe",
     "type": "Normal",
     "category": "Physique",
@@ -2799,7 +2799,7 @@
     "pp": "10"
   },
   {
-    "name": "Aromathérapie*",
+    "name": "Aromathérapie",
     "url": "https://www.pokepedia.fr/Aromath%C3%A9rapie",
     "type": "Plante",
     "category": "Statut",
@@ -3474,7 +3474,7 @@
     "pp": "5"
   },
   {
-    "name": "Dernier Recours*",
+    "name": "Dernier Recours",
     "url": "https://www.pokepedia.fr/Dernier_Recours",
     "type": "Normal",
     "category": "Physique",
@@ -3897,7 +3897,7 @@
     "pp": "5"
   },
   {
-    "name": "Draco Météore*",
+    "name": "Draco Météore",
     "url": "https://www.pokepedia.fr/Draco_M%C3%A9t%C3%A9ore",
     "type": "Dragon",
     "category": "Spéciale",
@@ -3924,7 +3924,7 @@
     "pp": "15"
   },
   {
-    "name": "Tempête Verte*",
+    "name": "Tempête Verte",
     "url": "https://www.pokepedia.fr/Temp%C3%AAte_Verte",
     "type": "Plante",
     "category": "Spéciale",
@@ -4077,7 +4077,7 @@
     "pp": "20"
   },
   {
-    "name": "Appel Attaque*",
+    "name": "Appel Attaque",
     "url": "https://www.pokepedia.fr/Appel_Attaque",
     "type": "Insecte",
     "category": "Physique",
@@ -4086,7 +4086,7 @@
     "pp": "15"
   },
   {
-    "name": "Appel Défense*",
+    "name": "Appel Défense",
     "url": "https://www.pokepedia.fr/Appel_D%C3%A9fense",
     "type": "Insecte",
     "category": "Statut",
@@ -4221,7 +4221,7 @@
     "pp": "10"
   },
   {
-    "name": "Partage Garde*",
+    "name": "Partage Garde",
     "url": "https://www.pokepedia.fr/Partage_Garde",
     "type": "Psy",
     "category": "Statut",
@@ -4230,7 +4230,7 @@
     "pp": "10"
   },
   {
-    "name": "Partage Force*",
+    "name": "Partage Force",
     "url": "https://www.pokepedia.fr/Partage_Force",
     "type": "Psy",
     "category": "Statut",
@@ -4275,7 +4275,7 @@
     "pp": "15"
   },
   {
-    "name": "Poudre Fureur*",
+    "name": "Poudre Fureur",
     "url": "https://www.pokepedia.fr/Poudre_Fureur",
     "type": "Insecte",
     "category": "Statut",
@@ -4491,7 +4491,7 @@
     "pp": "15"
   },
   {
-    "name": "Force Ajoutée*",
+    "name": "Force Ajoutée",
     "url": "https://www.pokepedia.fr/Force_Ajout%C3%A9e",
     "type": "Psy",
     "category": "Spéciale",
@@ -4905,7 +4905,7 @@
     "pp": "5"
   },
   {
-    "name": "Techno Buster*",
+    "name": "Techno Buster",
     "url": "https://www.pokepedia.fr/Techno_Buster",
     "type": "Normal",
     "category": "Spéciale",

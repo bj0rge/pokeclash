@@ -26,7 +26,7 @@ const trs = tables.map((table) =>
 const moves = trs.map(tr => {
   const [capacity, type, category, power, precision, pp] = tr.querySelectorAll('td');
   return {
-      name: capacity.innerText,
+      name: capacity.innerText.replace(/\*/g, ''),
       url: capacity.querySelector('a').href,
       type: type.querySelector('a').title.split(' ')[0],
       category: category.querySelector('img').alt.split(' ')[2],

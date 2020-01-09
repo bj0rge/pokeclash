@@ -1,0 +1,6509 @@
+[
+  {
+    "name": "Abîme",
+    "url": "https://www.pokepedia.fr/Ab%C3%AEme",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "OHKO",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Acidarmure",
+    "url": "https://www.pokepedia.fr/Acidarmure",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Acide",
+    "url": "https://www.pokepedia.fr/Acide",
+    "type": "Poison",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Affûtage",
+    "url": "https://www.pokepedia.fr/Aff%C3%BBtage",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Amnésie",
+    "url": "https://www.pokepedia.fr/Amn%C3%A9sie",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Armure",
+    "url": "https://www.pokepedia.fr/Armure",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Balayage",
+    "url": "https://www.pokepedia.fr/Balayage",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Bec Vrille",
+    "url": "https://www.pokepedia.fr/Bec_Vrille",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Bélier",
+    "url": "https://www.pokepedia.fr/B%C3%A9lier",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "90",
+    "precision": "85%",
+    "pp": "20"
+  },
+  {
+    "name": "Berceuse",
+    "url": "https://www.pokepedia.fr/Berceuse",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "55%",
+    "pp": "15"
+  },
+  {
+    "name": "Blizzard",
+    "url": "https://www.pokepedia.fr/Blizzard",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "110",
+    "precision": "70%",
+    "pp": "5"
+  },
+  {
+    "name": "Bomb'Œuf",
+    "url": "https://www.pokepedia.fr/Bomb%27%C5%92uf",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "100",
+    "precision": "75%",
+    "pp": "10"
+  },
+  {
+    "name": "Bouclier",
+    "url": "https://www.pokepedia.fr/Bouclier_(capacit%C3%A9)",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Boul'Armure",
+    "url": "https://www.pokepedia.fr/Boul%27Armure",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Brouillard",
+    "url": "https://www.pokepedia.fr/Brouillard_(capacit%C3%A9)",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Brume",
+    "url": "https://www.pokepedia.fr/Brume",
+    "type": "Glace",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Buée Noire",
+    "url": "https://www.pokepedia.fr/Bu%C3%A9e_Noire",
+    "type": "Glace",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Bulles d'O",
+    "url": "https://www.pokepedia.fr/Bulles_d%27O",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Cage-Éclair",
+    "url": "https://www.pokepedia.fr/Cage-%C3%89clair",
+    "type": "Électrik",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Cascade",
+    "url": "https://www.pokepedia.fr/Cascade",
+    "type": "Eau",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Charge",
+    "url": "https://www.pokepedia.fr/Charge",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "35"
+  },
+  {
+    "name": "Choc Mental",
+    "url": "https://www.pokepedia.fr/Choc_Mental",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Claquoir",
+    "url": "https://www.pokepedia.fr/Claquoir",
+    "type": "Eau",
+    "category": "Physique",
+    "power": "35",
+    "precision": "85%",
+    "pp": "15"
+  },
+  {
+    "name": "Clonage",
+    "url": "https://www.pokepedia.fr/Clonage_(capacit%C3%A9)",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Combo-Griffe",
+    "url": "https://www.pokepedia.fr/Combo-Griffe",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "18",
+    "precision": "80%",
+    "pp": "15"
+  },
+  {
+    "name": "Constriction",
+    "url": "https://www.pokepedia.fr/Constriction",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "10",
+    "precision": "100%",
+    "pp": "35"
+  },
+  {
+    "name": "Conversion",
+    "url": "https://www.pokepedia.fr/Conversion",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Copie",
+    "url": "https://www.pokepedia.fr/Copie",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Coud'Krâne",
+    "url": "https://www.pokepedia.fr/Coud%27Kr%C3%A2ne",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "130",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Coup d'Boule",
+    "url": "https://www.pokepedia.fr/Coup_d%27Boule",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Coupe",
+    "url": "https://www.pokepedia.fr/Coupe",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "50",
+    "precision": "95%",
+    "pp": "30"
+  },
+  {
+    "name": "Coupe-Vent",
+    "url": "https://www.pokepedia.fr/Coupe-Vent",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Croc de Mort",
+    "url": "https://www.pokepedia.fr/Croc_de_Mort",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "80",
+    "precision": "90%",
+    "pp": "15"
+  },
+  {
+    "name": "Croc Fatal",
+    "url": "https://www.pokepedia.fr/Croc_Fatal",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "—",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Croissance",
+    "url": "https://www.pokepedia.fr/Croissance",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Cru-Aile",
+    "url": "https://www.pokepedia.fr/Cru-Aile",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "35"
+  },
+  {
+    "name": "Cyclone",
+    "url": "https://www.pokepedia.fr/Cyclone",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Damoclès",
+    "url": "https://www.pokepedia.fr/Damocl%C3%A8s",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Danse Flamme",
+    "url": "https://www.pokepedia.fr/Danse_Flamme",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "35",
+    "precision": "85%",
+    "pp": "15"
+  },
+  {
+    "name": "Danse-Fleur",
+    "url": "https://www.pokepedia.fr/Danse-Fleur",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "120",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Danse-Lames",
+    "url": "https://www.pokepedia.fr/Danse-Lames",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Dard-Nuée",
+    "url": "https://www.pokepedia.fr/Dard-Nu%C3%A9e",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "25",
+    "precision": "95%",
+    "pp": "20"
+  },
+  {
+    "name": "Dard-Venin",
+    "url": "https://www.pokepedia.fr/Dard-Venin",
+    "type": "Poison",
+    "category": "Physique",
+    "power": "15",
+    "precision": "100%",
+    "pp": "35"
+  },
+  {
+    "name": "Déflagration",
+    "url": "https://www.pokepedia.fr/D%C3%A9flagration",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "110",
+    "precision": "85%",
+    "pp": "5"
+  },
+  {
+    "name": "Destruction",
+    "url": "https://www.pokepedia.fr/Destruction",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "200",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Détritus",
+    "url": "https://www.pokepedia.fr/D%C3%A9tritus",
+    "type": "Poison",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Dévorêve",
+    "url": "https://www.pokepedia.fr/D%C3%A9vor%C3%AAve",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Double-Dard",
+    "url": "https://www.pokepedia.fr/Double-Dard",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "25",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Double Pied",
+    "url": "https://www.pokepedia.fr/Double_Pied",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "30 (x2)",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Draco-Rage",
+    "url": "https://www.pokepedia.fr/Draco-Rage",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Éboulement",
+    "url": "https://www.pokepedia.fr/%C3%89boulement",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "75",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "E-Coque",
+    "url": "https://www.pokepedia.fr/E-Coque",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Éclair",
+    "url": "https://www.pokepedia.fr/%C3%89clair",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Écrasement",
+    "url": "https://www.pokepedia.fr/%C3%89crasement",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "65",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Écras'Face",
+    "url": "https://www.pokepedia.fr/%C3%89cras%27Face",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "35"
+  },
+  {
+    "name": "Écume",
+    "url": "https://www.pokepedia.fr/%C3%89cume",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Empal'Korne",
+    "url": "https://www.pokepedia.fr/Empal%27Korne",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "OHKO",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Entrave",
+    "url": "https://www.pokepedia.fr/Entrave",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Étreinte",
+    "url": "https://www.pokepedia.fr/%C3%89treinte",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "15",
+    "precision": "85%",
+    "pp": "20"
+  },
+  {
+    "name": "Explosion",
+    "url": "https://www.pokepedia.fr/Explosion",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "250",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Fatal-Foudre",
+    "url": "https://www.pokepedia.fr/Fatal-Foudre",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "110",
+    "precision": "70%",
+    "pp": "10"
+  },
+  {
+    "name": "Flammèche",
+    "url": "https://www.pokepedia.fr/Flamm%C3%A8che",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Flash",
+    "url": "https://www.pokepedia.fr/Flash",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Force",
+    "url": "https://www.pokepedia.fr/Force",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Force Poigne",
+    "url": "https://www.pokepedia.fr/Force_Poigne",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "55",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Fouet Lianes",
+    "url": "https://www.pokepedia.fr/Fouet_Lianes",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "45",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Frappe Atlas",
+    "url": "https://www.pokepedia.fr/Frappe_Atlas",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Frénésie",
+    "url": "https://www.pokepedia.fr/Fr%C3%A9n%C3%A9sie",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "20",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Furie",
+    "url": "https://www.pokepedia.fr/Furie",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "15",
+    "precision": "85%",
+    "pp": "20"
+  },
+  {
+    "name": "Gaz Toxik",
+    "url": "https://www.pokepedia.fr/Gaz_Toxik",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "90%",
+    "pp": "40"
+  },
+  {
+    "name": "Griffe",
+    "url": "https://www.pokepedia.fr/Griffe",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "35"
+  },
+  {
+    "name": "Grincement",
+    "url": "https://www.pokepedia.fr/Grincement",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "85%",
+    "pp": "40"
+  },
+  {
+    "name": "Grobisou",
+    "url": "https://www.pokepedia.fr/Grobisou",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "75%",
+    "pp": "10"
+  },
+  {
+    "name": "Groz'Yeux",
+    "url": "https://www.pokepedia.fr/Groz%27Yeux",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Guillotine",
+    "url": "https://www.pokepedia.fr/Guillotine",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "OHKO",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Hâte",
+    "url": "https://www.pokepedia.fr/H%C3%A2te",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Hurlement",
+    "url": "https://www.pokepedia.fr/Hurlement",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Hydrocanon",
+    "url": "https://www.pokepedia.fr/Hydrocanon",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "110",
+    "precision": "80%",
+    "pp": "5"
+  },
+  {
+    "name": "Hypnose",
+    "url": "https://www.pokepedia.fr/Hypnose",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "60%",
+    "pp": "20"
+  },
+  {
+    "name": "Jackpot",
+    "url": "https://www.pokepedia.fr/Jackpot",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Jet de Sable",
+    "url": "https://www.pokepedia.fr/Jet_de_Sable",
+    "type": "Sol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Jet-Pierres",
+    "url": "https://www.pokepedia.fr/Jet-Pierres",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "50",
+    "precision": "90%",
+    "pp": "15"
+  },
+  {
+    "name": "Koud'Korne",
+    "url": "https://www.pokepedia.fr/Koud%27Korne",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "65",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Lance-Flammes",
+    "url": "https://www.pokepedia.fr/Lance-Flammes",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Lance-Soleil",
+    "url": "https://www.pokepedia.fr/Lance-Soleil",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "200",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Laser Glace",
+    "url": "https://www.pokepedia.fr/Laser_Glace",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Léchouille",
+    "url": "https://www.pokepedia.fr/L%C3%A9chouille",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "30",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Ligotage",
+    "url": "https://www.pokepedia.fr/Ligotage",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "15",
+    "precision": "90%",
+    "pp": "20"
+  },
+  {
+    "name": "Lilliput",
+    "url": "https://www.pokepedia.fr/Lilliput",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Lutte",
+    "url": "https://www.pokepedia.fr/Lutte",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100%",
+    "pp": "—"
+  },
+  {
+    "name": "Mania",
+    "url": "https://www.pokepedia.fr/Mania",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Massd'Os",
+    "url": "https://www.pokepedia.fr/Massd%27Os",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "65",
+    "precision": "85%",
+    "pp": "20"
+  },
+  {
+    "name": "Mawashi Geri",
+    "url": "https://www.pokepedia.fr/Mawashi_Geri",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "60",
+    "precision": "85%",
+    "pp": "15"
+  },
+  {
+    "name": "Méga-Sangsue",
+    "url": "https://www.pokepedia.fr/M%C3%A9ga-Sangsue",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Météores",
+    "url": "https://www.pokepedia.fr/M%C3%A9t%C3%A9ores",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Métronome",
+    "url": "https://www.pokepedia.fr/M%C3%A9tronome_(capacit%C3%A9)",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Mimi-Queue",
+    "url": "https://www.pokepedia.fr/Mimi-Queue",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Mimique",
+    "url": "https://www.pokepedia.fr/Mimique",
+    "type": "Vol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Morphing",
+    "url": "https://www.pokepedia.fr/Morphing",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Morsure",
+    "url": "https://www.pokepedia.fr/Morsure",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Mur Lumière",
+    "url": "https://www.pokepedia.fr/Mur_Lumi%C3%A8re",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Ombre Nocturne",
+    "url": "https://www.pokepedia.fr/Ombre_Nocturne",
+    "type": "Spectre",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Onde Boréale",
+    "url": "https://www.pokepedia.fr/Onde_Bor%C3%A9ale",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Onde Folie",
+    "url": "https://www.pokepedia.fr/Onde_Folie",
+    "type": "Spectre",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Osmerang",
+    "url": "https://www.pokepedia.fr/Osmerang",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "50 (x 2)",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Para-Spore",
+    "url": "https://www.pokepedia.fr/Para-Spore",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "75%",
+    "pp": "30"
+  },
+  {
+    "name": "Patience",
+    "url": "https://www.pokepedia.fr/Patience",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Picanon",
+    "url": "https://www.pokepedia.fr/Picanon",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "20",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Picpic",
+    "url": "https://www.pokepedia.fr/Picpic",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "35",
+    "precision": "100%",
+    "pp": "35"
+  },
+  {
+    "name": "Pied Sauté",
+    "url": "https://www.pokepedia.fr/Pied_Saut%C3%A9",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "100",
+    "precision": "95%",
+    "pp": "10"
+  },
+  {
+    "name": "Pied Voltige",
+    "url": "https://www.pokepedia.fr/Pied_Voltige",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "130",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Pilonnage",
+    "url": "https://www.pokepedia.fr/Pilonnage",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "15",
+    "precision": "85%",
+    "pp": "20"
+  },
+  {
+    "name": "Pince-Masse",
+    "url": "https://www.pokepedia.fr/Pince-Masse",
+    "type": "Eau",
+    "category": "Physique",
+    "power": "100",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Piqué",
+    "url": "https://www.pokepedia.fr/Piqu%C3%A9",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "140",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Pistolet à O",
+    "url": "https://www.pokepedia.fr/Pistolet_%C3%A0_O",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Plaquage",
+    "url": "https://www.pokepedia.fr/Plaquage",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "85",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Poing Comète",
+    "url": "https://www.pokepedia.fr/Poing_Com%C3%A8te",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "18",
+    "precision": "85%",
+    "pp": "15"
+  },
+  {
+    "name": "Poing de Feu",
+    "url": "https://www.pokepedia.fr/Poing_de_Feu",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "75",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Poing-Éclair",
+    "url": "https://www.pokepedia.fr/Poing-%C3%89clair",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "75",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Poing-Glace",
+    "url": "https://www.pokepedia.fr/Poing-Glace",
+    "type": "Glace",
+    "category": "Physique",
+    "power": "75",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Poing-Karaté",
+    "url": "https://www.pokepedia.fr/Poing-Karat%C3%A9",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Poudre Dodo",
+    "url": "https://www.pokepedia.fr/Poudre_Dodo",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "75%",
+    "pp": "15"
+  },
+  {
+    "name": "Poudre Toxik",
+    "url": "https://www.pokepedia.fr/Poudre_Toxik",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "75%",
+    "pp": "35"
+  },
+  {
+    "name": "Protection",
+    "url": "https://www.pokepedia.fr/Protection",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Psyko",
+    "url": "https://www.pokepedia.fr/Psyko",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Puissance",
+    "url": "https://www.pokepedia.fr/Puissance_(capacit%C3%A9)",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Purédpois",
+    "url": "https://www.pokepedia.fr/Pur%C3%A9dpois",
+    "type": "Poison",
+    "category": "Spéciale",
+    "power": "30",
+    "precision": "70%",
+    "pp": "20"
+  },
+  {
+    "name": "Rafale Psy",
+    "url": "https://www.pokepedia.fr/Rafale_Psy",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Reflet",
+    "url": "https://www.pokepedia.fr/Reflet",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Regard Médusant",
+    "url": "https://www.pokepedia.fr/Regard_M%C3%A9dusant",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Repli",
+    "url": "https://www.pokepedia.fr/Repli",
+    "type": "Eau",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Repos",
+    "url": "https://www.pokepedia.fr/Repos",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Riposte",
+    "url": "https://www.pokepedia.fr/Riposte_(capacit%C3%A9)",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Rugissement",
+    "url": "https://www.pokepedia.fr/Rugissement",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "40"
+  },
+  {
+    "name": "Sacrifice",
+    "url": "https://www.pokepedia.fr/Sacrifice",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "80",
+    "precision": "80%",
+    "pp": "25"
+  },
+  {
+    "name": "Sécrétion",
+    "url": "https://www.pokepedia.fr/S%C3%A9cr%C3%A9tion",
+    "type": "Insecte",
+    "category": "Statut",
+    "power": "—",
+    "precision": "95%",
+    "pp": "40"
+  },
+  {
+    "name": "Séisme",
+    "url": "https://www.pokepedia.fr/S%C3%A9isme",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "100",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Soin",
+    "url": "https://www.pokepedia.fr/Soin",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Sonicboom",
+    "url": "https://www.pokepedia.fr/Sonicboom",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "90%",
+    "pp": "20"
+  },
+  {
+    "name": "Souplesse",
+    "url": "https://www.pokepedia.fr/Souplesse",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "80",
+    "precision": "75%",
+    "pp": "20"
+  },
+  {
+    "name": "Spore",
+    "url": "https://www.pokepedia.fr/Spore",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Surf",
+    "url": "https://www.pokepedia.fr/Surf",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Télékinésie",
+    "url": "https://www.pokepedia.fr/T%C3%A9l%C3%A9kin%C3%A9sie",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "80%",
+    "pp": "15"
+  },
+  {
+    "name": "Téléport",
+    "url": "https://www.pokepedia.fr/T%C3%A9l%C3%A9port",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Tonnerre",
+    "url": "https://www.pokepedia.fr/Tonnerre",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Torgnoles",
+    "url": "https://www.pokepedia.fr/Torgnoles",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "15",
+    "precision": "85%",
+    "pp": "10"
+  },
+  {
+    "name": "Tornade",
+    "url": "https://www.pokepedia.fr/Tornade",
+    "type": "Vol",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "35"
+  },
+  {
+    "name": "Toxik",
+    "url": "https://www.pokepedia.fr/Toxik",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Tranche",
+    "url": "https://www.pokepedia.fr/Tranche",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Tranch'Herbe",
+    "url": "https://www.pokepedia.fr/Tranch%27Herbe",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "55",
+    "precision": "95%",
+    "pp": "25"
+  },
+  {
+    "name": "Trempette",
+    "url": "https://www.pokepedia.fr/Trempette",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Triplattaque",
+    "url": "https://www.pokepedia.fr/Triplattaque",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Tunnel",
+    "url": "https://www.pokepedia.fr/Tunnel",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Ultimapoing",
+    "url": "https://www.pokepedia.fr/Ultimapoing",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "80",
+    "precision": "85%",
+    "pp": "20"
+  },
+  {
+    "name": "Ultimawashi",
+    "url": "https://www.pokepedia.fr/Ultimawashi",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "120",
+    "precision": "75%",
+    "pp": "5"
+  },
+  {
+    "name": "Ultralaser",
+    "url": "https://www.pokepedia.fr/Ultralaser",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "150",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Ultrason",
+    "url": "https://www.pokepedia.fr/Ultrason",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "55%",
+    "pp": "20"
+  },
+  {
+    "name": "Uppercut",
+    "url": "https://www.pokepedia.fr/Uppercut",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Vague Psy",
+    "url": "https://www.pokepedia.fr/Vague_Psy",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Vampigraine",
+    "url": "https://www.pokepedia.fr/Vampigraine",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Vampirisme",
+    "url": "https://www.pokepedia.fr/Vampirisme",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Vive-Attaque",
+    "url": "https://www.pokepedia.fr/Vive-Attaque",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Vol",
+    "url": "https://www.pokepedia.fr/Vol_(capacit%C3%A9)",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "90",
+    "precision": "95%",
+    "pp": "15"
+  },
+  {
+    "name": "Vol-Vie",
+    "url": "https://www.pokepedia.fr/Vol-Vie",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "20",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Yoga",
+    "url": "https://www.pokepedia.fr/Yoga",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Gribouille",
+    "url": "https://www.pokepedia.fr/Gribouille",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "1"
+  },
+  {
+    "name": "Triple Pied",
+    "url": "https://www.pokepedia.fr/Triple_Pied",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "10",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Larcin",
+    "url": "https://www.pokepedia.fr/Larcin",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Toile",
+    "url": "https://www.pokepedia.fr/Toile",
+    "type": "Insecte",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Lire-Esprit",
+    "url": "https://www.pokepedia.fr/Lire-Esprit",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Cauchemar",
+    "url": "https://www.pokepedia.fr/Cauchemar",
+    "type": "Spectre",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Roue de Feu",
+    "url": "https://www.pokepedia.fr/Roue_de_Feu",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Ronflement",
+    "url": "https://www.pokepedia.fr/Ronflement",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Malédiction",
+    "url": "https://www.pokepedia.fr/Mal%C3%A9diction",
+    "type": "Spectre",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Fléau",
+    "url": "https://www.pokepedia.fr/Fl%C3%A9au",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Conversion 2",
+    "url": "https://www.pokepedia.fr/Conversion_2",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Aéroblast",
+    "url": "https://www.pokepedia.fr/A%C3%A9roblast",
+    "type": "Vol",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "95%",
+    "pp": "5"
+  },
+  {
+    "name": "Spore Coton",
+    "url": "https://www.pokepedia.fr/Spore_Coton",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "40"
+  },
+  {
+    "name": "Contre",
+    "url": "https://www.pokepedia.fr/Contre",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Dépit",
+    "url": "https://www.pokepedia.fr/D%C3%A9pit",
+    "type": "Spectre",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Poudreuse",
+    "url": "https://www.pokepedia.fr/Poudreuse",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Abri",
+    "url": "https://www.pokepedia.fr/Abri",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Mach Punch",
+    "url": "https://www.pokepedia.fr/Mach_Punch",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Grimace",
+    "url": "https://www.pokepedia.fr/Grimace",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Feinte",
+    "url": "https://www.pokepedia.fr/Feinte",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "60",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Doux Baiser",
+    "url": "https://www.pokepedia.fr/Doux_Baiser",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "75%",
+    "pp": "10"
+  },
+  {
+    "name": "Cognobidon",
+    "url": "https://www.pokepedia.fr/Cognobidon",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Bomb-Beurk",
+    "url": "https://www.pokepedia.fr/Bomb-Beurk",
+    "type": "Poison",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Coud'Boue",
+    "url": "https://www.pokepedia.fr/Coud%27Boue",
+    "type": "Sol",
+    "category": "Spéciale",
+    "power": "20",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Octazooka",
+    "url": "https://www.pokepedia.fr/Octazooka",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "85%",
+    "pp": "10"
+  },
+  {
+    "name": "Picots",
+    "url": "https://www.pokepedia.fr/Picots",
+    "type": "Sol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Élécanon",
+    "url": "https://www.pokepedia.fr/%C3%89l%C3%A9canon",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "120",
+    "precision": "50%",
+    "pp": "5"
+  },
+  {
+    "name": "Clairvoyance",
+    "url": "https://www.pokepedia.fr/Clairvoyance",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Prélèvem. Destin",
+    "url": "https://www.pokepedia.fr/Pr%C3%A9l%C3%A8vem._Destin",
+    "type": "Spectre",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Requiem",
+    "url": "https://www.pokepedia.fr/Requiem",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Vent Glace",
+    "url": "https://www.pokepedia.fr/Vent_Glace",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "55",
+    "precision": "95%",
+    "pp": "15"
+  },
+  {
+    "name": "Détection",
+    "url": "https://www.pokepedia.fr/D%C3%A9tection",
+    "type": "Combat",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Charge-Os",
+    "url": "https://www.pokepedia.fr/Charge-Os",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "25",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Verrouillage",
+    "url": "https://www.pokepedia.fr/Verrouillage_(capacit%C3%A9)",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Colère",
+    "url": "https://www.pokepedia.fr/Col%C3%A8re",
+    "type": "Dragon",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Tempête de Sable",
+    "url": "https://www.pokepedia.fr/Temp%C3%AAte_de_Sable",
+    "type": "Roche",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Giga-Sangsue",
+    "url": "https://www.pokepedia.fr/Giga-Sangsue",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "75",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Ténacité",
+    "url": "https://www.pokepedia.fr/T%C3%A9nacit%C3%A9",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Charme",
+    "url": "https://www.pokepedia.fr/Charme_(capacit%C3%A9)",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Roulade",
+    "url": "https://www.pokepedia.fr/Roulade",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "30",
+    "precision": "90%",
+    "pp": "20"
+  },
+  {
+    "name": "Faux-Chage",
+    "url": "https://www.pokepedia.fr/Faux-Chage",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "40"
+  },
+  {
+    "name": "Vantardise",
+    "url": "https://www.pokepedia.fr/Vantardise",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "85%",
+    "pp": "15"
+  },
+  {
+    "name": "Lait à Boire",
+    "url": "https://www.pokepedia.fr/Lait_%C3%A0_Boire",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Étincelle",
+    "url": "https://www.pokepedia.fr/%C3%89tincelle",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "65",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Taillade",
+    "url": "https://www.pokepedia.fr/Taillade",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "40",
+    "precision": "95%",
+    "pp": "20"
+  },
+  {
+    "name": "Aile d'Acier",
+    "url": "https://www.pokepedia.fr/Aile_d%27Acier",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "70",
+    "precision": "90%",
+    "pp": "25"
+  },
+  {
+    "name": "Regard Noir",
+    "url": "https://www.pokepedia.fr/Regard_Noir",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Attraction",
+    "url": "https://www.pokepedia.fr/Attraction_(capacit%C3%A9)",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Blabla Dodo",
+    "url": "https://www.pokepedia.fr/Blabla_Dodo",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Glas de Soin",
+    "url": "https://www.pokepedia.fr/Glas_de_Soin",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Retour",
+    "url": "https://www.pokepedia.fr/Retour",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Cadeau",
+    "url": "https://www.pokepedia.fr/Cadeau",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "—",
+    "precision": "90%",
+    "pp": "15"
+  },
+  {
+    "name": "Frustration",
+    "url": "https://www.pokepedia.fr/Frustration",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Rune Protect",
+    "url": "https://www.pokepedia.fr/Rune_Protect",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "25"
+  },
+  {
+    "name": "Balance",
+    "url": "https://www.pokepedia.fr/Balance_(capacit%C3%A9)",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Feu Sacré",
+    "url": "https://www.pokepedia.fr/Feu_Sacr%C3%A9",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "100",
+    "precision": "95%",
+    "pp": "5"
+  },
+  {
+    "name": "Ampleur",
+    "url": "https://www.pokepedia.fr/Ampleur",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Dynamopoing",
+    "url": "https://www.pokepedia.fr/Dynamopoing",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "100",
+    "precision": "50%",
+    "pp": "5"
+  },
+  {
+    "name": "Mégacorne",
+    "url": "https://www.pokepedia.fr/M%C3%A9gacorne",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "120",
+    "precision": "85%",
+    "pp": "10"
+  },
+  {
+    "name": "Dracosouffle",
+    "url": "https://www.pokepedia.fr/Dracosouffle",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Relais",
+    "url": "https://www.pokepedia.fr/Relais",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Encore",
+    "url": "https://www.pokepedia.fr/Encore",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Poursuite",
+    "url": "https://www.pokepedia.fr/Poursuite",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Tour Rapide",
+    "url": "https://www.pokepedia.fr/Tour_Rapide",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Doux Parfum",
+    "url": "https://www.pokepedia.fr/Doux_Parfum",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Queue de Fer",
+    "url": "https://www.pokepedia.fr/Queue_de_Fer",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "100",
+    "precision": "75%",
+    "pp": "15"
+  },
+  {
+    "name": "Griffe Acier",
+    "url": "https://www.pokepedia.fr/Griffe_Acier",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "50",
+    "precision": "95%",
+    "pp": "35"
+  },
+  {
+    "name": "Corps Perdu",
+    "url": "https://www.pokepedia.fr/Corps_Perdu",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "70",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Aurore",
+    "url": "https://www.pokepedia.fr/Aurore_(capacit%C3%A9)",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Synthèse",
+    "url": "https://www.pokepedia.fr/Synth%C3%A8se",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Rayon Lune",
+    "url": "https://www.pokepedia.fr/Rayon_Lune",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Puissance Cachée",
+    "url": "https://www.pokepedia.fr/Puissance_Cach%C3%A9e",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Coup-Croix",
+    "url": "https://www.pokepedia.fr/Coup-Croix",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "100",
+    "precision": "80%",
+    "pp": "5"
+  },
+  {
+    "name": "Ouragan",
+    "url": "https://www.pokepedia.fr/Ouragan",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Danse Pluie",
+    "url": "https://www.pokepedia.fr/Danse_Pluie",
+    "type": "Eau",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Zénith",
+    "url": "https://www.pokepedia.fr/Z%C3%A9nith",
+    "type": "Feu",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Mâchouille",
+    "url": "https://www.pokepedia.fr/M%C3%A2chouille",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Voile Miroir",
+    "url": "https://www.pokepedia.fr/Voile_Miroir",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Boost",
+    "url": "https://www.pokepedia.fr/Boost",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Vitesse Extrême",
+    "url": "https://www.pokepedia.fr/Vitesse_Extr%C3%AAme",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Pouvoir Antique",
+    "url": "https://www.pokepedia.fr/Pouvoir_Antique",
+    "type": "Roche",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Ball'Ombre",
+    "url": "https://www.pokepedia.fr/Ball%27Ombre",
+    "type": "Spectre",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Prescience",
+    "url": "https://www.pokepedia.fr/Prescience",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "120",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Éclate-Roc",
+    "url": "https://www.pokepedia.fr/%C3%89clate-Roc",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Siphon",
+    "url": "https://www.pokepedia.fr/Siphon",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "35",
+    "precision": "85%",
+    "pp": "15"
+  },
+  {
+    "name": "Baston",
+    "url": "https://www.pokepedia.fr/Baston",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Bluff",
+    "url": "https://www.pokepedia.fr/Bluff",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Brouhaha",
+    "url": "https://www.pokepedia.fr/Brouhaha",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Stockage",
+    "url": "https://www.pokepedia.fr/Stockage",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Relâche",
+    "url": "https://www.pokepedia.fr/Rel%C3%A2che",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Avale",
+    "url": "https://www.pokepedia.fr/Avale",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Canicule",
+    "url": "https://www.pokepedia.fr/Canicule_(capacit%C3%A9)",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Grêle",
+    "url": "https://www.pokepedia.fr/Gr%C3%AAle_(capacit%C3%A9)",
+    "type": "Glace",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Tourmente",
+    "url": "https://www.pokepedia.fr/Tourmente",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Flatterie",
+    "url": "https://www.pokepedia.fr/Flatterie",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Feu Follet",
+    "url": "https://www.pokepedia.fr/Feu_Follet",
+    "type": "Feu",
+    "category": "Statut",
+    "power": "—",
+    "precision": "85%",
+    "pp": "15"
+  },
+  {
+    "name": "Souvenir",
+    "url": "https://www.pokepedia.fr/Souvenir",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Façade",
+    "url": "https://www.pokepedia.fr/Fa%C3%A7ade",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Mitra-Poing",
+    "url": "https://www.pokepedia.fr/Mitra-Poing",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "150",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Stimulant",
+    "url": "https://www.pokepedia.fr/Stimulant",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Par Ici",
+    "url": "https://www.pokepedia.fr/Par_Ici",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Force-Nature",
+    "url": "https://www.pokepedia.fr/Force-Nature",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "95%",
+    "pp": "20"
+  },
+  {
+    "name": "Chargeur",
+    "url": "https://www.pokepedia.fr/Chargeur",
+    "type": "Électrik",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Provoc",
+    "url": "https://www.pokepedia.fr/Provoc",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Coup d'Main",
+    "url": "https://www.pokepedia.fr/Coup_d%27Main",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Tourmagik",
+    "url": "https://www.pokepedia.fr/Tourmagik",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Imitation",
+    "url": "https://www.pokepedia.fr/Imitation",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Vœu",
+    "url": "https://www.pokepedia.fr/V%C5%93u",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Assistance",
+    "url": "https://www.pokepedia.fr/Assistance",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Racines",
+    "url": "https://www.pokepedia.fr/Racines",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Surpuissance",
+    "url": "https://www.pokepedia.fr/Surpuissance",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Reflet Magik",
+    "url": "https://www.pokepedia.fr/Reflet_Magik",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Recyclage",
+    "url": "https://www.pokepedia.fr/Recyclage",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Vendetta",
+    "url": "https://www.pokepedia.fr/Vendetta",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Casse-Brique",
+    "url": "https://www.pokepedia.fr/Casse-Brique",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "75",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Bâillement",
+    "url": "https://www.pokepedia.fr/B%C3%A2illement",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Sabotage",
+    "url": "https://www.pokepedia.fr/Sabotage",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "20",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Effort",
+    "url": "https://www.pokepedia.fr/Effort",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Éruption",
+    "url": "https://www.pokepedia.fr/%C3%89ruption",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "150",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Échange",
+    "url": "https://www.pokepedia.fr/%C3%89change_(capacit%C3%A9)",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Possessif",
+    "url": "https://www.pokepedia.fr/Possessif",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Régénération",
+    "url": "https://www.pokepedia.fr/R%C3%A9g%C3%A9n%C3%A9ration",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Rancune",
+    "url": "https://www.pokepedia.fr/Rancune",
+    "type": "Spectre",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Saisie",
+    "url": "https://www.pokepedia.fr/Saisie",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Force Cachée",
+    "url": "https://www.pokepedia.fr/Force_Cach%C3%A9e",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Plongée",
+    "url": "https://www.pokepedia.fr/Plong%C3%A9e",
+    "type": "Eau",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Cogne",
+    "url": "https://www.pokepedia.fr/Cogne",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "15",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Camouflage",
+    "url": "https://www.pokepedia.fr/Camouflage",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Lumiqueue",
+    "url": "https://www.pokepedia.fr/Lumiqueue",
+    "type": "Insecte",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Lumi-Éclat",
+    "url": "https://www.pokepedia.fr/Lumi-%C3%89clat",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "70",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Ball'Brume",
+    "url": "https://www.pokepedia.fr/Ball%27Brume",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "70",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Danse-Plume",
+    "url": "https://www.pokepedia.fr/Danse-Plume",
+    "type": "Vol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Danse-Folle",
+    "url": "https://www.pokepedia.fr/Danse-Folle",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Pied Brûleur",
+    "url": "https://www.pokepedia.fr/Pied_Br%C3%BBleur",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "85",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Lance-Boue",
+    "url": "https://www.pokepedia.fr/Lance-Boue",
+    "type": "Sol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Ball'Glace",
+    "url": "https://www.pokepedia.fr/Ball%27Glace",
+    "type": "Glace",
+    "category": "Physique",
+    "power": "30",
+    "precision": "90%",
+    "pp": "20"
+  },
+  {
+    "name": "Poing Dard",
+    "url": "https://www.pokepedia.fr/Poing_Dard",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Paresse",
+    "url": "https://www.pokepedia.fr/Paresse",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Mégaphone",
+    "url": "https://www.pokepedia.fr/M%C3%A9gaphone",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Crochet Venin",
+    "url": "https://www.pokepedia.fr/Crochet_Venin",
+    "type": "Poison",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Éclate Griffe",
+    "url": "https://www.pokepedia.fr/%C3%89clate_Griffe",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "75",
+    "precision": "95%",
+    "pp": "10"
+  },
+  {
+    "name": "Rafale Feu",
+    "url": "https://www.pokepedia.fr/Rafale_Feu",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "150",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Hydroblast",
+    "url": "https://www.pokepedia.fr/Hydroblast",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "150",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Poing Météor",
+    "url": "https://www.pokepedia.fr/Poing_M%C3%A9t%C3%A9or",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "100",
+    "precision": "85%",
+    "pp": "10"
+  },
+  {
+    "name": "Étonnement",
+    "url": "https://www.pokepedia.fr/%C3%89tonnement",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "30",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Ball'Météo",
+    "url": "https://www.pokepedia.fr/Ball%27M%C3%A9t%C3%A9o",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Aromathérapie",
+    "url": "https://www.pokepedia.fr/Aromath%C3%A9rapie",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Croco Larme",
+    "url": "https://www.pokepedia.fr/Croco_Larme",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Tranch'Air",
+    "url": "https://www.pokepedia.fr/Tranch%27Air",
+    "type": "Vol",
+    "category": "Spéciale",
+    "power": "55",
+    "precision": "95%",
+    "pp": "25"
+  },
+  {
+    "name": "Surchauffe",
+    "url": "https://www.pokepedia.fr/Surchauffe",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "140",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Flair",
+    "url": "https://www.pokepedia.fr/Flair",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "40"
+  },
+  {
+    "name": "Tomberoche",
+    "url": "https://www.pokepedia.fr/Tomberoche",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "50",
+    "precision": "80%",
+    "pp": "10"
+  },
+  {
+    "name": "Vent Argenté",
+    "url": "https://www.pokepedia.fr/Vent_Argent%C3%A9",
+    "type": "Insecte",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Strido-Son",
+    "url": "https://www.pokepedia.fr/Strido-Son",
+    "type": "Acier",
+    "category": "Statut",
+    "power": "—",
+    "precision": "85%",
+    "pp": "40"
+  },
+  {
+    "name": "Siffl'Herbe",
+    "url": "https://www.pokepedia.fr/Siffl%27Herbe",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "55%",
+    "pp": "15"
+  },
+  {
+    "name": "Chatouille",
+    "url": "https://www.pokepedia.fr/Chatouille",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Force Cosmik",
+    "url": "https://www.pokepedia.fr/Force_Cosmik",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Giclédo",
+    "url": "https://www.pokepedia.fr/Gicl%C3%A9do",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Rayon Signal",
+    "url": "https://www.pokepedia.fr/Rayon_Signal",
+    "type": "Insecte",
+    "category": "Spéciale",
+    "power": "75",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Poing Ombre",
+    "url": "https://www.pokepedia.fr/Poing_Ombre",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "60",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Extrasenseur",
+    "url": "https://www.pokepedia.fr/Extrasenseur",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Stratopercut",
+    "url": "https://www.pokepedia.fr/Stratopercut",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "85",
+    "precision": "90%",
+    "pp": "15"
+  },
+  {
+    "name": "Tourbi-Sable",
+    "url": "https://www.pokepedia.fr/Tourbi-Sable",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "35",
+    "precision": "85%",
+    "pp": "15"
+  },
+  {
+    "name": "Glaciation",
+    "url": "https://www.pokepedia.fr/Glaciation",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "OHKO",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Ocroupi",
+    "url": "https://www.pokepedia.fr/Ocroupi",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "95",
+    "precision": "85%",
+    "pp": "10"
+  },
+  {
+    "name": "Balle Graine",
+    "url": "https://www.pokepedia.fr/Balle_Graine",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "25",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Aéropique",
+    "url": "https://www.pokepedia.fr/A%C3%A9ropique",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "60",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Stalagtite",
+    "url": "https://www.pokepedia.fr/Stalagtite",
+    "type": "Glace",
+    "category": "Physique",
+    "power": "25",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Mur de Fer",
+    "url": "https://www.pokepedia.fr/Mur_de_Fer",
+    "type": "Acier",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Barrage",
+    "url": "https://www.pokepedia.fr/Barrage",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Grondement",
+    "url": "https://www.pokepedia.fr/Grondement",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Dracogriffe",
+    "url": "https://www.pokepedia.fr/Dracogriffe",
+    "type": "Dragon",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Végé-Attak",
+    "url": "https://www.pokepedia.fr/V%C3%A9g%C3%A9-Attak",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "150",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Gonflette",
+    "url": "https://www.pokepedia.fr/Gonflette",
+    "type": "Combat",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Rebond",
+    "url": "https://www.pokepedia.fr/Rebond",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "85",
+    "precision": "85%",
+    "pp": "5"
+  },
+  {
+    "name": "Tir de Boue",
+    "url": "https://www.pokepedia.fr/Tir_de_Boue",
+    "type": "Sol",
+    "category": "Spéciale",
+    "power": "55",
+    "precision": "95%",
+    "pp": "15"
+  },
+  {
+    "name": "Queue-Poison",
+    "url": "https://www.pokepedia.fr/Queue-Poison",
+    "type": "Poison",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Implore",
+    "url": "https://www.pokepedia.fr/Implore",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "40"
+  },
+  {
+    "name": "Électacle",
+    "url": "https://www.pokepedia.fr/%C3%89lectacle",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Feuille Magik",
+    "url": "https://www.pokepedia.fr/Feuille_Magik",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Tourniquet",
+    "url": "https://www.pokepedia.fr/Tourniquet",
+    "type": "Eau",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Plénitude",
+    "url": "https://www.pokepedia.fr/Pl%C3%A9nitude",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Lame-Feuille",
+    "url": "https://www.pokepedia.fr/Lame-Feuille",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Danse Draco",
+    "url": "https://www.pokepedia.fr/Danse_Draco",
+    "type": "Dragon",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Boule Roc",
+    "url": "https://www.pokepedia.fr/Boule_Roc",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "25",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Onde de Choc",
+    "url": "https://www.pokepedia.fr/Onde_de_Choc_(capacit%C3%A9)",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Vibraqua",
+    "url": "https://www.pokepedia.fr/Vibraqua",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Carnareket",
+    "url": "https://www.pokepedia.fr/Carnareket",
+    "type": "Acier",
+    "category": "Spéciale",
+    "power": "140",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Psycho Boost",
+    "url": "https://www.pokepedia.fr/Psycho_Boost",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "140",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Atterrissage",
+    "url": "https://www.pokepedia.fr/Atterrissage",
+    "type": "Vol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Gravité",
+    "url": "https://www.pokepedia.fr/Gravit%C3%A9",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Œil Miracle",
+    "url": "https://www.pokepedia.fr/%C5%92il_Miracle",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Réveil Forcé",
+    "url": "https://www.pokepedia.fr/R%C3%A9veil_Forc%C3%A9",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Marto-Poing",
+    "url": "https://www.pokepedia.fr/Marto-Poing",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "100",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Gyroballe",
+    "url": "https://www.pokepedia.fr/Gyroballe",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Vœu Soin",
+    "url": "https://www.pokepedia.fr/V%C5%93u_Soin",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Saumure",
+    "url": "https://www.pokepedia.fr/Saumure",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Don Naturel",
+    "url": "https://www.pokepedia.fr/Don_Naturel",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Ruse",
+    "url": "https://www.pokepedia.fr/Ruse",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "30",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Picore",
+    "url": "https://www.pokepedia.fr/Picore",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Vent Arrière",
+    "url": "https://www.pokepedia.fr/Vent_Arri%C3%A8re",
+    "type": "Vol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Acupression",
+    "url": "https://www.pokepedia.fr/Acupression",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Fulmifer",
+    "url": "https://www.pokepedia.fr/Fulmifer",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Demi-Tour",
+    "url": "https://www.pokepedia.fr/Demi-Tour",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Close Combat",
+    "url": "https://www.pokepedia.fr/Close_Combat",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Représailles",
+    "url": "https://www.pokepedia.fr/Repr%C3%A9sailles",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Assurance",
+    "url": "https://www.pokepedia.fr/Assurance",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Embargo",
+    "url": "https://www.pokepedia.fr/Embargo",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Dégommage",
+    "url": "https://www.pokepedia.fr/D%C3%A9gommage",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Échange Psy",
+    "url": "https://www.pokepedia.fr/%C3%89change_Psy",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Atout",
+    "url": "https://www.pokepedia.fr/Atout",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Anti-Soin",
+    "url": "https://www.pokepedia.fr/Anti-Soin",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Essorage",
+    "url": "https://www.pokepedia.fr/Essorage",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Astuce Force",
+    "url": "https://www.pokepedia.fr/Astuce_Force",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Suc Digestif",
+    "url": "https://www.pokepedia.fr/Suc_Digestif",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Air Veinard",
+    "url": "https://www.pokepedia.fr/Air_Veinard",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Moi d'Abord",
+    "url": "https://www.pokepedia.fr/Moi_d%27Abord",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Photocopie",
+    "url": "https://www.pokepedia.fr/Photocopie",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Permuforce",
+    "url": "https://www.pokepedia.fr/Permuforce",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Permugarde",
+    "url": "https://www.pokepedia.fr/Permugarde",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Punition",
+    "url": "https://www.pokepedia.fr/Punition",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Dernier Recours",
+    "url": "https://www.pokepedia.fr/Dernier_Recours",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "140",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Soucigraine",
+    "url": "https://www.pokepedia.fr/Soucigraine",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Coup Bas",
+    "url": "https://www.pokepedia.fr/Coup_Bas",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Pics Toxik",
+    "url": "https://www.pokepedia.fr/Pics_Toxik",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Permucœur",
+    "url": "https://www.pokepedia.fr/Permuc%C5%93ur",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Anneau Hydro",
+    "url": "https://www.pokepedia.fr/Anneau_Hydro",
+    "type": "Eau",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Vol Magnétik",
+    "url": "https://www.pokepedia.fr/Vol_Magn%C3%A9tik",
+    "type": "Électrik",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Boutefeu",
+    "url": "https://www.pokepedia.fr/Boutefeu",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Forte-Paume",
+    "url": "https://www.pokepedia.fr/Forte-Paume",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Aurasphère",
+    "url": "https://www.pokepedia.fr/Aurasph%C3%A8re",
+    "type": "Combat",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Poliroche",
+    "url": "https://www.pokepedia.fr/Poliroche",
+    "type": "Roche",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Direct Toxik",
+    "url": "https://www.pokepedia.fr/Direct_Toxik",
+    "type": "Poison",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Vibrobscur",
+    "url": "https://www.pokepedia.fr/Vibrobscur",
+    "type": "Ténèbres",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Tranche-Nuit",
+    "url": "https://www.pokepedia.fr/Tranche-Nuit",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Hydroqueue",
+    "url": "https://www.pokepedia.fr/Hydroqueue",
+    "type": "Eau",
+    "category": "Physique",
+    "power": "90",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Canon Graine",
+    "url": "https://www.pokepedia.fr/Canon_Graine",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Lame d'Air",
+    "url": "https://www.pokepedia.fr/Lame_d%27Air",
+    "type": "Vol",
+    "category": "Spéciale",
+    "power": "75",
+    "precision": "95%",
+    "pp": "20"
+  },
+  {
+    "name": "Plaie-Croix",
+    "url": "https://www.pokepedia.fr/Plaie-Croix",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Bourdon",
+    "url": "https://www.pokepedia.fr/Bourdon",
+    "type": "Insecte",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Dracochoc",
+    "url": "https://www.pokepedia.fr/Dracochoc",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "85",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Dracocharge",
+    "url": "https://www.pokepedia.fr/Dracocharge",
+    "type": "Dragon",
+    "category": "Physique",
+    "power": "100",
+    "precision": "75%",
+    "pp": "10"
+  },
+  {
+    "name": "Rayon Gemme",
+    "url": "https://www.pokepedia.fr/Rayon_Gemme",
+    "type": "Roche",
+    "category": "Spéciale",
+    "power": "70",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Vampipoing",
+    "url": "https://www.pokepedia.fr/Vampipoing",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "75",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Onde Vide",
+    "url": "https://www.pokepedia.fr/Onde_Vide",
+    "type": "Combat",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Exploforce",
+    "url": "https://www.pokepedia.fr/Exploforce",
+    "type": "Combat",
+    "category": "Spéciale",
+    "power": "120",
+    "precision": "70%",
+    "pp": "5"
+  },
+  {
+    "name": "Éco-Sphère",
+    "url": "https://www.pokepedia.fr/%C3%89co-Sph%C3%A8re",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Rapace",
+    "url": "https://www.pokepedia.fr/Rapace",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Telluriforce",
+    "url": "https://www.pokepedia.fr/Telluriforce",
+    "type": "Sol",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Passe-Passe",
+    "url": "https://www.pokepedia.fr/Passe-Passe",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Giga Impact",
+    "url": "https://www.pokepedia.fr/Giga_Impact",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "150",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Machination",
+    "url": "https://www.pokepedia.fr/Machination",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Pisto-Poing",
+    "url": "https://www.pokepedia.fr/Pisto-Poing",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Avalanche",
+    "url": "https://www.pokepedia.fr/Avalanche",
+    "type": "Glace",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Éclats Glace",
+    "url": "https://www.pokepedia.fr/%C3%89clats_Glace",
+    "type": "Glace",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Griffe Ombre",
+    "url": "https://www.pokepedia.fr/Griffe_Ombre",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Crocs Éclair",
+    "url": "https://www.pokepedia.fr/Crocs_%C3%89clair",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "65",
+    "precision": "95%",
+    "pp": "15"
+  },
+  {
+    "name": "Crocs Givre",
+    "url": "https://www.pokepedia.fr/Crocs_Givre",
+    "type": "Glace",
+    "category": "Physique",
+    "power": "65",
+    "precision": "95%",
+    "pp": "15"
+  },
+  {
+    "name": "Crocs Feu",
+    "url": "https://www.pokepedia.fr/Crocs_Feu",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "65",
+    "precision": "95%",
+    "pp": "15"
+  },
+  {
+    "name": "Ombre Portée",
+    "url": "https://www.pokepedia.fr/Ombre_Port%C3%A9e",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "30"
+  },
+  {
+    "name": "Boue-Bombe",
+    "url": "https://www.pokepedia.fr/Boue-Bombe",
+    "type": "Sol",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "85%",
+    "pp": "10"
+  },
+  {
+    "name": "Coupe Psycho",
+    "url": "https://www.pokepedia.fr/Coupe_Psycho",
+    "type": "Psy",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Psykoud'Boul",
+    "url": "https://www.pokepedia.fr/Psykoud%27Boul",
+    "type": "Psy",
+    "category": "Physique",
+    "power": "80",
+    "precision": "90%",
+    "pp": "15"
+  },
+  {
+    "name": "Miroi-Tir",
+    "url": "https://www.pokepedia.fr/Miroi-Tir",
+    "type": "Acier",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "85%",
+    "pp": "10"
+  },
+  {
+    "name": "Luminocanon",
+    "url": "https://www.pokepedia.fr/Luminocanon",
+    "type": "Acier",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Escalade",
+    "url": "https://www.pokepedia.fr/Escalade",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "90",
+    "precision": "85%",
+    "pp": "20"
+  },
+  {
+    "name": "Anti-Brume",
+    "url": "https://www.pokepedia.fr/Anti-Brume",
+    "type": "Vol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Distorsion",
+    "url": "https://www.pokepedia.fr/Distorsion_(capacit%C3%A9)",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Draco Météore",
+    "url": "https://www.pokepedia.fr/Draco_M%C3%A9t%C3%A9ore",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "140",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Coup d'Jus",
+    "url": "https://www.pokepedia.fr/Coup_d%27Jus",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Ébullilave",
+    "url": "https://www.pokepedia.fr/%C3%89bullilave",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Tempête Verte",
+    "url": "https://www.pokepedia.fr/Temp%C3%AAte_Verte",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "140",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Mégafouet",
+    "url": "https://www.pokepedia.fr/M%C3%A9gafouet",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "120",
+    "precision": "85%",
+    "pp": "10"
+  },
+  {
+    "name": "Roc-Boulet",
+    "url": "https://www.pokepedia.fr/Roc-Boulet",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "150",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Poison-Croix",
+    "url": "https://www.pokepedia.fr/Poison-Croix",
+    "type": "Poison",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Détricanon",
+    "url": "https://www.pokepedia.fr/D%C3%A9tricanon",
+    "type": "Poison",
+    "category": "Physique",
+    "power": "120",
+    "precision": "70%",
+    "pp": "5"
+  },
+  {
+    "name": "Tête de Fer",
+    "url": "https://www.pokepedia.fr/T%C3%AAte_de_Fer",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Bombaimant",
+    "url": "https://www.pokepedia.fr/Bombaimant",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "60",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Lame de Roc",
+    "url": "https://www.pokepedia.fr/Lame_de_Roc",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "100",
+    "precision": "80%",
+    "pp": "5"
+  },
+  {
+    "name": "Séduction",
+    "url": "https://www.pokepedia.fr/S%C3%A9duction",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Piège de Roc",
+    "url": "https://www.pokepedia.fr/Pi%C3%A8ge_de_Roc",
+    "type": "Roche",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Nœud Herbe",
+    "url": "https://www.pokepedia.fr/N%C5%93ud_Herbe",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Babil",
+    "url": "https://www.pokepedia.fr/Babil",
+    "type": "Vol",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Jugement",
+    "url": "https://www.pokepedia.fr/Jugement",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Piqûre",
+    "url": "https://www.pokepedia.fr/Piq%C3%BBre",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Rayon Chargé",
+    "url": "https://www.pokepedia.fr/Rayon_Charg%C3%A9",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Martobois",
+    "url": "https://www.pokepedia.fr/Martobois",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Aqua-Jet",
+    "url": "https://www.pokepedia.fr/Aqua-Jet",
+    "type": "Eau",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Appel Attaque",
+    "url": "https://www.pokepedia.fr/Appel_Attaque",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Appel Défense",
+    "url": "https://www.pokepedia.fr/Appel_D%C3%A9fense",
+    "type": "Insecte",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Appel Soins",
+    "url": "https://www.pokepedia.fr/Appel_Soins",
+    "type": "Insecte",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Fracass'Tête",
+    "url": "https://www.pokepedia.fr/Fracass%27T%C3%AAte",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "150",
+    "precision": "80%",
+    "pp": "5"
+  },
+  {
+    "name": "Coup Double",
+    "url": "https://www.pokepedia.fr/Coup_Double",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "35",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Hurle-Temps",
+    "url": "https://www.pokepedia.fr/Hurle-Temps",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "150",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Spatio-Rift",
+    "url": "https://www.pokepedia.fr/Spatio-Rift",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "95%",
+    "pp": "5"
+  },
+  {
+    "name": "Danse-Lune",
+    "url": "https://www.pokepedia.fr/Danse-Lune",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Presse",
+    "url": "https://www.pokepedia.fr/Presse",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Vortex Magma",
+    "url": "https://www.pokepedia.fr/Vortex_Magma",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "120",
+    "precision": "75%",
+    "pp": "5"
+  },
+  {
+    "name": "Trou Noir",
+    "url": "https://www.pokepedia.fr/Trou_Noir",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "80%",
+    "pp": "10"
+  },
+  {
+    "name": "Fulmigraine",
+    "url": "https://www.pokepedia.fr/Fulmigraine",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "120",
+    "precision": "85%",
+    "pp": "5"
+  },
+  {
+    "name": "Vent Mauvais",
+    "url": "https://www.pokepedia.fr/Vent_Mauvais",
+    "type": "Spectre",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Revenant",
+    "url": "https://www.pokepedia.fr/Revenant",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Aiguisage",
+    "url": "https://www.pokepedia.fr/Aiguisage",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Garde Large",
+    "url": "https://www.pokepedia.fr/Garde_Large",
+    "type": "Roche",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Partage Garde",
+    "url": "https://www.pokepedia.fr/Partage_Garde",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Partage Force",
+    "url": "https://www.pokepedia.fr/Partage_Force",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Zone Étrange",
+    "url": "https://www.pokepedia.fr/Zone_%C3%89trange",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Choc Psy",
+    "url": "https://www.pokepedia.fr/Choc_Psy",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Choc Venin",
+    "url": "https://www.pokepedia.fr/Choc_Venin",
+    "type": "Poison",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Allègement",
+    "url": "https://www.pokepedia.fr/All%C3%A8gement",
+    "type": "Acier",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Poudre Fureur",
+    "url": "https://www.pokepedia.fr/Poudre_Fureur",
+    "type": "Insecte",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Lévikinésie",
+    "url": "https://www.pokepedia.fr/L%C3%A9vikin%C3%A9sie",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Zone Magique",
+    "url": "https://www.pokepedia.fr/Zone_Magique",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Anti-Air",
+    "url": "https://www.pokepedia.fr/Anti-Air",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Yama Arashi",
+    "url": "https://www.pokepedia.fr/Yama_Arashi",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Rebondifeu",
+    "url": "https://www.pokepedia.fr/Rebondifeu",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "70",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Cradovague",
+    "url": "https://www.pokepedia.fr/Cradovague",
+    "type": "Poison",
+    "category": "Spéciale",
+    "power": "95",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Papillodanse",
+    "url": "https://www.pokepedia.fr/Papillodanse",
+    "type": "Insecte",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Tacle Lourd",
+    "url": "https://www.pokepedia.fr/Tacle_Lourd",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Synchropeine",
+    "url": "https://www.pokepedia.fr/Synchropeine",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "70",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Boule Élek",
+    "url": "https://www.pokepedia.fr/Boule_%C3%89lek",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Détrempage",
+    "url": "https://www.pokepedia.fr/D%C3%A9trempage",
+    "type": "Eau",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Nitrocharge",
+    "url": "https://www.pokepedia.fr/Nitrocharge",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Enroulement",
+    "url": "https://www.pokepedia.fr/Enroulement",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Balayette",
+    "url": "https://www.pokepedia.fr/Balayette",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Bombe Acide",
+    "url": "https://www.pokepedia.fr/Bombe_Acide",
+    "type": "Poison",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Tricherie",
+    "url": "https://www.pokepedia.fr/Tricherie",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "95",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Rayon Simple",
+    "url": "https://www.pokepedia.fr/Rayon_Simple",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Ten-danse",
+    "url": "https://www.pokepedia.fr/Ten-danse",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Après Vous",
+    "url": "https://www.pokepedia.fr/Apr%C3%A8s_Vous",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Chant Canon",
+    "url": "https://www.pokepedia.fr/Chant_Canon",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "60",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Écho",
+    "url": "https://www.pokepedia.fr/%C3%89cho_(capacit%C3%A9)",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Attrition",
+    "url": "https://www.pokepedia.fr/Attrition",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Bain de Smog",
+    "url": "https://www.pokepedia.fr/Bain_de_Smog",
+    "type": "Poison",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Force Ajoutée",
+    "url": "https://www.pokepedia.fr/Force_Ajout%C3%A9e",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "20",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Prévention",
+    "url": "https://www.pokepedia.fr/Pr%C3%A9vention",
+    "type": "Combat",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Interversion",
+    "url": "https://www.pokepedia.fr/Interversion",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Ébullition",
+    "url": "https://www.pokepedia.fr/%C3%89bullition",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Exuviation",
+    "url": "https://www.pokepedia.fr/Exuviation",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Vibra Soin",
+    "url": "https://www.pokepedia.fr/Vibra_Soin",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Châtiment",
+    "url": "https://www.pokepedia.fr/Ch%C3%A2timent",
+    "type": "Spectre",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Chute Libre",
+    "url": "https://www.pokepedia.fr/Chute_Libre",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Chgt Vitesse",
+    "url": "https://www.pokepedia.fr/Chgt_Vitesse",
+    "type": "Acier",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Projection",
+    "url": "https://www.pokepedia.fr/Projection",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "60",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Calcination",
+    "url": "https://www.pokepedia.fr/Calcination",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "30",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "À la Queue",
+    "url": "https://www.pokepedia.fr/%C3%80_la_Queue",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Acrobatie",
+    "url": "https://www.pokepedia.fr/Acrobatie",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "55",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Copie-Type",
+    "url": "https://www.pokepedia.fr/Copie-Type",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Vengeance",
+    "url": "https://www.pokepedia.fr/Vengeance",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Tout ou Rien",
+    "url": "https://www.pokepedia.fr/Tout_ou_Rien",
+    "type": "Combat",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Passe-Cadeau",
+    "url": "https://www.pokepedia.fr/Passe-Cadeau",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Feu d'Enfer",
+    "url": "https://www.pokepedia.fr/Feu_d%27Enfer",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "50%",
+    "pp": "5"
+  },
+  {
+    "name": "Aire d'Eau",
+    "url": "https://www.pokepedia.fr/Aire_d%27Eau",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Aire de Feu",
+    "url": "https://www.pokepedia.fr/Aire_de_Feu",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Aire d'Herbe",
+    "url": "https://www.pokepedia.fr/Aire_d%27Herbe",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Change Éclair",
+    "url": "https://www.pokepedia.fr/Change_%C3%89clair",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "70",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Survinsecte",
+    "url": "https://www.pokepedia.fr/Survinsecte",
+    "type": "Insecte",
+    "category": "Spéciale",
+    "power": "30",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Piétisol",
+    "url": "https://www.pokepedia.fr/Pi%C3%A9tisol",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Souffle Glacé",
+    "url": "https://www.pokepedia.fr/Souffle_Glac%C3%A9",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Draco-Queue",
+    "url": "https://www.pokepedia.fr/Draco-Queue",
+    "type": "Dragon",
+    "category": "Physique",
+    "power": "60",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Rengorgement",
+    "url": "https://www.pokepedia.fr/Rengorgement",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Toile Élek",
+    "url": "https://www.pokepedia.fr/Toile_%C3%89lek",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "55",
+    "precision": "95%",
+    "pp": "15"
+  },
+  {
+    "name": "Éclair Fou",
+    "url": "https://www.pokepedia.fr/%C3%89clair_Fou",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Tunnelier",
+    "url": "https://www.pokepedia.fr/Tunnelier",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "80",
+    "precision": "95%",
+    "pp": "10"
+  },
+  {
+    "name": "Double Baffe",
+    "url": "https://www.pokepedia.fr/Double_Baffe",
+    "type": "Dragon",
+    "category": "Physique",
+    "power": "40",
+    "precision": "90%",
+    "pp": "15"
+  },
+  {
+    "name": "Crèvecœur",
+    "url": "https://www.pokepedia.fr/Cr%C3%A8vec%C5%93ur",
+    "type": "Psy",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100%",
+    "pp": "25"
+  },
+  {
+    "name": "Encornebois",
+    "url": "https://www.pokepedia.fr/Encornebois",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "75",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Lame Sainte",
+    "url": "https://www.pokepedia.fr/Lame_Sainte",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Coquilame",
+    "url": "https://www.pokepedia.fr/Coquilame",
+    "type": "Eau",
+    "category": "Physique",
+    "power": "75",
+    "precision": "95%",
+    "pp": "10"
+  },
+  {
+    "name": "Tacle Feu",
+    "url": "https://www.pokepedia.fr/Tacle_Feu",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "—",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Phytomixeur",
+    "url": "https://www.pokepedia.fr/Phytomixeur",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Bulldoboule",
+    "url": "https://www.pokepedia.fr/Bulldoboule",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "65",
+    "precision": "100%",
+    "pp": "20"
+  },
+  {
+    "name": "Cotogarde",
+    "url": "https://www.pokepedia.fr/Cotogarde",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Explonuit",
+    "url": "https://www.pokepedia.fr/Explonuit",
+    "type": "Ténèbres",
+    "category": "Spéciale",
+    "power": "85",
+    "precision": "95%",
+    "pp": "10"
+  },
+  {
+    "name": "Frappe Psy",
+    "url": "https://www.pokepedia.fr/Frappe_Psy",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Plumo-Queue",
+    "url": "https://www.pokepedia.fr/Plumo-Queue",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "25",
+    "precision": "85%",
+    "pp": "10"
+  },
+  {
+    "name": "Vent Violent",
+    "url": "https://www.pokepedia.fr/Vent_Violent",
+    "type": "Vol",
+    "category": "Spéciale",
+    "power": "120",
+    "precision": "70%",
+    "pp": "10"
+  },
+  {
+    "name": "Peignée",
+    "url": "https://www.pokepedia.fr/Peign%C3%A9e",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100%",
+    "pp": "15"
+  },
+  {
+    "name": "Lancécrou",
+    "url": "https://www.pokepedia.fr/Lanc%C3%A9crou",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "50",
+    "precision": "85%",
+    "pp": "15"
+  },
+  {
+    "name": "Incendie",
+    "url": "https://www.pokepedia.fr/Incendie",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Techno Buster",
+    "url": "https://www.pokepedia.fr/Techno_Buster",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "85",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Chant Antique",
+    "url": "https://www.pokepedia.fr/Chant_Antique",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "75",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Lame Ointe",
+    "url": "https://www.pokepedia.fr/Lame_Ointe",
+    "type": "Combat",
+    "category": "Spéciale",
+    "power": "85",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Ère Glaciaire",
+    "url": "https://www.pokepedia.fr/%C3%88re_Glaciaire",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "95%",
+    "pp": "10"
+  },
+  {
+    "name": "Charge Foudre",
+    "url": "https://www.pokepedia.fr/Charge_Foudre",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "130",
+    "precision": "85%",
+    "pp": "5"
+  },
+  {
+    "name": "Flamme Bleue",
+    "url": "https://www.pokepedia.fr/Flamme_Bleue",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "130",
+    "precision": "85%",
+    "pp": "5"
+  },
+  {
+    "name": "Danse du Feu",
+    "url": "https://www.pokepedia.fr/Danse_du_Feu",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100%",
+    "pp": "10"
+  },
+  {
+    "name": "Aboiement",
+    "url": "https://www.pokepedia.fr/Aboiement",
+    "type": "Ténèbres",
+    "category": "Spéciale",
+    "power": "55",
+    "precision": "95%",
+    "pp": "15"
+  },
+  {
+    "name": "Chute Glace",
+    "url": "https://www.pokepedia.fr/Chute_Glace",
+    "type": "Glace",
+    "category": "Physique",
+    "power": "85",
+    "precision": "90%",
+    "pp": "10"
+  },
+  {
+    "name": "Coup Victoire",
+    "url": "https://www.pokepedia.fr/Coup_Victoire",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "180",
+    "precision": "95%",
+    "pp": "5"
+  },
+  {
+    "name": "Flamme Croix",
+    "url": "https://www.pokepedia.fr/Flamme_Croix",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Éclair Croix",
+    "url": "https://www.pokepedia.fr/%C3%89clair_Croix",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "100",
+    "precision": "100%",
+    "pp": "5"
+  },
+  {
+    "name": "Éclair Gelé",
+    "url": "https://www.pokepedia.fr/%C3%89clair_Gel%C3%A9",
+    "type": "Glace",
+    "category": "Physique",
+    "power": "140",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Feu Glacé",
+    "url": "https://www.pokepedia.fr/Feu_Glac%C3%A9",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "140",
+    "precision": "90%",
+    "pp": "5"
+  },
+  {
+    "name": "Bang Sonique",
+    "url": "https://www.pokepedia.fr/Bang_Sonique",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "140",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Bouclier Royal",
+    "url": "https://www.pokepedia.fr/Bouclier_Royal",
+    "type": "Acier",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Brume Capiteuse",
+    "url": "https://www.pokepedia.fr/Brume_Capiteuse",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Câlinerie",
+    "url": "https://www.pokepedia.fr/C%C3%A2linerie",
+    "type": "Fée",
+    "category": "Physique",
+    "power": "90",
+    "precision": "90",
+    "pp": "10"
+  },
+  {
+    "name": "Camaraderie",
+    "url": "https://www.pokepedia.fr/Camaraderie",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Célébration",
+    "url": "https://www.pokepedia.fr/C%C3%A9l%C3%A9bration",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Champ Brumeux",
+    "url": "https://www.pokepedia.fr/Champ_Brumeux",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Champ Électrifié",
+    "url": "https://www.pokepedia.fr/Champ_%C3%89lectrifi%C3%A9",
+    "type": "Électrik",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Champ Herbu",
+    "url": "https://www.pokepedia.fr/Champ_Herbu",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Confidence",
+    "url": "https://www.pokepedia.fr/Confidence",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Dard Mortel",
+    "url": "https://www.pokepedia.fr/Dard_Mortel",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "30",
+    "precision": "100",
+    "pp": "25"
+  },
+  {
+    "name": "DélugePlasmique",
+    "url": "https://www.pokepedia.fr/D%C3%A9lugePlasmique",
+    "type": "Électrik",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "25"
+  },
+  {
+    "name": "Dernier Mot",
+    "url": "https://www.pokepedia.fr/Dernier_Mot",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Éclat Magique",
+    "url": "https://www.pokepedia.fr/%C3%89clat_Magique",
+    "type": "Fée",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Électrisation",
+    "url": "https://www.pokepedia.fr/%C3%89lectrisation",
+    "type": "Électrik",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Éructation",
+    "url": "https://www.pokepedia.fr/%C3%89ructation",
+    "type": "Poison",
+    "category": "Spéciale",
+    "power": "120",
+    "precision": "90",
+    "pp": "10"
+  },
+  {
+    "name": "Étrennes",
+    "url": "https://www.pokepedia.fr/%C3%89trennes",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Fertilisation",
+    "url": "https://www.pokepedia.fr/Fertilisation",
+    "type": "Sol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Feu Ensorcelé",
+    "url": "https://www.pokepedia.fr/Feu_Ensorcel%C3%A9",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "65",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Flying Press",
+    "url": "https://www.pokepedia.fr/Flying_Press",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "85",
+    "precision": "95",
+    "pp": "10"
+  },
+  {
+    "name": "Force Chtonienne",
+    "url": "https://www.pokepedia.fr/Force_Chtonienne",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Frotte-Frimousse",
+    "url": "https://www.pokepedia.fr/Frotte-Frimousse",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "20",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Garde Florale",
+    "url": "https://www.pokepedia.fr/Garde_Florale",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Géo-Contrôle",
+    "url": "https://www.pokepedia.fr/G%C3%A9o-Contr%C3%B4le",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Halloween",
+    "url": "https://www.pokepedia.fr/Halloween",
+    "type": "Spectre",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Hantise",
+    "url": "https://www.pokepedia.fr/Hantise",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Harcèlement",
+    "url": "https://www.pokepedia.fr/Harc%C3%A8lement",
+    "type": "Insecte",
+    "category": "Spéciale",
+    "power": "20",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Jet de Vapeur",
+    "url": "https://www.pokepedia.fr/Jet_de_Vapeur",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "110",
+    "precision": "90",
+    "pp": "5"
+  },
+  {
+    "name": "Lyophilisation",
+    "url": "https://www.pokepedia.fr/Lyophilisation",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "70",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Magné-Contrôle",
+    "url": "https://www.pokepedia.fr/Magn%C3%A9-Contr%C3%B4le",
+    "type": "Électrik",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Mains Jointes",
+    "url": "https://www.pokepedia.fr/Mains_Jointes",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "40"
+  },
+  {
+    "name": "Maléfice Sylvain",
+    "url": "https://www.pokepedia.fr/Mal%C3%A9fice_Sylvain",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Mort-Ailes",
+    "url": "https://www.pokepedia.fr/Mort-Ailes",
+    "type": "Vol",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Nuée de Poudre",
+    "url": "https://www.pokepedia.fr/Nu%C3%A9e_de_Poudre",
+    "type": "Insecte",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Ondes Étranges",
+    "url": "https://www.pokepedia.fr/Ondes_%C3%89tranges",
+    "type": "Électrik",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Orage Adamantin",
+    "url": "https://www.pokepedia.fr/Orage_Adamantin",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "100",
+    "precision": "95",
+    "pp": "5"
+  },
+  {
+    "name": "Parabocharge",
+    "url": "https://www.pokepedia.fr/Parabocharge",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Pico-Défense",
+    "url": "https://www.pokepedia.fr/Pico-D%C3%A9fense",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Piège de Venin",
+    "url": "https://www.pokepedia.fr/Pi%C3%A8ge_de_Venin",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Poing Boost",
+    "url": "https://www.pokepedia.fr/Poing_Boost",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Pouvoir Lunaire",
+    "url": "https://www.pokepedia.fr/Pouvoir_Lunaire",
+    "type": "Fée",
+    "category": "Spéciale",
+    "power": "95",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Râle Mâle",
+    "url": "https://www.pokepedia.fr/R%C3%A2le_M%C3%A2le",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "30"
+  },
+  {
+    "name": "Regard Touchant",
+    "url": "https://www.pokepedia.fr/Regard_Touchant",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "30"
+  },
+  {
+    "name": "Renversement",
+    "url": "https://www.pokepedia.fr/Renversement",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Retenue",
+    "url": "https://www.pokepedia.fr/Retenue",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100",
+    "pp": "40"
+  },
+  {
+    "name": "Sheauriken",
+    "url": "https://www.pokepedia.fr/Sheauriken",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "15",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Tatamigaeshi",
+    "url": "https://www.pokepedia.fr/Tatamigaeshi",
+    "type": "Combat",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Tempête Florale",
+    "url": "https://www.pokepedia.fr/Temp%C3%AAte_Florale",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Toile Gluante",
+    "url": "https://www.pokepedia.fr/Toile_Gluante",
+    "type": "Insecte",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "TrouDimensionnel",
+    "url": "https://www.pokepedia.fr/TrouDimensionnel",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Vampibaiser",
+    "url": "https://www.pokepedia.fr/Vampibaiser",
+    "type": "Fée",
+    "category": "Spéciale",
+    "power": "50",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Vent Féérique",
+    "url": "https://www.pokepedia.fr/Vent_F%C3%A9%C3%A9rique",
+    "type": "Fée",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "100",
+    "pp": "30"
+  },
+  {
+    "name": "Verrou Enchanté",
+    "url": "https://www.pokepedia.fr/Verrou_Enchant%C3%A9",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Vigilance",
+    "url": "https://www.pokepedia.fr/Vigilance",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Voix Enjôleuse",
+    "url": "https://www.pokepedia.fr/Voix_Enj%C3%B4leuse",
+    "type": "Fée",
+    "category": "Spéciale",
+    "power": "40",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Draco Ascension",
+    "url": "https://www.pokepedia.fr/Draco_Ascension",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "120",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Furie Dimension",
+    "url": "https://www.pokepedia.fr/Furie_Dimension",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "100",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Lame Pangéenne",
+    "url": "https://www.pokepedia.fr/Lame_Pang%C3%A9enne",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "120",
+    "precision": "85",
+    "pp": "10"
+  },
+  {
+    "name": "Onde Originelle",
+    "url": "https://www.pokepedia.fr/Onde_Originelle",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "110",
+    "precision": "85",
+    "pp": "10"
+  },
+  {
+    "name": "Affilage",
+    "url": "https://www.pokepedia.fr/Affilage",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "30"
+  },
+  {
+    "name": "Amass'Sable",
+    "url": "https://www.pokepedia.fr/Amass%27Sable",
+    "type": "Sol",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Ancrage",
+    "url": "https://www.pokepedia.fr/Ancrage",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Aqua-Brèche",
+    "url": "https://www.pokepedia.fr/Aqua-Br%C3%A8che",
+    "type": "Eau",
+    "category": "Physique",
+    "power": "85",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Aria de l'Écume",
+    "url": "https://www.pokepedia.fr/Aria_de_l%27%C3%89cume",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Arrogance",
+    "url": "https://www.pokepedia.fr/Arrogance",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "20",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Bec-Canon",
+    "url": "https://www.pokepedia.fr/Bec-Canon",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "100",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Botte Sucrette",
+    "url": "https://www.pokepedia.fr/Botte_Sucrette",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "70",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Boule Pollen",
+    "url": "https://www.pokepedia.fr/Boule_Pollen",
+    "type": "Insecte",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Blockhaus",
+    "url": "https://www.pokepedia.fr/Blockhaus",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Canon Floral",
+    "url": "https://www.pokepedia.fr/Canon_Floral",
+    "type": "Fée",
+    "category": "Spéciale",
+    "power": "130",
+    "precision": "90",
+    "pp": "5"
+  },
+  {
+    "name": "Carapiège",
+    "url": "https://www.pokepedia.fr/Carapi%C3%A8ge",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "150",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Cavalerie Lourde",
+    "url": "https://www.pokepedia.fr/Cavalerie_Lourde",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "95",
+    "precision": "95",
+    "pp": "10"
+  },
+  {
+    "name": "Centrifugifle",
+    "url": "https://www.pokepedia.fr/Centrifugifle",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Champ Psychique",
+    "url": "https://www.pokepedia.fr/Champ_Psychique",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Choc Météore",
+    "url": "https://www.pokepedia.fr/Choc_M%C3%A9t%C3%A9ore",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "100",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Clepto-Mânes",
+    "url": "https://www.pokepedia.fr/Clepto-M%C3%A2nes",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Coup Varia-Type",
+    "url": "https://www.pokepedia.fr/Coup_Varia-Type",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Danse Éveil",
+    "url": "https://www.pokepedia.fr/Danse_%C3%89veil",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Dark Lariat",
+    "url": "https://www.pokepedia.fr/Dark_Lariat",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "85",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Draco-Marteau",
+    "url": "https://www.pokepedia.fr/Draco-Marteau",
+    "type": "Dragon",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Électrikipik",
+    "url": "https://www.pokepedia.fr/%C3%89lectrikipik",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Engrenage",
+    "url": "https://www.pokepedia.fr/Engrenage",
+    "type": "Acier",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Escarmouche",
+    "url": "https://www.pokepedia.fr/Escarmouche",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Estocorne",
+    "url": "https://www.pokepedia.fr/Estocorne",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "70",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Exécu-Son",
+    "url": "https://www.pokepedia.fr/Ex%C3%A9cu-Son",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Feuillage",
+    "url": "https://www.pokepedia.fr/Feuillage",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100",
+    "pp": "40"
+  },
+  {
+    "name": "Flamme Ultime",
+    "url": "https://www.pokepedia.fr/Flamme_Ultime",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "130",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Fil Toxique",
+    "url": "https://www.pokepedia.fr/Fil_Toxique",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Fouet de Feu",
+    "url": "https://www.pokepedia.fr/Fouet_de_Feu",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Furie-Bond",
+    "url": "https://www.pokepedia.fr/Furie-Bond",
+    "type": "Insecte",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Ire de la Nature",
+    "url": "https://www.pokepedia.fr/Ire_de_la_Nature",
+    "type": "Fée",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "90",
+    "pp": "10"
+  },
+  {
+    "name": "Lame Solaire",
+    "url": "https://www.pokepedia.fr/Lame_Solaire",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "125",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Larme à l'Œil",
+    "url": "https://www.pokepedia.fr/Larme_%C3%A0_l%27%C5%92il",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Laser Prisme",
+    "url": "https://www.pokepedia.fr/Laser_Prisme",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "160",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Marteau de Glace",
+    "url": "https://www.pokepedia.fr/Marteau_de_Glace",
+    "type": "Glace",
+    "category": "Physique",
+    "power": "100",
+    "precision": "90",
+    "pp": "10"
+  },
+  {
+    "name": "Myria-Flèches",
+    "url": "https://www.pokepedia.fr/Myria-Fl%C3%A8ches",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Myria-Vagues",
+    "url": "https://www.pokepedia.fr/Myria-Vagues",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Os'Ombre",
+    "url": "https://www.pokepedia.fr/Os%27Ombre",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "85",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Permuvitesse",
+    "url": "https://www.pokepedia.fr/Permuvitesse",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Projecteur",
+    "url": "https://www.pokepedia.fr/Projecteur",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Psycho-Croc",
+    "url": "https://www.pokepedia.fr/Psycho-Croc",
+    "type": "Psy",
+    "category": "Physique",
+    "power": "85",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Purification",
+    "url": "https://www.pokepedia.fr/Purification_(capacit%C3%A9)",
+    "type": "Poison",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Rayon Spectral",
+    "url": "https://www.pokepedia.fr/Rayon_Spectral",
+    "type": "Spectre",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Sanction Suprême",
+    "url": "https://www.pokepedia.fr/Sanction_Supr%C3%AAme",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Soin Floral",
+    "url": "https://www.pokepedia.fr/Soin_Floral",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Sommation",
+    "url": "https://www.pokepedia.fr/Sommation",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Tisse Ombre",
+    "url": "https://www.pokepedia.fr/Tisse_Ombre",
+    "type": "Spectre",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Trépignement",
+    "url": "https://www.pokepedia.fr/Tr%C3%A9pignement",
+    "type": "Sol",
+    "category": "Physique",
+    "power": "75",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Vibrécaille",
+    "url": "https://www.pokepedia.fr/Vibr%C3%A9caille",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "110",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Vif Roc",
+    "url": "https://www.pokepedia.fr/Vif_Roc",
+    "type": "Roche",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100",
+    "pp": "20"
+  },
+  {
+    "name": "Voile Aurore",
+    "url": "https://www.pokepedia.fr/Voile_Aurore",
+    "type": "Glace",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Vol-Force",
+    "url": "https://www.pokepedia.fr/Vol-Force",
+    "type": "Plante",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Caboche-Kaboum",
+    "url": "https://www.pokepedia.fr/Caboche-Kaboum",
+    "type": "Feu",
+    "category": "Spéciale",
+    "power": "150",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Photo-Geyser",
+    "url": "https://www.pokepedia.fr/Photo-Geyser",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Plasma Punch",
+    "url": "https://www.pokepedia.fr/Plasma_Punch",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "100",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Écrous d'Poing",
+    "url": "https://www.pokepedia.fr/%C3%89crous_d%27Poing",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Évo-Chardasso",
+    "url": "https://www.pokepedia.fr/%C3%89vo-Chardasso",
+    "type": "Normal",
+    "category": "Physique",
+    "power": "_",
+    "precision": "_",
+    "pp": "20"
+  },
+  {
+    "name": "Évo-Congélo",
+    "url": "https://www.pokepedia.fr/%C3%89vo-Cong%C3%A9lo",
+    "type": "Glace",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Évo-Dynamo",
+    "url": "https://www.pokepedia.fr/%C3%89vo-Dynamo",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Évo-Écolo",
+    "url": "https://www.pokepedia.fr/%C3%89vo-%C3%89colo",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Évo-Fabulo",
+    "url": "https://www.pokepedia.fr/%C3%89vo-Fabulo",
+    "type": "Fée",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Évo-Flambo",
+    "url": "https://www.pokepedia.fr/%C3%89vo-Flambo",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Évo-Psycho",
+    "url": "https://www.pokepedia.fr/%C3%89vo-Psycho",
+    "type": "Psy",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Évo-Ténébro",
+    "url": "https://www.pokepedia.fr/%C3%89vo-T%C3%A9n%C3%A9bro",
+    "type": "Ténèbres",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Évo-Thalasso",
+    "url": "https://www.pokepedia.fr/%C3%89vo-Thalasso",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Pika-Fracas",
+    "url": "https://www.pokepedia.fr/Pika-Fracas",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "_",
+    "precision": "_",
+    "pp": "20"
+  },
+  {
+    "name": "Pika-Piqué",
+    "url": "https://www.pokepedia.fr/Pika-Piqu%C3%A9",
+    "type": "Vol",
+    "category": "Physique",
+    "power": "90",
+    "precision": "95",
+    "pp": "15"
+  },
+  {
+    "name": "Pika-Splash",
+    "url": "https://www.pokepedia.fr/Pika-Splash",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Pika-Sprint",
+    "url": "https://www.pokepedia.fr/Pika-Sprint",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Abattage",
+    "url": "https://www.pokepedia.fr/Abattage",
+    "type": "Dragon",
+    "category": "Physique",
+    "power": "60",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Acide Malique",
+    "url": "https://www.pokepedia.fr/Acide_Malique",
+    "type": "Plante",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Aegis Maxima",
+    "url": "https://www.pokepedia.fr/Aegis_Maxima",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "100",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Ballon Brûlant",
+    "url": "https://www.pokepedia.fr/Ballon_Br%C3%BBlant",
+    "type": "Feu",
+    "category": "Physique",
+    "power": "120",
+    "precision": "90",
+    "pp": "5"
+  },
+  {
+    "name": "Big Splash",
+    "url": "https://www.pokepedia.fr/Big_Splash",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Blocage",
+    "url": "https://www.pokepedia.fr/Blocage_(capacit%C3%A9)",
+    "type": "Ténèbres",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Branchicrok",
+    "url": "https://www.pokepedia.fr/Branchicrok",
+    "type": "Eau",
+    "category": "Physique",
+    "power": "85",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Canon Dynamax",
+    "url": "https://www.pokepedia.fr/Canon_Dynamax",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "100",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Change-Côté",
+    "url": "https://www.pokepedia.fr/Change-C%C3%B4t%C3%A9",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Choc Émotionnel",
+    "url": "https://www.pokepedia.fr/Choc_%C3%89motionnel",
+    "type": "Fée",
+    "category": "Physique",
+    "power": "75",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Croque Fort",
+    "url": "https://www.pokepedia.fr/Croque_Fort",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Dracacophonie",
+    "url": "https://www.pokepedia.fr/Dracacophonie",
+    "type": "Dragon",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Draco-Flèches",
+    "url": "https://www.pokepedia.fr/Draco-Fl%C3%A8ches",
+    "type": "Dragon",
+    "category": "Physique",
+    "power": "50",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Fontaine de Vie",
+    "url": "https://www.pokepedia.fr/Fontaine_de_Vie",
+    "type": "Eau",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Force G",
+    "url": "https://www.pokepedia.fr/Force_G",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Fourbette",
+    "url": "https://www.pokepedia.fr/Fourbette",
+    "type": "Ténèbres",
+    "category": "Physique",
+    "power": "80",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Garde-à-Joues",
+    "url": "https://www.pokepedia.fr/Garde-%C3%A0-Joues",
+    "type": "Normal",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Gladius Maximus",
+    "url": "https://www.pokepedia.fr/Gladius_Maximus",
+    "type": "Acier",
+    "category": "Physique",
+    "power": "100",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Goudronnage",
+    "url": "https://www.pokepedia.fr/Goudronnage",
+    "type": "Roche",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Joute Astrale",
+    "url": "https://www.pokepedia.fr/Joute_Astrale",
+    "type": "Combat",
+    "category": "Physique",
+    "power": "150",
+    "precision": "100",
+    "pp": "5"
+  },
+  {
+    "name": "Laser Infinimax",
+    "url": "https://www.pokepedia.fr/Laser_Infinimax",
+    "type": "Dragon",
+    "category": "Spéciale",
+    "power": "160",
+    "precision": "90",
+    "pp": "5"
+  },
+  {
+    "name": "Métalaser",
+    "url": "https://www.pokepedia.fr/M%C3%A9talaser",
+    "type": "Acier",
+    "category": "Spéciale",
+    "power": "145",
+    "precision": "95",
+    "pp": "5"
+  },
+  {
+    "name": "Nappage",
+    "url": "https://www.pokepedia.fr/Nappage",
+    "type": "Fée",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "15"
+  },
+  {
+    "name": "Octoprise",
+    "url": "https://www.pokepedia.fr/Octoprise",
+    "type": "Combat",
+    "category": "Statut",
+    "power": "—",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Overdrive",
+    "url": "https://www.pokepedia.fr/Overdrive_(capacit%C3%A9)",
+    "type": "Électrik",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Roue Libre",
+    "url": "https://www.pokepedia.fr/Roue_Libre",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "110",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Poudre Magique",
+    "url": "https://www.pokepedia.fr/Poudre_Magique",
+    "type": "Psy",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "20"
+  },
+  {
+    "name": "Prise de Bec",
+    "url": "https://www.pokepedia.fr/Prise_de_Bec",
+    "type": "Électrik",
+    "category": "Physique",
+    "power": "85",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Tambour Battant",
+    "url": "https://www.pokepedia.fr/Tambour_Battant",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "80",
+    "precision": "100",
+    "pp": "10"
+  },
+  {
+    "name": "Tapotige",
+    "url": "https://www.pokepedia.fr/Tapotige",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "40",
+    "precision": "100",
+    "pp": "40"
+  },
+  {
+    "name": "Thérémonie",
+    "url": "https://www.pokepedia.fr/Th%C3%A9r%C3%A9monie",
+    "type": "Normal",
+    "category": "Spéciale",
+    "power": "—",
+    "precision": "—",
+    "pp": "10"
+  },
+  {
+    "name": "Tir de Précision",
+    "url": "https://www.pokepedia.fr/Tir_de_Pr%C3%A9cision",
+    "type": "Eau",
+    "category": "Spéciale",
+    "power": "80",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Troquenard",
+    "url": "https://www.pokepedia.fr/Troquenard",
+    "type": "Plante",
+    "category": "Physique",
+    "power": "35",
+    "precision": "100",
+    "pp": "15"
+  },
+  {
+    "name": "Ultime Bastion",
+    "url": "https://www.pokepedia.fr/Ultime_Bastion",
+    "type": "Combat",
+    "category": "Statut",
+    "power": "—",
+    "precision": "—",
+    "pp": "5"
+  },
+  {
+    "name": "Vapeur Féérique",
+    "url": "https://www.pokepedia.fr/Vapeur_F%C3%A9%C3%A9rique",
+    "type": "Fée",
+    "category": "Spéciale",
+    "power": "90",
+    "precision": "95",
+    "pp": "10"
+  }
+]
